@@ -3,6 +3,58 @@
   <channel id="RenegadesINFO">
     <display-name lang="en">Renegades INFO</display-name>
   </channel>
+  <channel id="NFL">
+    <display-name lang="en">NFL</display-name>
+    <url>http://www.merge-xmltv</url>
+  </channel>
+  <channel id="NFL2">
+    <display-name lang="en">NFL2</display-name>
+    <url>http://www.merge-xmltv</url>
+  </channel>
+  <channel id="NFL3">
+    <display-name lang="en">NFL3</display-name>
+    <url>http://www.merge-xmltv</url>
+  </channel>
+  <channel id="NFL4">
+    <display-name lang="en">NFL4</display-name>
+    <url>http://www.merge-xmltv</url>
+  </channel>
+  <channel id="NFL5">
+    <display-name lang="en">NFL5</display-name>
+    <url>http://www.merge-xmltv</url>
+  </channel>
+  <channel id="NFL6">
+    <display-name lang="en">NFL6</display-name>
+    <url>http://www.merge-xmltv</url>
+  </channel>
+  <channel id="NFL7">
+    <display-name lang="en">NFL7</display-name>
+    <url>http://www.merge-xmltv</url>
+  </channel>
+  <channel id="NFL8">
+    <display-name lang="en">NFL8</display-name>
+    <url>http://www.merge-xmltv</url>
+  </channel>
+  <channel id="NFL9">
+    <display-name lang="en">NFL9</display-name>
+    <url>http://www.merge-xmltv</url>
+  </channel>
+  <channel id="NFL10">
+    <display-name lang="en">NFL10</display-name>
+    <url>http://www.merge-xmltv</url>
+  </channel>
+  <channel id="NFL11">
+    <display-name lang="en">NFL11</display-name>
+    <url>http://www.merge-xmltv</url>
+  </channel>
+  <channel id="NFL12">
+    <display-name lang="en">NFL12</display-name>
+    <url>http://www.merge-xmltv</url>
+  </channel>
+  <channel id="NFL13">
+    <display-name lang="en">NFL13</display-name>
+    <url>http://www.merge-xmltv</url>
+  </channel>
   <channel id="Sky Sports 1">
     <display-name lang="en">Sky Sports 1</display-name>
     <url>http://www.merge-xmltv</url>
@@ -357,58 +409,6 @@
   </channel>
   <channel id="NFL Network">
     <display-name lang="en">NFL Network</display-name>
-    <url>http://www.merge-xmltv</url>
-  </channel>
-  <channel id="NFL">
-    <display-name lang="en">NFL</display-name>
-    <url>http://www.merge-xmltv</url>
-  </channel>
-  <channel id="NFL2">
-    <display-name lang="en">NFL2</display-name>
-    <url>http://www.merge-xmltv</url>
-  </channel>
-  <channel id="NFL3">
-    <display-name lang="en">NFL3</display-name>
-    <url>http://www.merge-xmltv</url>
-  </channel>
-  <channel id="NFL4">
-    <display-name lang="en">NFL4</display-name>
-    <url>http://www.merge-xmltv</url>
-  </channel>
-  <channel id="NFL5">
-    <display-name lang="en">NFL5</display-name>
-    <url>http://www.merge-xmltv</url>
-  </channel>
-  <channel id="NFL6">
-    <display-name lang="en">NFL6</display-name>
-    <url>http://www.merge-xmltv</url>
-  </channel>
-  <channel id="NFL7">
-    <display-name lang="en">NFL7</display-name>
-    <url>http://www.merge-xmltv</url>
-  </channel>
-  <channel id="NFL8">
-    <display-name lang="en">NFL8</display-name>
-    <url>http://www.merge-xmltv</url>
-  </channel>
-  <channel id="NFL9">
-    <display-name lang="en">NFL9</display-name>
-    <url>http://www.merge-xmltv</url>
-  </channel>
-  <channel id="NFL10">
-    <display-name lang="en">NFL10</display-name>
-    <url>http://www.merge-xmltv</url>
-  </channel>
-  <channel id="NFL11">
-    <display-name lang="en">NFL11</display-name>
-    <url>http://www.merge-xmltv</url>
-  </channel>
-  <channel id="NFL12">
-    <display-name lang="en">NFL12</display-name>
-    <url>http://www.merge-xmltv</url>
-  </channel>
-  <channel id="NFL13">
-    <display-name lang="en">NFL13</display-name>
     <url>http://www.merge-xmltv</url>
   </channel>
   <channel id="NHL Network">
