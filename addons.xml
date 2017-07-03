@@ -1,0 +1,233 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<addons>
+
+<addon id="plugin.video.youtube" name="YouTube" version="5.3.13" provider-name="bromix">
+	<requires>
+		<import addon="xbmc.python" version="2.19.0"/>
+        <import addon="script.module.requests" version="2.12.4"/>
+	</requires>
+	<extension point="xbmc.python.pluginsource" library="resources/lib/default.py">
+		<provides>video</provides>
+	</extension>
+    <extension point="xbmc.service" library="resources/lib/startup.py" start="startup" />
+	<extension point="xbmc.python.module" library="resources/lib/" />
+	<extension point="xbmc.addon.metadata">
+        <news>
+            set content_type to files for search history
+            Updated cypher
+            Updated subtitles.py
+            add youtube_resolver.resolve for module endpoint, allows other add-onâ€¦ â€¦	d3ab6ca
+            change search limit to slider and increase limit to 200	103f84b
+            sqlite increase timeout	96a17ca
+            refactor to relative imports, add module extension point
+            refactor dash to allow in ask for quality
+            [fix/upd] replace custom simple_requests with script.module.requests to resolve ssl and cross-platform issues
+            [add] 'Reset access manager' added to Maintenance section, sign out process(available when logged out) to clean up tokens in settings.xml
+            [upd] set default for SSL certificate verification to 'true'
+        </news>
+        <assets>
+            <icon>icon.png</icon>
+            <fanart>fanart.jpg</fanart>
+        </assets>
+        <summary lang="en">Plugin for YouTube</summary>
+        <description lang="en">YouTube is one of the biggest video-sharing websites of the world.</description>
+		<summary lang="de">Plugin fÃ¼r YouTube</summary>
+        <description lang="de">YouTube ist eines der grÃ¶ÃŸten Video-Sharing-Websites der Welt.</description>
+        <summary lang="pl">Wtyczka YouTube</summary>
+        <description lang="pl">YouTube jest jednym z najwiÄ™kszych na Å›wiecie serwisÃ³w udostÄ™pniania wideo.</description>
+		<summary lang="hu">KiegÃ©szÃ­tÅ‘  a YouTube-hoz</summary>
+        <description lang="hu">A YouTube vilÃ¡g egyik legnagyobb videÃ³megosztÃ³ weboldala.</description>
+        <summary lang="es">Plugin para YouTube</summary>
+        <description lang="es">YouTube es un uno de los mayores sitios web de intercambio de vÃ­deos del mundo.</description>
+        <summary lang="ru">Ð’Ð¸Ð´ÐµÐ¾Ð´Ð¾Ð¿Ð¾Ð»Ð½ÐµÐ½Ð¸Ðµ YouTube</summary>
+        <description lang="ru">Ð”Ð°Ð½Ð½Ð¾Ðµ Ð´Ð¾Ð¿Ð¾Ð»Ð½ÐµÐ½Ð¸Ðµ Ð¿Ð¾Ð·Ð²Ð¾Ð»ÑÐµÑ‚ Ð½Ð°Ñ…Ð¾Ð´Ð¸Ñ‚ÑŒ Ð¸ ÑÐ¼Ð¾Ñ‚Ñ€ÐµÑ‚ÑŒ Ð²Ð¸Ð´ÐµÐ¾ Ð½Ð° Ð²ÑÐµÐ¼Ð¸ Ð»ÑŽÐ±Ð¸Ð¼Ð¾Ð¼ ÑÐ°Ð¹Ñ‚Ðµ.</description>
+        <summary lang="fr">Plugin pour YouTube</summary>
+        <description lang="fr">YouTube est l'un des plus grands sites de partage vidÃ©os du monde.</description>
+        <summary lang="zh">YouTubeé™„åŠ å…ƒä»¶</summary>
+        <description lang="zh">ã€ŒYoutubeã€æ˜¯å…¨ä¸–ç•Œæœ€å¤§çš„å½±ç‰‡åˆ†äº«ç¶²ç«™</description>
+        <summary lang="bg">Ð”Ð¾Ð±Ð°Ð²ÐºÐ° Ð·Ð° YouTube</summary>
+        <description lang="bg">YouTube Ðµ ÐµÐ´Ð¸Ð½ Ð¾Ñ‚ Ð½Ð°Ð¹-Ð³Ð¾Ð»ÐµÐ¼Ð¸Ñ‚Ðµ ÑƒÐµÐ± ÑÐ°Ð¹Ñ‚Ð¾Ð²Ðµ Ð·Ð° ÑÐ¿Ð¾Ð´ÐµÐ»ÑÐ½Ðµ Ð½Ð° Ð²Ð¸Ð´ÐµÐ¾ Ð² Ñ†ÐµÐ»Ð¸Ñ ÑÐ²ÑÑ‚.</description>
+		<summary lang="el">Î ÏÏŒÏƒÎ¸ÎµÏ„Î¿ YouTube</summary>
+        <description lang="el">Î¤Î¿ YouTube ÎµÎ¯Î½Î±Î¹ Î¼Î¯Î± Î±Ï€ÏŒ Ï„Î¹Ï‚ Î¼ÎµÎ³Î±Î»ÏÏ„ÎµÏÎµÏ‚ Î¹ÏƒÏ„Î¿ÏƒÎµÎ»Î¯Î´ÎµÏ‚ Î´Î¹Î±Î¼Î¿Î¹ÏÎ±ÏƒÎ¼Î¿Ï Î²Î¯Î½Ï„ÎµÎ¿ ÏƒÏ„Î¿Î½ ÎºÏŒÏƒÎ¼Î¿.</description>
+        <summary lang="no">Tillegg for YouTube</summary>
+        <description lang="no">YouTube er en av verdens stÃ¸rste nettsider for videodeling.</description>
+        <disclaimer lang="en"></disclaimer>
+		<language></language>
+		<platform>all</platform>
+		<license>GNU GENERAL PUBLIC LICENSE. Version 2, June 1991</license>
+		<forum>http://forum.kodi.tv/showthread.php?tid=267160</forum>
+		<website>http://www.youtube.com</website>
+		<email>ytplugin at datanet dot ws</email>
+		<source>https://github.com/Kolifanes/plugin.video.youtube</source>
+	</extension>
+</addon>
+
+
+<addon id="plugin.program.fixtures"
+version="0.0.24"
+name="Sports Fixtures"
+provider-name="primaeval">
+<requires>
+  <import addon="xbmc.python" version="2.20.0"/>
+  <import addon="script.module.xbmcswift2" version="2.4.0"/>
+  <import addon="script.module.requests" version="2.9.1" />
+  <import addon="script.module.pil" />
+  <import addon="script.module.beautifulsoup4" />
+</requires>
+<extension point="xbmc.python.pluginsource" library="main.py">
+  <provides>executable</provides>
+</extension>
+<extension point="xbmc.addon.metadata">
+  <summary lang="en">Sports Fixtures</summary>
+  <description lang="en">Sports Fixtures with Channel Information.</description>
+  <disclaimer lang="en">Unofficial front end to www.getyourfixtures.com</disclaimer>
+</extension>
+</addon>
+
+
+<addon id="script.renegadestv" name="Renegades" version="3.0.2" provider-name="Ant,Primaeval,RayW1986,Bluezed,Podgod">
+	<requires>
+		<import addon="xbmc.python" version="2.19.0"/>
+		<import addon="script.module.simplejson" version="3.3.0"/>
+        <import addon="script.module.requests" version="2.9.1" />
+        <import addon="script.module.dateutil" version="2.5.3" />
+        <import addon="script.module.pil" />
+		<import addon="script.module.addon.common" version="2.0.0"/>
+		<import addon="script.module.t0mm0.common" version="2.1.1"/>
+		<import addon="script.module.beautifulsoup"/>
+		<import addon="plugin.program.super.favourites"/>
+		<import addon="script.renegadesmeta"/>
+		<import addon="repository.renegades"/>
+		<import addon="plugin.video.meta" optional="true"/>
+		<import addon="plugin.video.metalliq" optional="true"/>
+		<import addon="plugin.program.fixtures" optional="true"/>
+	</requires>
+ 	<extension point="xbmc.python.script" library="addon.py">
+		<provides>executable</provides>
+    </extension>
+    <extension point="xbmc.service" library="service.py" start="login"/>
+	<extension point="xbmc.addon.metadata">
+		<summary lang="be">Renegades TV allows you to combine some of your favourite live TV plugins for use with a fully working EPG</summary>
+		<summary lang="ca">Guia de TV amb suport de XMLTV i flux de dades</summary>
+		<summary lang="da">Renegades TV allows you to combine some of your favourite live TV plugins for use with a fully working EPG</summary>
+		<summary lang="de">Renegades TV erlaubt es Ihre Live TV Plugins mit einem TV Guide zu kombinieren</summary>
+		<summary lang="el">ÃŽÅ¸ÃŽÂ´ÃŽÂ·ÃŽÂ³ÃÅ’Ãâ€š ÃŽÂ¤ÃŽÂ·ÃŽÂ»ÃŽÂµÃÅ’ÃÂÃŽÂ±ÃÆ’ÃŽÂ·Ãâ€š ÃŽÂ¼ÃŽÂµ XMLTV ÃŽÂºÃŽÂ±ÃŽÂ¹ Ãâ€¦Ãâ‚¬ÃŽÂ¿ÃÆ’Ãâ€žÃŽÂ®ÃÂÃŽÂ¹ÃŽÂ¾ÃŽÂ· ÃÂÃŽÂ¿ÃÅ½ÃŽÂ½</summary>
+		<summary lang="en">Renegades TV allows you to combine some of your favourite live TV plugins for use with a fully working EPG</summary>
+		<summary lang="en_US">Renegades TV allows you to combine some of your favourite live TV plugins for use with a fully working EPG</summary>
+		<summary lang="es">TV Guide con XMLTV y soporte para streaming</summary>
+		<summary lang="fr">Guide TV avec support du XMLTV et du streaming</summary>
+		<summary lang="fr_CA">Guide tÃƒÂ©lÃƒÂ© avec prise en charge de XMLTV et de la lecture en transit</summary>
+		<summary lang="gl">GuÃƒÂ­a de TV con soporte XMLTV e transmisiÃƒÂ³ns</summary>
+		<summary lang="he">Ã—Å¾Ã—â€œÃ—Â¨Ã—â„¢Ã—Å¡ Ã—ÂªÃ—â€ºÃ—Â Ã—â„¢Ã—â€¢Ã—Âª Ã—Â¢Ã—Â Ã—ÂªÃ—Å¾Ã—â„¢Ã—â€ºÃ—â€ Ã—â€˜-XMLTV Ã—â€¢Ã—â€Ã—â€“Ã—Â¨Ã—Å¾Ã—â€</summary>
+		<summary lang="hr">TV vodiÃ„Â sa XMLTV podrÃ…Â¡kom i podrÃ…Â¡kom streamanja</summary>
+		<summary lang="id">Panduan Siaran TV dengan dukungan XMLTV dan streaming</summary>
+		<summary lang="it">Guida TV con supporto XMLTV e streaming</summary>
+		<summary lang="ko">XMLTVÃ¬â„¢â‚¬ Ã¬Å Â¤Ã­Å Â¸Ã«Â¦Â¬Ã«Â°ÂÃ¬Ââ€ž Ã¬Â§â‚¬Ã¬â€ºÂÃ­â€¢ËœÃ«Å â€ TV Guide</summary>
+		<summary lang="nl">TVgids met XMLTV en streaming ondersteuning</summary>
+		<summary lang="pl">TV Guide obsÃ…â€šugujÃ„â€¦cy XMLTV oraz transmisjÃ„â„¢ strumieniowÃ„â€¦</summary>
+		<summary lang="pt">Guia TV com suporte XMLTV e transmissÃƒÂµes</summary>
+		<summary lang="pt_BR">Guia de TV com XMLTV e suporte para transmissÃƒÂ£o online</summary>
+		<summary lang="sk">TV Program s podporou XMLTV a streamovania</summary>
+		<summary lang="sv">TV-guide med XML-TV och strÃƒÂ¶mningsstÃƒÂ¶d</summary>
+		<summary lang="zh">Ã¦â€Â¯Ã¦Å’ÂXMLTVÃ¥â€™Å’Ã¦ÂµÂÃ§Å¡â€žÃ§â€ÂµÃ¨Â§â€ Ã¦Å’â€¡Ã¥Ââ€”</summary>
+		<description lang="be">Renegades TV allows you to combine some of your favourite live TV plugins for use with a fully working EPG</description>
+		<description lang="ca">Guia de TV amb suport de XMLTV i flux de dades</description>
+		<description lang="da">TV Guide med XMLTV og streaming support</description>
+		<description lang="de">Renegades TV erlaubt es Ihre Live TV Plugins mit einem TV Guide zu kombinieren</description>
+		<description lang="el">ÃŽÅ¸ÃŽÂ´ÃŽÂ·ÃŽÂ³ÃÅ’Ãâ€š ÃŽÂ¤ÃŽÂ·ÃŽÂ»ÃŽÂµÃÅ’ÃÂÃŽÂ±ÃÆ’ÃŽÂ·Ãâ€š ÃŽÂ¼ÃŽÂµ XMLTV ÃŽÂºÃŽÂ±ÃŽÂ¹ Ãâ€¦Ãâ‚¬ÃŽÂ¿ÃÆ’Ãâ€žÃŽÂ®ÃÂÃŽÂ¹ÃŽÂ¾ÃŽÂ· ÃÂÃŽÂ¿ÃÅ½ÃŽÂ½</description>
+		<description lang="en">Renegades TV allows you to combine some of your favourite live TV plugins for use with a fully working EPG</description>
+		<description lang="en_US">TRenegades TV allows you to combine some of your favourite live TV plugins for use with a fully working EPG</description>
+		<description lang="es">TV Guide con XMLTV y soporte para streaming</description>
+		<description lang="fr">Guide TV avec support du XMLTV et du streaming</description>
+		<description lang="fr_CA">Guide tÃƒÂ©lÃƒÂ© avec prise en charge de XMLTV et de la lecture en transit</description>
+		<description lang="gl">GuÃƒÂ­a de TV con soporte XMLTV e transmisiÃƒÂ³ns</description>
+		<description lang="he">Ã—Å¾Ã—â€œÃ—Â¨Ã—â„¢Ã—Å¡ Ã—ÂªÃ—â€ºÃ—Â Ã—â„¢Ã—â€¢Ã—Âª Ã—Â¢Ã—Â Ã—ÂªÃ—Å¾Ã—â„¢Ã—â€ºÃ—â€ Ã—â€˜-XMLTV Ã—â€¢Ã—â€Ã—â€“Ã—Â¨Ã—Å¾Ã—â€</description>
+		<description lang="hr">TV vodiÃ„Â sa XMLTV podrÃ…Â¡kom i podrÃ…Â¡kom streamanja</description>
+		<description lang="id">Panduan Siaran TV dengan dukungan XMLTV dan streaming</description>
+		<description lang="it">Guida TV con supporto XMLTV e streaming</description>
+		<description lang="ko">XMLTVÃ¬â„¢â‚¬ Ã¬Å Â¤Ã­Å Â¸Ã«Â¦Â¬Ã«Â°ÂÃ¬Ââ€ž Ã¬Â§â‚¬Ã¬â€ºÂÃ­â€¢ËœÃ«Å â€ TV Guide</description>
+		<description lang="nl">TVgids met XMLTV en streaming ondersteuning</description>
+		<description lang="pl">TV Guide obsÃ…â€šugujÃ„â€¦cy XMLTV oraz transmisjÃ„â„¢ strumieniowÃ„â€¦</description>
+		<description lang="pt">Guia TV com suporte XMLTV e transmissÃƒÂµes</description>
+		<description lang="pt_BR">Guia de TV com XMLTV e suporte para transmissÃƒÂ£o online</description>
+		<description lang="sk">TV Program s podporou XMLTV a streamovania</description>
+		<description lang="sv">TV-guide med XML-TV och strÃƒÂ¶mningsstÃƒÂ¶d</description>
+		<description lang="zh">Ã¦â€Â¯Ã¦Å’ÂXMLTVÃ¥â€™Å’Ã¦ÂµÂÃ§Å¡â€žÃ§â€ÂµÃ¨Â§â€ Ã¦Å’â€¡Ã¥Ââ€”</description>
+		<disclaimer lang="en">Renegades is based on code from TV Guide Fullscreen by Primaeval and also FTV Guide by Bluezed and RayW1986, which is based on the original TV Guide addon by twinther.</disclaimer>
+		<language></language>
+		<platform>all</platform>
+		<license>GPLv2</license>
+		<forum></forum>
+		<source></source>
+        <website></website>
+		<email></email>
+	</extension>
+</addon>
+
+
+<addon id="script.renegadesmeta" name="renegadesmeta" version="0.1.2" provider-name="podgod">
+  <requires>
+    <import addon="xbmc.python" version="2.20.0"/>
+    <import addon="script.module.requests"/>
+    <import addon="script.module.futures" version="2.2.0"/>
+  </requires>
+	<provides>executable</provides>
+  <extension point="xbmc.python.pluginsource" library="addon.py">
+
+  </extension>
+
+  <extension point="xbmc.service" library="service.py" start="[login|startup]">
+  </extension>
+
+  <extension point="kodi.context.item" library="context_playable.py">
+    <provides>executable</provides>
+      <item>
+        <label>$ADDON[plugin.video.meta 31002]</label>
+        <visible>!System.HasAddon(context.meta) + [StringCompare(ListItem.dbtype,movie) | StringCompare(ListItem.dbtype,episode)] + SubString(ListItem.FileNameAndPath, plugin.video.meta)</visible>
+      </item>
+  </extension>
+
+  <extension point="kodi.context.item" library="context_tvshow.py">
+    <provides>executable</provides>
+      <item>
+        <label>$ADDON[plugin.video.meta 31022]</label>
+        <visible>StringCompare(ListItem.dbtype,tvshow) + SubString(ListItem.Path, plugin.video.meta)</visible>
+      </item>
+  </extension>
+
+  <extension point="xbmc.addon.metadata">
+    <platform>all</platform>
+    <language></language>
+    <summary>For use with the Renegades TV Guide</summary>
+    <description>This is simply a fork of the Meta addon, modified for use with the Renegades TV Guide. Credit and thanks to all devs involved.</description>
+    <supportedcontent>
+      <content>movies</content>
+      <content>tvshows</content>
+      <content>episodes</content>
+    </supportedcontent>
+  </extension>
+</addon>
+
+
+<addon id="plugin.video.renegadesdarts"
+	name="Renegades Darts"
+	version="2.2.0"
+	provider-name="Coldkeys/AP">
+  <requires>
+    <import addon="xbmc.python" version="2.1.0"/>
+    <import addon="script.module.addon.common" version="2.0.0"/>
+    <import addon="plugin.video.youtube" version="5.3.13"/>
+  </requires>
+  <extension point="xbmc.python.pluginsource" library="default.py">
+    <provides>video</provides>
+  </extension>
+  <extension point="xbmc.addon.metadata">
+    <summary lang="en">Renegades Darts</summary>
+    <description lang="en">PDC and BDO darts on YouTube</description>
+    <platform>all</platform>
+    <forum>n/a</forum>
+    <website>n/a</website>
+  </extension>
+</addon>
+
+</addons>
