@@ -2,1342 +2,1258 @@
 <tv generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version  V2.0 -- Jan van Straaten" generator-info-url="http://www.webgrabplus.com">
   <channel id="900">
     <display-name lang="en">Cheers</display-name>
-    <url>http://www.247</url>
   </channel>
   <channel id="901">
     <display-name lang="en">24</display-name>
-    <url>http://www.247</url>
   </channel>
   <channel id="902">
     <display-name lang="en">Prison Break</display-name>
-    <url>http://www.247</url>
   </channel>
   <channel id="903">
     <display-name lang="en">Vikings</display-name>
-    <url>http://www.247</url>
   </channel>
   <channel id="904">
     <display-name lang="en">Oz</display-name>
-    <url>http://www.247</url>
   </channel>
   <channel id="905">
     <display-name lang="en">UFC Network</display-name>
-    <url>http://www.247</url>
   </channel>
   <channel id="906">
     <display-name lang="en">Adventure Time</display-name>
-    <url>http://www.247</url>
   </channel>
   <channel id="907">
     <display-name lang="en">Always Sunny in Philadelphia</display-name>
-    <url>http://www.247</url>
   </channel>
   <channel id="908">
     <display-name lang="en">American Dad</display-name>
-    <url>http://www.247</url>
   </channel>
   <channel id="909">
     <display-name lang="en">Archer</display-name>
-    <url>http://www.247</url>
   </channel>
   <channel id="910">
     <display-name lang="en">Aqua Teen Hunger Force</display-name>
-    <url>http://www.247</url>
   </channel>
   <channel id="911">
     <display-name lang="en">Better Call Saul</display-name>
-    <url>http://www.247</url>
   </channel>
   <channel id="912">
     <display-name lang="en">Bobs Burgers</display-name>
-    <url>http://www.247</url>
   </channel>
   <channel id="913">
     <display-name lang="en">Breaking Bad</display-name>
-    <url>http://www.247</url>
   </channel>
   <channel id="914">
     <display-name lang="en">Brickleberry</display-name>
-    <url>http://www.247</url>
   </channel>
   <channel id="915">
     <display-name lang="en">Community</display-name>
-    <url>http://www.247</url>
   </channel>
   <channel id="916">
     <display-name lang="en">Family Guy</display-name>
-    <url>http://www.247</url>
   </channel>
   <channel id="917">
     <display-name lang="en">Futurama</display-name>
-    <url>http://www.247</url>
   </channel>
   <channel id="918">
     <display-name lang="en">Game of Thrones</display-name>
-    <url>http://www.247</url>
   </channel>
   <channel id="919">
     <display-name lang="en">Heroes</display-name>
-    <url>http://www.247</url>
   </channel>
   <channel id="920">
     <display-name lang="en">How i Met Your Mother</display-name>
-    <url>http://www.247</url>
   </channel>
   <channel id="921">
     <display-name lang="en">House</display-name>
-    <url>http://www.247</url>
   </channel>
   <channel id="922">
     <display-name lang="en">House of Cards</display-name>
-    <url>http://www.247</url>
   </channel>
   <channel id="923">
     <display-name lang="en">King of the Hill</display-name>
-    <url>http://www.247</url>
   </channel>
   <channel id="924">
     <display-name lang="en">Lost</display-name>
-    <url>http://www.247</url>
   </channel>
   <channel id="925">
     <display-name lang="en">Mad Men</display-name>
-    <url>http://www.247</url>
   </channel>
   <channel id="926">
     <display-name lang="en">Man vs Wild</display-name>
-    <url>http://www.247</url>
   </channel>
   <channel id="927">
     <display-name lang="en">Poker Channel</display-name>
-    <url>http://www.247</url>
   </channel>
   <channel id="928">
     <display-name lang="en">Rick and Morty</display-name>
-    <url>http://www.247</url>
   </channel>
   <channel id="929">
     <display-name lang="en">Scrubs</display-name>
-    <url>http://www.247</url>
   </channel>
   <channel id="930">
     <display-name lang="en">Smallville</display-name>
-    <url>http://www.247</url>
   </channel>
   <channel id="931">
     <display-name lang="en">Sons of Anarchy</display-name>
-    <url>http://www.247</url>
   </channel>
   <channel id="932">
     <display-name lang="en">South Park</display-name>
-    <url>http://www.247</url>
   </channel>
   <channel id="933">
     <display-name lang="en">Spartacus</display-name>
-    <url>http://www.247</url>
   </channel>
   <channel id="934">
     <display-name lang="en">Stargate</display-name>
-    <url>http://www.247</url>
   </channel>
   <channel id="935">
     <display-name lang="en">Supernatural</display-name>
-    <url>http://www.247</url>
   </channel>
   <channel id="936">
     <display-name lang="en">The 100</display-name>
-    <url>http://www.247</url>
   </channel>
   <channel id="937">
     <display-name lang="en">The Big Bang Theory</display-name>
-    <url>http://www.247</url>
   </channel>
   <channel id="938">
     <display-name lang="en">The Cleveland Show</display-name>
-    <url>http://www.247</url>
   </channel>
   <channel id="939">
     <display-name lang="en">The Office</display-name>
-    <url>http://www.247</url>
   </channel>
   <channel id="940">
     <display-name lang="en">The Simpsons</display-name>
-    <url>http://www.247</url>
   </channel>
   <channel id="941">
     <display-name lang="en">The Walking Dead</display-name>
-    <url>http://www.247</url>
   </channel>
   <channel id="942">
     <display-name lang="en">Trip Tank</display-name>
-    <url>http://www.247</url>
   </channel>
   <channel id="943">
     <display-name lang="en">Weeds</display-name>
-    <url>http://www.247</url>
   </channel>
   <channel id="944">
     <display-name lang="en">Workaholics</display-name>
-    <url>http://www.247</url>
   </channel>
   <channel id="989">
     <display-name lang="en">30 Rock</display-name>
-    <url>http://www.247</url>
   </channel>
   <channel id="988">
     <display-name lang="en">Aliens &amp; UFOs</display-name>
-    <url>http://www.247</url>
   </channel>
   <channel id="945">
     <display-name lang="en">Arrested Development</display-name>
-    <url>http://www.247</url>
   </channel>
   <channel id="946">
     <display-name lang="en">Beast Wars</display-name>
-    <url>http://www.247</url>
   </channel>
   <channel id="947">
     <display-name lang="en">Chuck</display-name>
-    <url>http://www.247</url>
   </channel>
   <channel id="948">
     <display-name lang="en">Crime Central</display-name>
-    <url>http://www.247</url>
   </channel>
   <channel id="949">
     <display-name lang="en">Dexter</display-name>
-    <url>http://www.247</url>
   </channel>
   <channel id="950">
     <display-name lang="en">Discovery House</display-name>
-    <url>http://www.247</url>
   </channel>
   <channel id="954">
     <display-name lang="en">Dragonball GT</display-name>
-    <url>http://www.247</url>
   </channel>
   <channel id="955">
     <display-name lang="en">Dr Who</display-name>
-    <url>http://www.247</url>
   </channel>
   <channel id="956">
     <display-name lang="en">Flinstones</display-name>
-    <url>http://www.247</url>
   </channel>
   <channel id="957">
     <display-name lang="en">Friends</display-name>
-    <url>http://www.247</url>
   </channel>
   <channel id="958">
     <display-name lang="en">Fringe</display-name>
-    <url>http://www.247</url>
   </channel>
   <channel id="959">
     <display-name lang="en">Haunted House</display-name>
-    <url>http://www.247</url>
   </channel>
   <channel id="960">
     <display-name lang="en">Home Improvements</display-name>
-    <url>http://www.247</url>
   </channel>
   <channel id="961">
     <display-name lang="en">Hardcore Pawn</display-name>
-    <url>http://www.247</url>
   </channel>
   <channel id="962">
     <display-name lang="en">Impractical Jokers</display-name>
-    <url>http://www.247</url>
   </channel>
   <channel id="963">
     <display-name lang="en">Law &amp; Order</display-name>
-    <url>http://www.247</url>
   </channel>
   <channel id="964">
     <display-name lang="en">Little House on the Prairie</display-name>
-    <url>http://www.247</url>
   </channel>
   <channel id="965">
     <display-name lang="en">Looney Toons</display-name>
-    <url>http://www.247</url>
   </channel>
   <channel id="966">
     <display-name lang="en">Married With Children</display-name>
-    <url>http://www.247</url>
   </channel>
   <channel id="967">
     <display-name lang="en">MasterChef</display-name>
-    <url>http://www.247</url>
   </channel>
   <channel id="968">
     <display-name lang="en">NCIS</display-name>
-    <url>http://www.247</url>
   </channel>
   <channel id="969">
     <display-name lang="en">New Girl</display-name>
-    <url>http://www.247</url>
   </channel>
   <channel id="973">
     <display-name lang="en">Regular Show</display-name>
-    <url>http://www.247</url>
   </channel>
   <channel id="974">
     <display-name lang="en">Seinfeld</display-name>
-    <url>http://www.247</url>
   </channel>
   <channel id="975">
     <display-name lang="en">Star Trek NG</display-name>
-    <url>http://www.247</url>
   </channel>
   <channel id="976">
     <display-name lang="en">Suits</display-name>
-    <url>http://www.247</url>
   </channel>
   <channel id="977">
     <display-name lang="en">That 70s Show</display-name>
-    <url>http://www.247</url>
   </channel>
   <channel id="978">
     <display-name lang="en">The King of Queens</display-name>
-    <url>http://www.247</url>
   </channel>
   <channel id="979">
     <display-name lang="en">The Bugs Bunny Show</display-name>
-    <url>http://www.247</url>
   </channel>
   <channel id="980">
     <display-name lang="en">Tom &amp; Jerry</display-name>
-    <url>http://www.247</url>
   </channel>
   <channel id="981">
     <display-name lang="en">Top Gear</display-name>
-    <url>http://www.247</url>
   </channel>
   <channel id="982">
     <display-name lang="en">The Waltons</display-name>
-    <url>http://www.247</url>
   </channel>
   <channel id="983">
     <display-name lang="en">Trailer Park Boys</display-name>
-    <url>http://www.247</url>
   </channel>
   <channel id="984">
     <display-name lang="en">Sopranos</display-name>
-    <url>http://www.247</url>
   </channel>
   <channel id="985">
     <display-name lang="en">GamesMaster</display-name>
-    <url>http://www.gam</url>
   </channel>
   <channel id="986">
     <display-name lang="en">Retromania</display-name>
-    <url>http://www.247</url>
   </channel>
   <channel id="987">
     <display-name lang="en">Ntvnauta</display-name>
-    <url>http://www.247</url>
   </channel>
-  <programme start="20180914000000 +0100" stop="20180914235900 +0100" channel="900">
+  <programme start="20180917000000 +0100" stop="20180917235900 +0100" channel="900">
+    <title lang="en">900 - All Day Every Day!!!!!</title>
+    <desc lang="en">Brought to you via vdubT25</desc>
+  </programme>
+  <programme start="20180918000000 +0100" stop="20180918235900 +0100" channel="900">
+    <title lang="en">900 - All Day Every Day!!!!!</title>
+    <desc lang="en">Brought to you via vdubT25</desc>
+  </programme>
+  <programme start="20180919000000 +0100" stop="20180919235900 +0100" channel="900">
     <title lang="en">900 - All Day Every Day!!!!!</title>
     <desc lang="en">Brought to you via vdubT25(n)</desc>
   </programme>
-  <programme start="20180915000000 +0100" stop="20180915235900 +0100" channel="900">
-    <title lang="en">900 - All Day Every Day!!!!!</title>
-    <desc lang="en">Brought to you via vdubT25(n)</desc>
+  <programme start="20180917000000 +0100" stop="20180917235900 +0100" channel="901">
+    <title lang="en">901 - All Day Every Day!!!!!</title>
+    <desc lang="en">Brought to you via vdubT25</desc>
   </programme>
-  <programme start="20180916000000 +0100" stop="20180916235900 +0100" channel="900">
-    <title lang="en">900 - All Day Every Day!!!!!</title>
-    <desc lang="en">Brought to you via vdubT25(n)</desc>
+  <programme start="20180918000000 +0100" stop="20180918235900 +0100" channel="901">
+    <title lang="en">901 - All Day Every Day!!!!!</title>
+    <desc lang="en">Brought to you via vdubT25</desc>
   </programme>
-  <programme start="20180914000000 +0100" stop="20180914235900 +0100" channel="901">
+  <programme start="20180919000000 +0100" stop="20180919235900 +0100" channel="901">
     <title lang="en">901 - All Day Every Day!!!!!</title>
     <desc lang="en">Brought to you via vdubT25(n)</desc>
   </programme>
-  <programme start="20180915000000 +0100" stop="20180915235900 +0100" channel="901">
-    <title lang="en">901 - All Day Every Day!!!!!</title>
-    <desc lang="en">Brought to you via vdubT25(n)</desc>
+  <programme start="20180917000000 +0100" stop="20180917235900 +0100" channel="902">
+    <title lang="en">902 - All Day Every Day!!!!!</title>
+    <desc lang="en">Brought to you via vdubT25</desc>
   </programme>
-  <programme start="20180916000000 +0100" stop="20180916235900 +0100" channel="901">
-    <title lang="en">901 - All Day Every Day!!!!!</title>
-    <desc lang="en">Brought to you via vdubT25(n)</desc>
+  <programme start="20180918000000 +0100" stop="20180918235900 +0100" channel="902">
+    <title lang="en">902 - All Day Every Day!!!!!</title>
+    <desc lang="en">Brought to you via vdubT25</desc>
   </programme>
-  <programme start="20180914000000 +0100" stop="20180914235900 +0100" channel="902">
+  <programme start="20180919000000 +0100" stop="20180919235900 +0100" channel="902">
     <title lang="en">902 - All Day Every Day!!!!!</title>
     <desc lang="en">Brought to you via vdubT25(n)</desc>
   </programme>
-  <programme start="20180915000000 +0100" stop="20180915235900 +0100" channel="902">
-    <title lang="en">902 - All Day Every Day!!!!!</title>
-    <desc lang="en">Brought to you via vdubT25(n)</desc>
+  <programme start="20180917000000 +0100" stop="20180917235900 +0100" channel="903">
+    <title lang="en">903 - All Day Every Day!!!!!</title>
+    <desc lang="en">Brought to you via vdubT25</desc>
   </programme>
-  <programme start="20180916000000 +0100" stop="20180916235900 +0100" channel="902">
-    <title lang="en">902 - All Day Every Day!!!!!</title>
-    <desc lang="en">Brought to you via vdubT25(n)</desc>
+  <programme start="20180918000000 +0100" stop="20180918235900 +0100" channel="903">
+    <title lang="en">903 - All Day Every Day!!!!!</title>
+    <desc lang="en">Brought to you via vdubT25</desc>
   </programme>
-  <programme start="20180914000000 +0100" stop="20180914235900 +0100" channel="903">
+  <programme start="20180919000000 +0100" stop="20180919235900 +0100" channel="903">
     <title lang="en">903 - All Day Every Day!!!!!</title>
     <desc lang="en">Brought to you via vdubT25(n)</desc>
   </programme>
-  <programme start="20180915000000 +0100" stop="20180915235900 +0100" channel="903">
-    <title lang="en">903 - All Day Every Day!!!!!</title>
-    <desc lang="en">Brought to you via vdubT25(n)</desc>
+  <programme start="20180917000000 +0100" stop="20180917235900 +0100" channel="904">
+    <title lang="en">904 - All Day Every Day!!!!!</title>
+    <desc lang="en">Brought to you via vdubT25</desc>
   </programme>
-  <programme start="20180916000000 +0100" stop="20180916235900 +0100" channel="903">
-    <title lang="en">903 - All Day Every Day!!!!!</title>
-    <desc lang="en">Brought to you via vdubT25(n)</desc>
+  <programme start="20180918000000 +0100" stop="20180918235900 +0100" channel="904">
+    <title lang="en">904 - All Day Every Day!!!!!</title>
+    <desc lang="en">Brought to you via vdubT25</desc>
   </programme>
-  <programme start="20180914000000 +0100" stop="20180914235900 +0100" channel="904">
+  <programme start="20180919000000 +0100" stop="20180919235900 +0100" channel="904">
     <title lang="en">904 - All Day Every Day!!!!!</title>
     <desc lang="en">Brought to you via vdubT25(n)</desc>
   </programme>
-  <programme start="20180915000000 +0100" stop="20180915235900 +0100" channel="904">
-    <title lang="en">904 - All Day Every Day!!!!!</title>
-    <desc lang="en">Brought to you via vdubT25(n)</desc>
+  <programme start="20180917000000 +0100" stop="20180917235900 +0100" channel="905">
+    <title lang="en">905 - All Day Every Day!!!!!</title>
+    <desc lang="en">Brought to you via vdubT25</desc>
   </programme>
-  <programme start="20180916000000 +0100" stop="20180916235900 +0100" channel="904">
-    <title lang="en">904 - All Day Every Day!!!!!</title>
-    <desc lang="en">Brought to you via vdubT25(n)</desc>
+  <programme start="20180918000000 +0100" stop="20180918235900 +0100" channel="905">
+    <title lang="en">905 - All Day Every Day!!!!!</title>
+    <desc lang="en">Brought to you via vdubT25</desc>
   </programme>
-  <programme start="20180914000000 +0100" stop="20180914235900 +0100" channel="905">
+  <programme start="20180919000000 +0100" stop="20180919235900 +0100" channel="905">
     <title lang="en">905 - All Day Every Day!!!!!</title>
     <desc lang="en">Brought to you via vdubT25(n)</desc>
   </programme>
-  <programme start="20180915000000 +0100" stop="20180915235900 +0100" channel="905">
-    <title lang="en">905 - All Day Every Day!!!!!</title>
-    <desc lang="en">Brought to you via vdubT25(n)</desc>
+  <programme start="20180917000000 +0100" stop="20180917235900 +0100" channel="906">
+    <title lang="en">906 - All Day Every Day!!!!!</title>
+    <desc lang="en">Brought to you via vdubT25</desc>
   </programme>
-  <programme start="20180916000000 +0100" stop="20180916235900 +0100" channel="905">
-    <title lang="en">905 - All Day Every Day!!!!!</title>
-    <desc lang="en">Brought to you via vdubT25(n)</desc>
+  <programme start="20180918000000 +0100" stop="20180918235900 +0100" channel="906">
+    <title lang="en">906 - All Day Every Day!!!!!</title>
+    <desc lang="en">Brought to you via vdubT25</desc>
   </programme>
-  <programme start="20180914000000 +0100" stop="20180914235900 +0100" channel="906">
+  <programme start="20180919000000 +0100" stop="20180919235900 +0100" channel="906">
     <title lang="en">906 - All Day Every Day!!!!!</title>
     <desc lang="en">Brought to you via vdubT25(n)</desc>
   </programme>
-  <programme start="20180915000000 +0100" stop="20180915235900 +0100" channel="906">
-    <title lang="en">906 - All Day Every Day!!!!!</title>
-    <desc lang="en">Brought to you via vdubT25(n)</desc>
+  <programme start="20180917000000 +0100" stop="20180917235900 +0100" channel="907">
+    <title lang="en">907 - All Day Every Day!!!!!</title>
+    <desc lang="en">Brought to you via vdubT25</desc>
   </programme>
-  <programme start="20180916000000 +0100" stop="20180916235900 +0100" channel="906">
-    <title lang="en">906 - All Day Every Day!!!!!</title>
-    <desc lang="en">Brought to you via vdubT25(n)</desc>
+  <programme start="20180918000000 +0100" stop="20180918235900 +0100" channel="907">
+    <title lang="en">907 - All Day Every Day!!!!!</title>
+    <desc lang="en">Brought to you via vdubT25</desc>
   </programme>
-  <programme start="20180914000000 +0100" stop="20180914235900 +0100" channel="907">
+  <programme start="20180919000000 +0100" stop="20180919235900 +0100" channel="907">
     <title lang="en">907 - All Day Every Day!!!!!</title>
     <desc lang="en">Brought to you via vdubT25(n)</desc>
   </programme>
-  <programme start="20180915000000 +0100" stop="20180915235900 +0100" channel="907">
-    <title lang="en">907 - All Day Every Day!!!!!</title>
-    <desc lang="en">Brought to you via vdubT25(n)</desc>
+  <programme start="20180917000000 +0100" stop="20180917235900 +0100" channel="908">
+    <title lang="en">908 - All Day Every Day!!!!!</title>
+    <desc lang="en">Brought to you via vdubT25</desc>
   </programme>
-  <programme start="20180916000000 +0100" stop="20180916235900 +0100" channel="907">
-    <title lang="en">907 - All Day Every Day!!!!!</title>
-    <desc lang="en">Brought to you via vdubT25(n)</desc>
+  <programme start="20180918000000 +0100" stop="20180918235900 +0100" channel="908">
+    <title lang="en">908 - All Day Every Day!!!!!</title>
+    <desc lang="en">Brought to you via vdubT25</desc>
   </programme>
-  <programme start="20180914000000 +0100" stop="20180914235900 +0100" channel="908">
+  <programme start="20180919000000 +0100" stop="20180919235900 +0100" channel="908">
     <title lang="en">908 - All Day Every Day!!!!!</title>
     <desc lang="en">Brought to you via vdubT25(n)</desc>
   </programme>
-  <programme start="20180915000000 +0100" stop="20180915235900 +0100" channel="908">
-    <title lang="en">908 - All Day Every Day!!!!!</title>
-    <desc lang="en">Brought to you via vdubT25(n)</desc>
+  <programme start="20180917000000 +0100" stop="20180917235900 +0100" channel="909">
+    <title lang="en">909 - All Day Every Day!!!!!</title>
+    <desc lang="en">Brought to you via vdubT25</desc>
   </programme>
-  <programme start="20180916000000 +0100" stop="20180916235900 +0100" channel="908">
-    <title lang="en">908 - All Day Every Day!!!!!</title>
-    <desc lang="en">Brought to you via vdubT25(n)</desc>
+  <programme start="20180918000000 +0100" stop="20180918235900 +0100" channel="909">
+    <title lang="en">909 - All Day Every Day!!!!!</title>
+    <desc lang="en">Brought to you via vdubT25</desc>
   </programme>
-  <programme start="20180914000000 +0100" stop="20180914235900 +0100" channel="909">
+  <programme start="20180919000000 +0100" stop="20180919235900 +0100" channel="909">
     <title lang="en">909 - All Day Every Day!!!!!</title>
     <desc lang="en">Brought to you via vdubT25(n)</desc>
   </programme>
-  <programme start="20180915000000 +0100" stop="20180915235900 +0100" channel="909">
-    <title lang="en">909 - All Day Every Day!!!!!</title>
-    <desc lang="en">Brought to you via vdubT25(n)</desc>
+  <programme start="20180917000000 +0100" stop="20180917235900 +0100" channel="910">
+    <title lang="en">910 - All Day Every Day!!!!!</title>
+    <desc lang="en">Brought to you via vdubT25</desc>
   </programme>
-  <programme start="20180916000000 +0100" stop="20180916235900 +0100" channel="909">
-    <title lang="en">909 - All Day Every Day!!!!!</title>
-    <desc lang="en">Brought to you via vdubT25(n)</desc>
+  <programme start="20180918000000 +0100" stop="20180918235900 +0100" channel="910">
+    <title lang="en">910 - All Day Every Day!!!!!</title>
+    <desc lang="en">Brought to you via vdubT25</desc>
   </programme>
-  <programme start="20180914000000 +0100" stop="20180914235900 +0100" channel="910">
+  <programme start="20180919000000 +0100" stop="20180919235900 +0100" channel="910">
     <title lang="en">910 - All Day Every Day!!!!!</title>
     <desc lang="en">Brought to you via vdubT25(n)</desc>
   </programme>
-  <programme start="20180915000000 +0100" stop="20180915235900 +0100" channel="910">
-    <title lang="en">910 - All Day Every Day!!!!!</title>
-    <desc lang="en">Brought to you via vdubT25(n)</desc>
+  <programme start="20180917000000 +0100" stop="20180917235900 +0100" channel="911">
+    <title lang="en">911 - All Day Every Day!!!!!</title>
+    <desc lang="en">Brought to you via vdubT25</desc>
   </programme>
-  <programme start="20180916000000 +0100" stop="20180916235900 +0100" channel="910">
-    <title lang="en">910 - All Day Every Day!!!!!</title>
-    <desc lang="en">Brought to you via vdubT25(n)</desc>
+  <programme start="20180918000000 +0100" stop="20180918235900 +0100" channel="911">
+    <title lang="en">911 - All Day Every Day!!!!!</title>
+    <desc lang="en">Brought to you via vdubT25</desc>
   </programme>
-  <programme start="20180914000000 +0100" stop="20180914235900 +0100" channel="911">
+  <programme start="20180919000000 +0100" stop="20180919235900 +0100" channel="911">
     <title lang="en">911 - All Day Every Day!!!!!</title>
     <desc lang="en">Brought to you via vdubT25(n)</desc>
   </programme>
-  <programme start="20180915000000 +0100" stop="20180915235900 +0100" channel="911">
-    <title lang="en">911 - All Day Every Day!!!!!</title>
-    <desc lang="en">Brought to you via vdubT25(n)</desc>
+  <programme start="20180917000000 +0100" stop="20180917235900 +0100" channel="912">
+    <title lang="en">912 - All Day Every Day!!!!!</title>
+    <desc lang="en">Brought to you via vdubT25</desc>
   </programme>
-  <programme start="20180916000000 +0100" stop="20180916235900 +0100" channel="911">
-    <title lang="en">911 - All Day Every Day!!!!!</title>
-    <desc lang="en">Brought to you via vdubT25(n)</desc>
+  <programme start="20180918000000 +0100" stop="20180918235900 +0100" channel="912">
+    <title lang="en">912 - All Day Every Day!!!!!</title>
+    <desc lang="en">Brought to you via vdubT25</desc>
   </programme>
-  <programme start="20180914000000 +0100" stop="20180914235900 +0100" channel="912">
+  <programme start="20180919000000 +0100" stop="20180919235900 +0100" channel="912">
     <title lang="en">912 - All Day Every Day!!!!!</title>
     <desc lang="en">Brought to you via vdubT25(n)</desc>
   </programme>
-  <programme start="20180915000000 +0100" stop="20180915235900 +0100" channel="912">
-    <title lang="en">912 - All Day Every Day!!!!!</title>
-    <desc lang="en">Brought to you via vdubT25(n)</desc>
+  <programme start="20180917000000 +0100" stop="20180917235900 +0100" channel="913">
+    <title lang="en">913 - All Day Every Day!!!!!</title>
+    <desc lang="en">Brought to you via vdubT25</desc>
   </programme>
-  <programme start="20180916000000 +0100" stop="20180916235900 +0100" channel="912">
-    <title lang="en">912 - All Day Every Day!!!!!</title>
-    <desc lang="en">Brought to you via vdubT25(n)</desc>
+  <programme start="20180918000000 +0100" stop="20180918235900 +0100" channel="913">
+    <title lang="en">913 - All Day Every Day!!!!!</title>
+    <desc lang="en">Brought to you via vdubT25</desc>
   </programme>
-  <programme start="20180914000000 +0100" stop="20180914235900 +0100" channel="913">
+  <programme start="20180919000000 +0100" stop="20180919235900 +0100" channel="913">
     <title lang="en">913 - All Day Every Day!!!!!</title>
     <desc lang="en">Brought to you via vdubT25(n)</desc>
   </programme>
-  <programme start="20180915000000 +0100" stop="20180915235900 +0100" channel="913">
-    <title lang="en">913 - All Day Every Day!!!!!</title>
-    <desc lang="en">Brought to you via vdubT25(n)</desc>
+  <programme start="20180917000000 +0100" stop="20180917235900 +0100" channel="914">
+    <title lang="en">914 - All Day Every Day!!!!!</title>
+    <desc lang="en">Brought to you via vdubT25</desc>
   </programme>
-  <programme start="20180916000000 +0100" stop="20180916235900 +0100" channel="913">
-    <title lang="en">913 - All Day Every Day!!!!!</title>
-    <desc lang="en">Brought to you via vdubT25(n)</desc>
+  <programme start="20180918000000 +0100" stop="20180918235900 +0100" channel="914">
+    <title lang="en">914 - All Day Every Day!!!!!</title>
+    <desc lang="en">Brought to you via vdubT25</desc>
   </programme>
-  <programme start="20180914000000 +0100" stop="20180914235900 +0100" channel="914">
+  <programme start="20180919000000 +0100" stop="20180919235900 +0100" channel="914">
     <title lang="en">914 - All Day Every Day!!!!!</title>
     <desc lang="en">Brought to you via vdubT25(n)</desc>
   </programme>
-  <programme start="20180915000000 +0100" stop="20180915235900 +0100" channel="914">
-    <title lang="en">914 - All Day Every Day!!!!!</title>
-    <desc lang="en">Brought to you via vdubT25(n)</desc>
+  <programme start="20180917000000 +0100" stop="20180917235900 +0100" channel="915">
+    <title lang="en">915 - All Day Every Day!!!!!</title>
+    <desc lang="en">Brought to you via vdubT25</desc>
   </programme>
-  <programme start="20180916000000 +0100" stop="20180916235900 +0100" channel="914">
-    <title lang="en">914 - All Day Every Day!!!!!</title>
-    <desc lang="en">Brought to you via vdubT25(n)</desc>
+  <programme start="20180918000000 +0100" stop="20180918235900 +0100" channel="915">
+    <title lang="en">915 - All Day Every Day!!!!!</title>
+    <desc lang="en">Brought to you via vdubT25</desc>
   </programme>
-  <programme start="20180914000000 +0100" stop="20180914235900 +0100" channel="915">
+  <programme start="20180919000000 +0100" stop="20180919235900 +0100" channel="915">
     <title lang="en">915 - All Day Every Day!!!!!</title>
     <desc lang="en">Brought to you via vdubT25(n)</desc>
   </programme>
-  <programme start="20180915000000 +0100" stop="20180915235900 +0100" channel="915">
-    <title lang="en">915 - All Day Every Day!!!!!</title>
-    <desc lang="en">Brought to you via vdubT25(n)</desc>
+  <programme start="20180917000000 +0100" stop="20180917235900 +0100" channel="916">
+    <title lang="en">916 - All Day Every Day!!!!!</title>
+    <desc lang="en">Brought to you via vdubT25</desc>
   </programme>
-  <programme start="20180916000000 +0100" stop="20180916235900 +0100" channel="915">
-    <title lang="en">915 - All Day Every Day!!!!!</title>
-    <desc lang="en">Brought to you via vdubT25(n)</desc>
+  <programme start="20180918000000 +0100" stop="20180918235900 +0100" channel="916">
+    <title lang="en">916 - All Day Every Day!!!!!</title>
+    <desc lang="en">Brought to you via vdubT25</desc>
   </programme>
-  <programme start="20180914000000 +0100" stop="20180914235900 +0100" channel="916">
+  <programme start="20180919000000 +0100" stop="20180919235900 +0100" channel="916">
     <title lang="en">916 - All Day Every Day!!!!!</title>
     <desc lang="en">Brought to you via vdubT25(n)</desc>
   </programme>
-  <programme start="20180915000000 +0100" stop="20180915235900 +0100" channel="916">
-    <title lang="en">916 - All Day Every Day!!!!!</title>
-    <desc lang="en">Brought to you via vdubT25(n)</desc>
+  <programme start="20180917000000 +0100" stop="20180917235900 +0100" channel="917">
+    <title lang="en">917 - All Day Every Day!!!!!</title>
+    <desc lang="en">Brought to you via vdubT25</desc>
   </programme>
-  <programme start="20180916000000 +0100" stop="20180916235900 +0100" channel="916">
-    <title lang="en">916 - All Day Every Day!!!!!</title>
-    <desc lang="en">Brought to you via vdubT25(n)</desc>
+  <programme start="20180918000000 +0100" stop="20180918235900 +0100" channel="917">
+    <title lang="en">917 - All Day Every Day!!!!!</title>
+    <desc lang="en">Brought to you via vdubT25</desc>
   </programme>
-  <programme start="20180914000000 +0100" stop="20180914235900 +0100" channel="917">
+  <programme start="20180919000000 +0100" stop="20180919235900 +0100" channel="917">
     <title lang="en">917 - All Day Every Day!!!!!</title>
     <desc lang="en">Brought to you via vdubT25(n)</desc>
   </programme>
-  <programme start="20180915000000 +0100" stop="20180915235900 +0100" channel="917">
-    <title lang="en">917 - All Day Every Day!!!!!</title>
-    <desc lang="en">Brought to you via vdubT25(n)</desc>
+  <programme start="20180917000000 +0100" stop="20180917235900 +0100" channel="918">
+    <title lang="en">918 - All Day Every Day!!!!!</title>
+    <desc lang="en">Brought to you via vdubT25</desc>
   </programme>
-  <programme start="20180916000000 +0100" stop="20180916235900 +0100" channel="917">
-    <title lang="en">917 - All Day Every Day!!!!!</title>
-    <desc lang="en">Brought to you via vdubT25(n)</desc>
+  <programme start="20180918000000 +0100" stop="20180918235900 +0100" channel="918">
+    <title lang="en">918 - All Day Every Day!!!!!</title>
+    <desc lang="en">Brought to you via vdubT25</desc>
   </programme>
-  <programme start="20180914000000 +0100" stop="20180914235900 +0100" channel="918">
+  <programme start="20180919000000 +0100" stop="20180919235900 +0100" channel="918">
     <title lang="en">918 - All Day Every Day!!!!!</title>
     <desc lang="en">Brought to you via vdubT25(n)</desc>
   </programme>
-  <programme start="20180915000000 +0100" stop="20180915235900 +0100" channel="918">
-    <title lang="en">918 - All Day Every Day!!!!!</title>
-    <desc lang="en">Brought to you via vdubT25(n)</desc>
+  <programme start="20180917000000 +0100" stop="20180917235900 +0100" channel="919">
+    <title lang="en">919 - All Day Every Day!!!!!</title>
+    <desc lang="en">Brought to you via vdubT25</desc>
   </programme>
-  <programme start="20180916000000 +0100" stop="20180916235900 +0100" channel="918">
-    <title lang="en">918 - All Day Every Day!!!!!</title>
-    <desc lang="en">Brought to you via vdubT25(n)</desc>
+  <programme start="20180918000000 +0100" stop="20180918235900 +0100" channel="919">
+    <title lang="en">919 - All Day Every Day!!!!!</title>
+    <desc lang="en">Brought to you via vdubT25</desc>
   </programme>
-  <programme start="20180914000000 +0100" stop="20180914235900 +0100" channel="919">
+  <programme start="20180919000000 +0100" stop="20180919235900 +0100" channel="919">
     <title lang="en">919 - All Day Every Day!!!!!</title>
     <desc lang="en">Brought to you via vdubT25(n)</desc>
   </programme>
-  <programme start="20180915000000 +0100" stop="20180915235900 +0100" channel="919">
-    <title lang="en">919 - All Day Every Day!!!!!</title>
-    <desc lang="en">Brought to you via vdubT25(n)</desc>
+  <programme start="20180917000000 +0100" stop="20180917235900 +0100" channel="920">
+    <title lang="en">920 - All Day Every Day!!!!!</title>
+    <desc lang="en">Brought to you via vdubT25</desc>
   </programme>
-  <programme start="20180916000000 +0100" stop="20180916235900 +0100" channel="919">
-    <title lang="en">919 - All Day Every Day!!!!!</title>
-    <desc lang="en">Brought to you via vdubT25(n)</desc>
+  <programme start="20180918000000 +0100" stop="20180918235900 +0100" channel="920">
+    <title lang="en">920 - All Day Every Day!!!!!</title>
+    <desc lang="en">Brought to you via vdubT25</desc>
   </programme>
-  <programme start="20180914000000 +0100" stop="20180914235900 +0100" channel="920">
+  <programme start="20180919000000 +0100" stop="20180919235900 +0100" channel="920">
     <title lang="en">920 - All Day Every Day!!!!!</title>
     <desc lang="en">Brought to you via vdubT25(n)</desc>
   </programme>
-  <programme start="20180915000000 +0100" stop="20180915235900 +0100" channel="920">
-    <title lang="en">920 - All Day Every Day!!!!!</title>
-    <desc lang="en">Brought to you via vdubT25(n)</desc>
+  <programme start="20180917000000 +0100" stop="20180917235900 +0100" channel="921">
+    <title lang="en">921 - All Day Every Day!!!!!</title>
+    <desc lang="en">Brought to you via vdubT25</desc>
   </programme>
-  <programme start="20180916000000 +0100" stop="20180916235900 +0100" channel="920">
-    <title lang="en">920 - All Day Every Day!!!!!</title>
-    <desc lang="en">Brought to you via vdubT25(n)</desc>
+  <programme start="20180918000000 +0100" stop="20180918235900 +0100" channel="921">
+    <title lang="en">921 - All Day Every Day!!!!!</title>
+    <desc lang="en">Brought to you via vdubT25</desc>
   </programme>
-  <programme start="20180914000000 +0100" stop="20180914235900 +0100" channel="921">
+  <programme start="20180919000000 +0100" stop="20180919235900 +0100" channel="921">
     <title lang="en">921 - All Day Every Day!!!!!</title>
     <desc lang="en">Brought to you via vdubT25(n)</desc>
   </programme>
-  <programme start="20180915000000 +0100" stop="20180915235900 +0100" channel="921">
-    <title lang="en">921 - All Day Every Day!!!!!</title>
-    <desc lang="en">Brought to you via vdubT25(n)</desc>
+  <programme start="20180917000000 +0100" stop="20180917235900 +0100" channel="922">
+    <title lang="en">922 - All Day Every Day!!!!!</title>
+    <desc lang="en">Brought to you via vdubT25</desc>
   </programme>
-  <programme start="20180916000000 +0100" stop="20180916235900 +0100" channel="921">
-    <title lang="en">921 - All Day Every Day!!!!!</title>
-    <desc lang="en">Brought to you via vdubT25(n)</desc>
+  <programme start="20180918000000 +0100" stop="20180918235900 +0100" channel="922">
+    <title lang="en">922 - All Day Every Day!!!!!</title>
+    <desc lang="en">Brought to you via vdubT25</desc>
   </programme>
-  <programme start="20180914000000 +0100" stop="20180914235900 +0100" channel="922">
+  <programme start="20180919000000 +0100" stop="20180919235900 +0100" channel="922">
     <title lang="en">922 - All Day Every Day!!!!!</title>
     <desc lang="en">Brought to you via vdubT25(n)</desc>
   </programme>
-  <programme start="20180915000000 +0100" stop="20180915235900 +0100" channel="922">
-    <title lang="en">922 - All Day Every Day!!!!!</title>
-    <desc lang="en">Brought to you via vdubT25(n)</desc>
+  <programme start="20180917000000 +0100" stop="20180917235900 +0100" channel="923">
+    <title lang="en">923 - All Day Every Day!!!!!</title>
+    <desc lang="en">Brought to you via vdubT25</desc>
   </programme>
-  <programme start="20180916000000 +0100" stop="20180916235900 +0100" channel="922">
-    <title lang="en">922 - All Day Every Day!!!!!</title>
-    <desc lang="en">Brought to you via vdubT25(n)</desc>
+  <programme start="20180918000000 +0100" stop="20180918235900 +0100" channel="923">
+    <title lang="en">923 - All Day Every Day!!!!!</title>
+    <desc lang="en">Brought to you via vdubT25</desc>
   </programme>
-  <programme start="20180914000000 +0100" stop="20180914235900 +0100" channel="923">
+  <programme start="20180919000000 +0100" stop="20180919235900 +0100" channel="923">
     <title lang="en">923 - All Day Every Day!!!!!</title>
     <desc lang="en">Brought to you via vdubT25(n)</desc>
   </programme>
-  <programme start="20180915000000 +0100" stop="20180915235900 +0100" channel="923">
-    <title lang="en">923 - All Day Every Day!!!!!</title>
-    <desc lang="en">Brought to you via vdubT25(n)</desc>
+  <programme start="20180917000000 +0100" stop="20180917235900 +0100" channel="924">
+    <title lang="en">924 - All Day Every Day!!!!!</title>
+    <desc lang="en">Brought to you via vdubT25</desc>
   </programme>
-  <programme start="20180916000000 +0100" stop="20180916235900 +0100" channel="923">
-    <title lang="en">923 - All Day Every Day!!!!!</title>
-    <desc lang="en">Brought to you via vdubT25(n)</desc>
+  <programme start="20180918000000 +0100" stop="20180918235900 +0100" channel="924">
+    <title lang="en">924 - All Day Every Day!!!!!</title>
+    <desc lang="en">Brought to you via vdubT25</desc>
   </programme>
-  <programme start="20180914000000 +0100" stop="20180914235900 +0100" channel="924">
+  <programme start="20180919000000 +0100" stop="20180919235900 +0100" channel="924">
     <title lang="en">924 - All Day Every Day!!!!!</title>
     <desc lang="en">Brought to you via vdubT25(n)</desc>
   </programme>
-  <programme start="20180915000000 +0100" stop="20180915235900 +0100" channel="924">
-    <title lang="en">924 - All Day Every Day!!!!!</title>
-    <desc lang="en">Brought to you via vdubT25(n)</desc>
+  <programme start="20180917000000 +0100" stop="20180917235900 +0100" channel="925">
+    <title lang="en">925 - All Day Every Day!!!!!</title>
+    <desc lang="en">Brought to you via vdubT25</desc>
   </programme>
-  <programme start="20180916000000 +0100" stop="20180916235900 +0100" channel="924">
-    <title lang="en">924 - All Day Every Day!!!!!</title>
-    <desc lang="en">Brought to you via vdubT25(n)</desc>
+  <programme start="20180918000000 +0100" stop="20180918235900 +0100" channel="925">
+    <title lang="en">925 - All Day Every Day!!!!!</title>
+    <desc lang="en">Brought to you via vdubT25</desc>
   </programme>
-  <programme start="20180914000000 +0100" stop="20180914235900 +0100" channel="925">
+  <programme start="20180919000000 +0100" stop="20180919235900 +0100" channel="925">
     <title lang="en">925 - All Day Every Day!!!!!</title>
     <desc lang="en">Brought to you via vdubT25(n)</desc>
   </programme>
-  <programme start="20180915000000 +0100" stop="20180915235900 +0100" channel="925">
-    <title lang="en">925 - All Day Every Day!!!!!</title>
-    <desc lang="en">Brought to you via vdubT25(n)</desc>
+  <programme start="20180917000000 +0100" stop="20180917235900 +0100" channel="926">
+    <title lang="en">926 - All Day Every Day!!!!!</title>
+    <desc lang="en">Brought to you via vdubT25</desc>
   </programme>
-  <programme start="20180916000000 +0100" stop="20180916235900 +0100" channel="925">
-    <title lang="en">925 - All Day Every Day!!!!!</title>
-    <desc lang="en">Brought to you via vdubT25(n)</desc>
+  <programme start="20180918000000 +0100" stop="20180918235900 +0100" channel="926">
+    <title lang="en">926 - All Day Every Day!!!!!</title>
+    <desc lang="en">Brought to you via vdubT25</desc>
   </programme>
-  <programme start="20180914000000 +0100" stop="20180914235900 +0100" channel="926">
+  <programme start="20180919000000 +0100" stop="20180919235900 +0100" channel="926">
     <title lang="en">926 - All Day Every Day!!!!!</title>
     <desc lang="en">Brought to you via vdubT25(n)</desc>
   </programme>
-  <programme start="20180915000000 +0100" stop="20180915235900 +0100" channel="926">
-    <title lang="en">926 - All Day Every Day!!!!!</title>
-    <desc lang="en">Brought to you via vdubT25(n)</desc>
+  <programme start="20180917000000 +0100" stop="20180917235900 +0100" channel="927">
+    <title lang="en">927 - All Day Every Day!!!!!</title>
+    <desc lang="en">Brought to you via vdubT25</desc>
   </programme>
-  <programme start="20180916000000 +0100" stop="20180916235900 +0100" channel="926">
-    <title lang="en">926 - All Day Every Day!!!!!</title>
-    <desc lang="en">Brought to you via vdubT25(n)</desc>
+  <programme start="20180918000000 +0100" stop="20180918235900 +0100" channel="927">
+    <title lang="en">927 - All Day Every Day!!!!!</title>
+    <desc lang="en">Brought to you via vdubT25</desc>
   </programme>
-  <programme start="20180914000000 +0100" stop="20180914235900 +0100" channel="927">
+  <programme start="20180919000000 +0100" stop="20180919235900 +0100" channel="927">
     <title lang="en">927 - All Day Every Day!!!!!</title>
     <desc lang="en">Brought to you via vdubT25(n)</desc>
   </programme>
-  <programme start="20180915000000 +0100" stop="20180915235900 +0100" channel="927">
-    <title lang="en">927 - All Day Every Day!!!!!</title>
-    <desc lang="en">Brought to you via vdubT25(n)</desc>
+  <programme start="20180917000000 +0100" stop="20180917235900 +0100" channel="928">
+    <title lang="en">928 - All Day Every Day!!!!!</title>
+    <desc lang="en">Brought to you via vdubT25</desc>
   </programme>
-  <programme start="20180916000000 +0100" stop="20180916235900 +0100" channel="927">
-    <title lang="en">927 - All Day Every Day!!!!!</title>
-    <desc lang="en">Brought to you via vdubT25(n)</desc>
+  <programme start="20180918000000 +0100" stop="20180918235900 +0100" channel="928">
+    <title lang="en">928 - All Day Every Day!!!!!</title>
+    <desc lang="en">Brought to you via vdubT25</desc>
   </programme>
-  <programme start="20180914000000 +0100" stop="20180914235900 +0100" channel="928">
+  <programme start="20180919000000 +0100" stop="20180919235900 +0100" channel="928">
     <title lang="en">928 - All Day Every Day!!!!!</title>
     <desc lang="en">Brought to you via vdubT25(n)</desc>
   </programme>
-  <programme start="20180915000000 +0100" stop="20180915235900 +0100" channel="928">
-    <title lang="en">928 - All Day Every Day!!!!!</title>
-    <desc lang="en">Brought to you via vdubT25(n)</desc>
+  <programme start="20180917000000 +0100" stop="20180917235900 +0100" channel="929">
+    <title lang="en">929 - All Day Every Day!!!!!</title>
+    <desc lang="en">Brought to you via vdubT25</desc>
   </programme>
-  <programme start="20180916000000 +0100" stop="20180916235900 +0100" channel="928">
-    <title lang="en">928 - All Day Every Day!!!!!</title>
-    <desc lang="en">Brought to you via vdubT25(n)</desc>
+  <programme start="20180918000000 +0100" stop="20180918235900 +0100" channel="929">
+    <title lang="en">929 - All Day Every Day!!!!!</title>
+    <desc lang="en">Brought to you via vdubT25</desc>
   </programme>
-  <programme start="20180914000000 +0100" stop="20180914235900 +0100" channel="929">
+  <programme start="20180919000000 +0100" stop="20180919235900 +0100" channel="929">
     <title lang="en">929 - All Day Every Day!!!!!</title>
     <desc lang="en">Brought to you via vdubT25(n)</desc>
   </programme>
-  <programme start="20180915000000 +0100" stop="20180915235900 +0100" channel="929">
-    <title lang="en">929 - All Day Every Day!!!!!</title>
-    <desc lang="en">Brought to you via vdubT25(n)</desc>
+  <programme start="20180917000000 +0100" stop="20180917235900 +0100" channel="930">
+    <title lang="en">930 - All Day Every Day!!!!!</title>
+    <desc lang="en">Brought to you via vdubT25</desc>
   </programme>
-  <programme start="20180916000000 +0100" stop="20180916235900 +0100" channel="929">
-    <title lang="en">929 - All Day Every Day!!!!!</title>
-    <desc lang="en">Brought to you via vdubT25(n)</desc>
+  <programme start="20180918000000 +0100" stop="20180918235900 +0100" channel="930">
+    <title lang="en">930 - All Day Every Day!!!!!</title>
+    <desc lang="en">Brought to you via vdubT25</desc>
   </programme>
-  <programme start="20180914000000 +0100" stop="20180914235900 +0100" channel="930">
+  <programme start="20180919000000 +0100" stop="20180919235900 +0100" channel="930">
     <title lang="en">930 - All Day Every Day!!!!!</title>
     <desc lang="en">Brought to you via vdubT25(n)</desc>
   </programme>
-  <programme start="20180915000000 +0100" stop="20180915235900 +0100" channel="930">
-    <title lang="en">930 - All Day Every Day!!!!!</title>
-    <desc lang="en">Brought to you via vdubT25(n)</desc>
+  <programme start="20180917000000 +0100" stop="20180917235900 +0100" channel="931">
+    <title lang="en">931 - All Day Every Day!!!!!</title>
+    <desc lang="en">Brought to you via vdubT25</desc>
   </programme>
-  <programme start="20180916000000 +0100" stop="20180916235900 +0100" channel="930">
-    <title lang="en">930 - All Day Every Day!!!!!</title>
-    <desc lang="en">Brought to you via vdubT25(n)</desc>
+  <programme start="20180918000000 +0100" stop="20180918235900 +0100" channel="931">
+    <title lang="en">931 - All Day Every Day!!!!!</title>
+    <desc lang="en">Brought to you via vdubT25</desc>
   </programme>
-  <programme start="20180914000000 +0100" stop="20180914235900 +0100" channel="931">
+  <programme start="20180919000000 +0100" stop="20180919235900 +0100" channel="931">
     <title lang="en">931 - All Day Every Day!!!!!</title>
     <desc lang="en">Brought to you via vdubT25(n)</desc>
   </programme>
-  <programme start="20180915000000 +0100" stop="20180915235900 +0100" channel="931">
-    <title lang="en">931 - All Day Every Day!!!!!</title>
-    <desc lang="en">Brought to you via vdubT25(n)</desc>
+  <programme start="20180917000000 +0100" stop="20180917235900 +0100" channel="932">
+    <title lang="en">932 - All Day Every Day!!!!!</title>
+    <desc lang="en">Brought to you via vdubT25</desc>
   </programme>
-  <programme start="20180916000000 +0100" stop="20180916235900 +0100" channel="931">
-    <title lang="en">931 - All Day Every Day!!!!!</title>
-    <desc lang="en">Brought to you via vdubT25(n)</desc>
+  <programme start="20180918000000 +0100" stop="20180918235900 +0100" channel="932">
+    <title lang="en">932 - All Day Every Day!!!!!</title>
+    <desc lang="en">Brought to you via vdubT25</desc>
   </programme>
-  <programme start="20180914000000 +0100" stop="20180914235900 +0100" channel="932">
+  <programme start="20180919000000 +0100" stop="20180919235900 +0100" channel="932">
     <title lang="en">932 - All Day Every Day!!!!!</title>
     <desc lang="en">Brought to you via vdubT25(n)</desc>
   </programme>
-  <programme start="20180915000000 +0100" stop="20180915235900 +0100" channel="932">
-    <title lang="en">932 - All Day Every Day!!!!!</title>
-    <desc lang="en">Brought to you via vdubT25(n)</desc>
+  <programme start="20180917000000 +0100" stop="20180917235900 +0100" channel="933">
+    <title lang="en">933 - All Day Every Day!!!!!</title>
+    <desc lang="en">Brought to you via vdubT25</desc>
   </programme>
-  <programme start="20180916000000 +0100" stop="20180916235900 +0100" channel="932">
-    <title lang="en">932 - All Day Every Day!!!!!</title>
-    <desc lang="en">Brought to you via vdubT25(n)</desc>
+  <programme start="20180918000000 +0100" stop="20180918235900 +0100" channel="933">
+    <title lang="en">933 - All Day Every Day!!!!!</title>
+    <desc lang="en">Brought to you via vdubT25</desc>
   </programme>
-  <programme start="20180914000000 +0100" stop="20180914235900 +0100" channel="933">
+  <programme start="20180919000000 +0100" stop="20180919235900 +0100" channel="933">
     <title lang="en">933 - All Day Every Day!!!!!</title>
     <desc lang="en">Brought to you via vdubT25(n)</desc>
   </programme>
-  <programme start="20180915000000 +0100" stop="20180915235900 +0100" channel="933">
-    <title lang="en">933 - All Day Every Day!!!!!</title>
-    <desc lang="en">Brought to you via vdubT25(n)</desc>
+  <programme start="20180917000000 +0100" stop="20180917235900 +0100" channel="934">
+    <title lang="en">934 - All Day Every Day!!!!!</title>
+    <desc lang="en">Brought to you via vdubT25</desc>
   </programme>
-  <programme start="20180916000000 +0100" stop="20180916235900 +0100" channel="933">
-    <title lang="en">933 - All Day Every Day!!!!!</title>
-    <desc lang="en">Brought to you via vdubT25(n)</desc>
+  <programme start="20180918000000 +0100" stop="20180918235900 +0100" channel="934">
+    <title lang="en">934 - All Day Every Day!!!!!</title>
+    <desc lang="en">Brought to you via vdubT25</desc>
   </programme>
-  <programme start="20180914000000 +0100" stop="20180914235900 +0100" channel="934">
+  <programme start="20180919000000 +0100" stop="20180919235900 +0100" channel="934">
     <title lang="en">934 - All Day Every Day!!!!!</title>
     <desc lang="en">Brought to you via vdubT25(n)</desc>
   </programme>
-  <programme start="20180915000000 +0100" stop="20180915235900 +0100" channel="934">
-    <title lang="en">934 - All Day Every Day!!!!!</title>
-    <desc lang="en">Brought to you via vdubT25(n)</desc>
+  <programme start="20180917000000 +0100" stop="20180917235900 +0100" channel="935">
+    <title lang="en">935 - All Day Every Day!!!!!</title>
+    <desc lang="en">Brought to you via vdubT25</desc>
   </programme>
-  <programme start="20180916000000 +0100" stop="20180916235900 +0100" channel="934">
-    <title lang="en">934 - All Day Every Day!!!!!</title>
-    <desc lang="en">Brought to you via vdubT25(n)</desc>
+  <programme start="20180918000000 +0100" stop="20180918235900 +0100" channel="935">
+    <title lang="en">935 - All Day Every Day!!!!!</title>
+    <desc lang="en">Brought to you via vdubT25</desc>
   </programme>
-  <programme start="20180914000000 +0100" stop="20180914235900 +0100" channel="935">
+  <programme start="20180919000000 +0100" stop="20180919235900 +0100" channel="935">
     <title lang="en">935 - All Day Every Day!!!!!</title>
     <desc lang="en">Brought to you via vdubT25(n)</desc>
   </programme>
-  <programme start="20180915000000 +0100" stop="20180915235900 +0100" channel="935">
-    <title lang="en">935 - All Day Every Day!!!!!</title>
-    <desc lang="en">Brought to you via vdubT25(n)</desc>
+  <programme start="20180917000000 +0100" stop="20180917235900 +0100" channel="936">
+    <title lang="en">936 - All Day Every Day!!!!!</title>
+    <desc lang="en">Brought to you via vdubT25</desc>
   </programme>
-  <programme start="20180916000000 +0100" stop="20180916235900 +0100" channel="935">
-    <title lang="en">935 - All Day Every Day!!!!!</title>
-    <desc lang="en">Brought to you via vdubT25(n)</desc>
+  <programme start="20180918000000 +0100" stop="20180918235900 +0100" channel="936">
+    <title lang="en">936 - All Day Every Day!!!!!</title>
+    <desc lang="en">Brought to you via vdubT25</desc>
   </programme>
-  <programme start="20180914000000 +0100" stop="20180914235900 +0100" channel="936">
+  <programme start="20180919000000 +0100" stop="20180919235900 +0100" channel="936">
     <title lang="en">936 - All Day Every Day!!!!!</title>
     <desc lang="en">Brought to you via vdubT25(n)</desc>
   </programme>
-  <programme start="20180915000000 +0100" stop="20180915235900 +0100" channel="936">
-    <title lang="en">936 - All Day Every Day!!!!!</title>
-    <desc lang="en">Brought to you via vdubT25(n)</desc>
+  <programme start="20180917000000 +0100" stop="20180917235900 +0100" channel="937">
+    <title lang="en">937 - All Day Every Day!!!!!</title>
+    <desc lang="en">Brought to you via vdubT25</desc>
   </programme>
-  <programme start="20180916000000 +0100" stop="20180916235900 +0100" channel="936">
-    <title lang="en">936 - All Day Every Day!!!!!</title>
-    <desc lang="en">Brought to you via vdubT25(n)</desc>
+  <programme start="20180918000000 +0100" stop="20180918235900 +0100" channel="937">
+    <title lang="en">937 - All Day Every Day!!!!!</title>
+    <desc lang="en">Brought to you via vdubT25</desc>
   </programme>
-  <programme start="20180914000000 +0100" stop="20180914235900 +0100" channel="937">
+  <programme start="20180919000000 +0100" stop="20180919235900 +0100" channel="937">
     <title lang="en">937 - All Day Every Day!!!!!</title>
     <desc lang="en">Brought to you via vdubT25(n)</desc>
   </programme>
-  <programme start="20180915000000 +0100" stop="20180915235900 +0100" channel="937">
-    <title lang="en">937 - All Day Every Day!!!!!</title>
-    <desc lang="en">Brought to you via vdubT25(n)</desc>
+  <programme start="20180917000000 +0100" stop="20180917235900 +0100" channel="938">
+    <title lang="en">938 - All Day Every Day!!!!!</title>
+    <desc lang="en">Brought to you via vdubT25</desc>
   </programme>
-  <programme start="20180916000000 +0100" stop="20180916235900 +0100" channel="937">
-    <title lang="en">937 - All Day Every Day!!!!!</title>
-    <desc lang="en">Brought to you via vdubT25(n)</desc>
+  <programme start="20180918000000 +0100" stop="20180918235900 +0100" channel="938">
+    <title lang="en">938 - All Day Every Day!!!!!</title>
+    <desc lang="en">Brought to you via vdubT25</desc>
   </programme>
-  <programme start="20180914000000 +0100" stop="20180914235900 +0100" channel="938">
+  <programme start="20180919000000 +0100" stop="20180919235900 +0100" channel="938">
     <title lang="en">938 - All Day Every Day!!!!!</title>
     <desc lang="en">Brought to you via vdubT25(n)</desc>
   </programme>
-  <programme start="20180915000000 +0100" stop="20180915235900 +0100" channel="938">
-    <title lang="en">938 - All Day Every Day!!!!!</title>
-    <desc lang="en">Brought to you via vdubT25(n)</desc>
+  <programme start="20180917000000 +0100" stop="20180917235900 +0100" channel="939">
+    <title lang="en">939 - All Day Every Day!!!!!</title>
+    <desc lang="en">Brought to you via vdubT25</desc>
   </programme>
-  <programme start="20180916000000 +0100" stop="20180916235900 +0100" channel="938">
-    <title lang="en">938 - All Day Every Day!!!!!</title>
-    <desc lang="en">Brought to you via vdubT25(n)</desc>
+  <programme start="20180918000000 +0100" stop="20180918235900 +0100" channel="939">
+    <title lang="en">939 - All Day Every Day!!!!!</title>
+    <desc lang="en">Brought to you via vdubT25</desc>
   </programme>
-  <programme start="20180914000000 +0100" stop="20180914235900 +0100" channel="939">
+  <programme start="20180919000000 +0100" stop="20180919235900 +0100" channel="939">
     <title lang="en">939 - All Day Every Day!!!!!</title>
     <desc lang="en">Brought to you via vdubT25(n)</desc>
   </programme>
-  <programme start="20180915000000 +0100" stop="20180915235900 +0100" channel="939">
-    <title lang="en">939 - All Day Every Day!!!!!</title>
-    <desc lang="en">Brought to you via vdubT25(n)</desc>
+  <programme start="20180917000000 +0100" stop="20180917235900 +0100" channel="940">
+    <title lang="en">940 - All Day Every Day!!!!!</title>
+    <desc lang="en">Brought to you via vdubT25</desc>
   </programme>
-  <programme start="20180916000000 +0100" stop="20180916235900 +0100" channel="939">
-    <title lang="en">939 - All Day Every Day!!!!!</title>
-    <desc lang="en">Brought to you via vdubT25(n)</desc>
+  <programme start="20180918000000 +0100" stop="20180918235900 +0100" channel="940">
+    <title lang="en">940 - All Day Every Day!!!!!</title>
+    <desc lang="en">Brought to you via vdubT25</desc>
   </programme>
-  <programme start="20180914000000 +0100" stop="20180914235900 +0100" channel="940">
+  <programme start="20180919000000 +0100" stop="20180919235900 +0100" channel="940">
     <title lang="en">940 - All Day Every Day!!!!!</title>
     <desc lang="en">Brought to you via vdubT25(n)</desc>
   </programme>
-  <programme start="20180915000000 +0100" stop="20180915235900 +0100" channel="940">
-    <title lang="en">940 - All Day Every Day!!!!!</title>
-    <desc lang="en">Brought to you via vdubT25(n)</desc>
+  <programme start="20180917000000 +0100" stop="20180917235900 +0100" channel="941">
+    <title lang="en">941 - All Day Every Day!!!!!</title>
+    <desc lang="en">Brought to you via vdubT25</desc>
   </programme>
-  <programme start="20180916000000 +0100" stop="20180916235900 +0100" channel="940">
-    <title lang="en">940 - All Day Every Day!!!!!</title>
-    <desc lang="en">Brought to you via vdubT25(n)</desc>
+  <programme start="20180918000000 +0100" stop="20180918235900 +0100" channel="941">
+    <title lang="en">941 - All Day Every Day!!!!!</title>
+    <desc lang="en">Brought to you via vdubT25</desc>
   </programme>
-  <programme start="20180914000000 +0100" stop="20180914235900 +0100" channel="941">
+  <programme start="20180919000000 +0100" stop="20180919235900 +0100" channel="941">
     <title lang="en">941 - All Day Every Day!!!!!</title>
     <desc lang="en">Brought to you via vdubT25(n)</desc>
   </programme>
-  <programme start="20180915000000 +0100" stop="20180915235900 +0100" channel="941">
-    <title lang="en">941 - All Day Every Day!!!!!</title>
-    <desc lang="en">Brought to you via vdubT25(n)</desc>
+  <programme start="20180917000000 +0100" stop="20180917235900 +0100" channel="942">
+    <title lang="en">942 - All Day Every Day!!!!!</title>
+    <desc lang="en">Brought to you via vdubT25</desc>
   </programme>
-  <programme start="20180916000000 +0100" stop="20180916235900 +0100" channel="941">
-    <title lang="en">941 - All Day Every Day!!!!!</title>
-    <desc lang="en">Brought to you via vdubT25(n)</desc>
+  <programme start="20180918000000 +0100" stop="20180918235900 +0100" channel="942">
+    <title lang="en">942 - All Day Every Day!!!!!</title>
+    <desc lang="en">Brought to you via vdubT25</desc>
   </programme>
-  <programme start="20180914000000 +0100" stop="20180914235900 +0100" channel="942">
+  <programme start="20180919000000 +0100" stop="20180919235900 +0100" channel="942">
     <title lang="en">942 - All Day Every Day!!!!!</title>
     <desc lang="en">Brought to you via vdubT25(n)</desc>
   </programme>
-  <programme start="20180915000000 +0100" stop="20180915235900 +0100" channel="942">
-    <title lang="en">942 - All Day Every Day!!!!!</title>
-    <desc lang="en">Brought to you via vdubT25(n)</desc>
+  <programme start="20180917000000 +0100" stop="20180917235900 +0100" channel="943">
+    <title lang="en">943 - All Day Every Day!!!!!</title>
+    <desc lang="en">Brought to you via vdubT25</desc>
   </programme>
-  <programme start="20180916000000 +0100" stop="20180916235900 +0100" channel="942">
-    <title lang="en">942 - All Day Every Day!!!!!</title>
-    <desc lang="en">Brought to you via vdubT25(n)</desc>
+  <programme start="20180918000000 +0100" stop="20180918235900 +0100" channel="943">
+    <title lang="en">943 - All Day Every Day!!!!!</title>
+    <desc lang="en">Brought to you via vdubT25</desc>
   </programme>
-  <programme start="20180914000000 +0100" stop="20180914235900 +0100" channel="943">
+  <programme start="20180919000000 +0100" stop="20180919235900 +0100" channel="943">
     <title lang="en">943 - All Day Every Day!!!!!</title>
     <desc lang="en">Brought to you via vdubT25(n)</desc>
   </programme>
-  <programme start="20180915000000 +0100" stop="20180915235900 +0100" channel="943">
-    <title lang="en">943 - All Day Every Day!!!!!</title>
-    <desc lang="en">Brought to you via vdubT25(n)</desc>
+  <programme start="20180917000000 +0100" stop="20180917235900 +0100" channel="944">
+    <title lang="en">944 - All Day Every Day!!!!!</title>
+    <desc lang="en">Brought to you via vdubT25</desc>
   </programme>
-  <programme start="20180916000000 +0100" stop="20180916235900 +0100" channel="943">
-    <title lang="en">943 - All Day Every Day!!!!!</title>
-    <desc lang="en">Brought to you via vdubT25(n)</desc>
+  <programme start="20180918000000 +0100" stop="20180918235900 +0100" channel="944">
+    <title lang="en">944 - All Day Every Day!!!!!</title>
+    <desc lang="en">Brought to you via vdubT25</desc>
   </programme>
-  <programme start="20180914000000 +0100" stop="20180914235900 +0100" channel="944">
+  <programme start="20180919000000 +0100" stop="20180919235900 +0100" channel="944">
     <title lang="en">944 - All Day Every Day!!!!!</title>
     <desc lang="en">Brought to you via vdubT25(n)</desc>
   </programme>
-  <programme start="20180915000000 +0100" stop="20180915235900 +0100" channel="944">
-    <title lang="en">944 - All Day Every Day!!!!!</title>
-    <desc lang="en">Brought to you via vdubT25(n)</desc>
+  <programme start="20180917000000 +0100" stop="20180917235900 +0100" channel="989">
+    <title lang="en">989 - All Day Every Day!!!!!</title>
+    <desc lang="en">Brought to you via vdubT25</desc>
   </programme>
-  <programme start="20180916000000 +0100" stop="20180916235900 +0100" channel="944">
-    <title lang="en">944 - All Day Every Day!!!!!</title>
-    <desc lang="en">Brought to you via vdubT25(n)</desc>
+  <programme start="20180918000000 +0100" stop="20180918235900 +0100" channel="989">
+    <title lang="en">989 - All Day Every Day!!!!!</title>
+    <desc lang="en">Brought to you via vdubT25</desc>
   </programme>
-  <programme start="20180914000000 +0100" stop="20180914235900 +0100" channel="989">
+  <programme start="20180919000000 +0100" stop="20180919235900 +0100" channel="989">
     <title lang="en">989 - All Day Every Day!!!!!</title>
     <desc lang="en">Brought to you via vdubT25(n)</desc>
   </programme>
-  <programme start="20180915000000 +0100" stop="20180915235900 +0100" channel="989">
-    <title lang="en">989 - All Day Every Day!!!!!</title>
-    <desc lang="en">Brought to you via vdubT25(n)</desc>
+  <programme start="20180917000000 +0100" stop="20180917235900 +0100" channel="988">
+    <title lang="en">988 - All Day Every Day!!!!!</title>
+    <desc lang="en">Brought to you via vdubT25</desc>
   </programme>
-  <programme start="20180916000000 +0100" stop="20180916235900 +0100" channel="989">
-    <title lang="en">989 - All Day Every Day!!!!!</title>
-    <desc lang="en">Brought to you via vdubT25(n)</desc>
+  <programme start="20180918000000 +0100" stop="20180918235900 +0100" channel="988">
+    <title lang="en">988 - All Day Every Day!!!!!</title>
+    <desc lang="en">Brought to you via vdubT25</desc>
   </programme>
-  <programme start="20180914000000 +0100" stop="20180914235900 +0100" channel="988">
+  <programme start="20180919000000 +0100" stop="20180919235900 +0100" channel="988">
     <title lang="en">988 - All Day Every Day!!!!!</title>
     <desc lang="en">Brought to you via vdubT25(n)</desc>
   </programme>
-  <programme start="20180915000000 +0100" stop="20180915235900 +0100" channel="988">
-    <title lang="en">988 - All Day Every Day!!!!!</title>
-    <desc lang="en">Brought to you via vdubT25(n)</desc>
+  <programme start="20180917000000 +0100" stop="20180917235900 +0100" channel="945">
+    <title lang="en">945 - All Day Every Day!!!!!</title>
+    <desc lang="en">Brought to you via vdubT25</desc>
   </programme>
-  <programme start="20180916000000 +0100" stop="20180916235900 +0100" channel="988">
-    <title lang="en">988 - All Day Every Day!!!!!</title>
-    <desc lang="en">Brought to you via vdubT25(n)</desc>
+  <programme start="20180918000000 +0100" stop="20180918235900 +0100" channel="945">
+    <title lang="en">945 - All Day Every Day!!!!!</title>
+    <desc lang="en">Brought to you via vdubT25</desc>
   </programme>
-  <programme start="20180914000000 +0100" stop="20180914235900 +0100" channel="945">
+  <programme start="20180919000000 +0100" stop="20180919235900 +0100" channel="945">
     <title lang="en">945 - All Day Every Day!!!!!</title>
     <desc lang="en">Brought to you via vdubT25(n)</desc>
   </programme>
-  <programme start="20180915000000 +0100" stop="20180915235900 +0100" channel="945">
-    <title lang="en">945 - All Day Every Day!!!!!</title>
-    <desc lang="en">Brought to you via vdubT25(n)</desc>
+  <programme start="20180917000000 +0100" stop="20180917235900 +0100" channel="946">
+    <title lang="en">946 - All Day Every Day!!!!!</title>
+    <desc lang="en">Brought to you via vdubT25</desc>
   </programme>
-  <programme start="20180916000000 +0100" stop="20180916235900 +0100" channel="945">
-    <title lang="en">945 - All Day Every Day!!!!!</title>
-    <desc lang="en">Brought to you via vdubT25(n)</desc>
+  <programme start="20180918000000 +0100" stop="20180918235900 +0100" channel="946">
+    <title lang="en">946 - All Day Every Day!!!!!</title>
+    <desc lang="en">Brought to you via vdubT25</desc>
   </programme>
-  <programme start="20180914000000 +0100" stop="20180914235900 +0100" channel="946">
+  <programme start="20180919000000 +0100" stop="20180919235900 +0100" channel="946">
     <title lang="en">946 - All Day Every Day!!!!!</title>
     <desc lang="en">Brought to you via vdubT25(n)</desc>
   </programme>
-  <programme start="20180915000000 +0100" stop="20180915235900 +0100" channel="946">
-    <title lang="en">946 - All Day Every Day!!!!!</title>
-    <desc lang="en">Brought to you via vdubT25(n)</desc>
+  <programme start="20180917000000 +0100" stop="20180917235900 +0100" channel="947">
+    <title lang="en">947 - All Day Every Day!!!!!</title>
+    <desc lang="en">Brought to you via vdubT25</desc>
   </programme>
-  <programme start="20180916000000 +0100" stop="20180916235900 +0100" channel="946">
-    <title lang="en">946 - All Day Every Day!!!!!</title>
-    <desc lang="en">Brought to you via vdubT25(n)</desc>
+  <programme start="20180918000000 +0100" stop="20180918235900 +0100" channel="947">
+    <title lang="en">947 - All Day Every Day!!!!!</title>
+    <desc lang="en">Brought to you via vdubT25</desc>
   </programme>
-  <programme start="20180914000000 +0100" stop="20180914235900 +0100" channel="947">
+  <programme start="20180919000000 +0100" stop="20180919235900 +0100" channel="947">
     <title lang="en">947 - All Day Every Day!!!!!</title>
     <desc lang="en">Brought to you via vdubT25(n)</desc>
   </programme>
-  <programme start="20180915000000 +0100" stop="20180915235900 +0100" channel="947">
-    <title lang="en">947 - All Day Every Day!!!!!</title>
-    <desc lang="en">Brought to you via vdubT25(n)</desc>
+  <programme start="20180917000000 +0100" stop="20180917235900 +0100" channel="948">
+    <title lang="en">948 - All Day Every Day!!!!!</title>
+    <desc lang="en">Brought to you via vdubT25</desc>
   </programme>
-  <programme start="20180916000000 +0100" stop="20180916235900 +0100" channel="947">
-    <title lang="en">947 - All Day Every Day!!!!!</title>
-    <desc lang="en">Brought to you via vdubT25(n)</desc>
+  <programme start="20180918000000 +0100" stop="20180918235900 +0100" channel="948">
+    <title lang="en">948 - All Day Every Day!!!!!</title>
+    <desc lang="en">Brought to you via vdubT25</desc>
   </programme>
-  <programme start="20180914000000 +0100" stop="20180914235900 +0100" channel="948">
+  <programme start="20180919000000 +0100" stop="20180919235900 +0100" channel="948">
     <title lang="en">948 - All Day Every Day!!!!!</title>
     <desc lang="en">Brought to you via vdubT25(n)</desc>
   </programme>
-  <programme start="20180915000000 +0100" stop="20180915235900 +0100" channel="948">
-    <title lang="en">948 - All Day Every Day!!!!!</title>
-    <desc lang="en">Brought to you via vdubT25(n)</desc>
+  <programme start="20180917000000 +0100" stop="20180917235900 +0100" channel="949">
+    <title lang="en">949 - All Day Every Day!!!!!</title>
+    <desc lang="en">Brought to you via vdubT25</desc>
   </programme>
-  <programme start="20180916000000 +0100" stop="20180916235900 +0100" channel="948">
-    <title lang="en">948 - All Day Every Day!!!!!</title>
-    <desc lang="en">Brought to you via vdubT25(n)</desc>
+  <programme start="20180918000000 +0100" stop="20180918235900 +0100" channel="949">
+    <title lang="en">949 - All Day Every Day!!!!!</title>
+    <desc lang="en">Brought to you via vdubT25</desc>
   </programme>
-  <programme start="20180914000000 +0100" stop="20180914235900 +0100" channel="949">
+  <programme start="20180919000000 +0100" stop="20180919235900 +0100" channel="949">
     <title lang="en">949 - All Day Every Day!!!!!</title>
     <desc lang="en">Brought to you via vdubT25(n)</desc>
   </programme>
-  <programme start="20180915000000 +0100" stop="20180915235900 +0100" channel="949">
-    <title lang="en">949 - All Day Every Day!!!!!</title>
-    <desc lang="en">Brought to you via vdubT25(n)</desc>
+  <programme start="20180917000000 +0100" stop="20180917235900 +0100" channel="950">
+    <title lang="en">950 - All Day Every Day!!!!!</title>
+    <desc lang="en">Brought to you via vdubT25</desc>
   </programme>
-  <programme start="20180916000000 +0100" stop="20180916235900 +0100" channel="949">
-    <title lang="en">949 - All Day Every Day!!!!!</title>
-    <desc lang="en">Brought to you via vdubT25(n)</desc>
+  <programme start="20180918000000 +0100" stop="20180918235900 +0100" channel="950">
+    <title lang="en">950 - All Day Every Day!!!!!</title>
+    <desc lang="en">Brought to you via vdubT25</desc>
   </programme>
-  <programme start="20180914000000 +0100" stop="20180914235900 +0100" channel="950">
+  <programme start="20180919000000 +0100" stop="20180919235900 +0100" channel="950">
     <title lang="en">950 - All Day Every Day!!!!!</title>
     <desc lang="en">Brought to you via vdubT25(n)</desc>
   </programme>
-  <programme start="20180915000000 +0100" stop="20180915235900 +0100" channel="950">
-    <title lang="en">950 - All Day Every Day!!!!!</title>
-    <desc lang="en">Brought to you via vdubT25(n)</desc>
+  <programme start="20180917000000 +0100" stop="20180917235900 +0100" channel="954">
+    <title lang="en">954 - All Day Every Day!!!!!</title>
+    <desc lang="en">Brought to you via vdubT25</desc>
   </programme>
-  <programme start="20180916000000 +0100" stop="20180916235900 +0100" channel="950">
-    <title lang="en">950 - All Day Every Day!!!!!</title>
-    <desc lang="en">Brought to you via vdubT25(n)</desc>
+  <programme start="20180918000000 +0100" stop="20180918235900 +0100" channel="954">
+    <title lang="en">954 - All Day Every Day!!!!!</title>
+    <desc lang="en">Brought to you via vdubT25</desc>
   </programme>
-  <programme start="20180914000000 +0100" stop="20180914235900 +0100" channel="954">
+  <programme start="20180919000000 +0100" stop="20180919235900 +0100" channel="954">
     <title lang="en">954 - All Day Every Day!!!!!</title>
     <desc lang="en">Brought to you via vdubT25(n)</desc>
   </programme>
-  <programme start="20180915000000 +0100" stop="20180915235900 +0100" channel="954">
-    <title lang="en">954 - All Day Every Day!!!!!</title>
-    <desc lang="en">Brought to you via vdubT25(n)</desc>
+  <programme start="20180917000000 +0100" stop="20180917235900 +0100" channel="955">
+    <title lang="en">955 - All Day Every Day!!!!!</title>
+    <desc lang="en">Brought to you via vdubT25</desc>
   </programme>
-  <programme start="20180916000000 +0100" stop="20180916235900 +0100" channel="954">
-    <title lang="en">954 - All Day Every Day!!!!!</title>
-    <desc lang="en">Brought to you via vdubT25(n)</desc>
+  <programme start="20180918000000 +0100" stop="20180918235900 +0100" channel="955">
+    <title lang="en">955 - All Day Every Day!!!!!</title>
+    <desc lang="en">Brought to you via vdubT25</desc>
   </programme>
-  <programme start="20180914000000 +0100" stop="20180914235900 +0100" channel="955">
+  <programme start="20180919000000 +0100" stop="20180919235900 +0100" channel="955">
     <title lang="en">955 - All Day Every Day!!!!!</title>
     <desc lang="en">Brought to you via vdubT25(n)</desc>
   </programme>
-  <programme start="20180915000000 +0100" stop="20180915235900 +0100" channel="955">
-    <title lang="en">955 - All Day Every Day!!!!!</title>
-    <desc lang="en">Brought to you via vdubT25(n)</desc>
+  <programme start="20180917000000 +0100" stop="20180917235900 +0100" channel="956">
+    <title lang="en">956 - All Day Every Day!!!!!</title>
+    <desc lang="en">Brought to you via vdubT25</desc>
   </programme>
-  <programme start="20180916000000 +0100" stop="20180916235900 +0100" channel="955">
-    <title lang="en">955 - All Day Every Day!!!!!</title>
-    <desc lang="en">Brought to you via vdubT25(n)</desc>
+  <programme start="20180918000000 +0100" stop="20180918235900 +0100" channel="956">
+    <title lang="en">956 - All Day Every Day!!!!!</title>
+    <desc lang="en">Brought to you via vdubT25</desc>
   </programme>
-  <programme start="20180914000000 +0100" stop="20180914235900 +0100" channel="956">
+  <programme start="20180919000000 +0100" stop="20180919235900 +0100" channel="956">
     <title lang="en">956 - All Day Every Day!!!!!</title>
     <desc lang="en">Brought to you via vdubT25(n)</desc>
   </programme>
-  <programme start="20180915000000 +0100" stop="20180915235900 +0100" channel="956">
-    <title lang="en">956 - All Day Every Day!!!!!</title>
-    <desc lang="en">Brought to you via vdubT25(n)</desc>
+  <programme start="20180917000000 +0100" stop="20180917235900 +0100" channel="957">
+    <title lang="en">957 - All Day Every Day!!!!!</title>
+    <desc lang="en">Brought to you via vdubT25</desc>
   </programme>
-  <programme start="20180916000000 +0100" stop="20180916235900 +0100" channel="956">
-    <title lang="en">956 - All Day Every Day!!!!!</title>
-    <desc lang="en">Brought to you via vdubT25(n)</desc>
+  <programme start="20180918000000 +0100" stop="20180918235900 +0100" channel="957">
+    <title lang="en">957 - All Day Every Day!!!!!</title>
+    <desc lang="en">Brought to you via vdubT25</desc>
   </programme>
-  <programme start="20180914000000 +0100" stop="20180914235900 +0100" channel="957">
+  <programme start="20180919000000 +0100" stop="20180919235900 +0100" channel="957">
     <title lang="en">957 - All Day Every Day!!!!!</title>
     <desc lang="en">Brought to you via vdubT25(n)</desc>
   </programme>
-  <programme start="20180915000000 +0100" stop="20180915235900 +0100" channel="957">
-    <title lang="en">957 - All Day Every Day!!!!!</title>
-    <desc lang="en">Brought to you via vdubT25(n)</desc>
+  <programme start="20180917000000 +0100" stop="20180917235900 +0100" channel="958">
+    <title lang="en">958 - All Day Every Day!!!!!</title>
+    <desc lang="en">Brought to you via vdubT25</desc>
   </programme>
-  <programme start="20180916000000 +0100" stop="20180916235900 +0100" channel="957">
-    <title lang="en">957 - All Day Every Day!!!!!</title>
-    <desc lang="en">Brought to you via vdubT25(n)</desc>
+  <programme start="20180918000000 +0100" stop="20180918235900 +0100" channel="958">
+    <title lang="en">958 - All Day Every Day!!!!!</title>
+    <desc lang="en">Brought to you via vdubT25</desc>
   </programme>
-  <programme start="20180914000000 +0100" stop="20180914235900 +0100" channel="958">
+  <programme start="20180919000000 +0100" stop="20180919235900 +0100" channel="958">
     <title lang="en">958 - All Day Every Day!!!!!</title>
     <desc lang="en">Brought to you via vdubT25(n)</desc>
   </programme>
-  <programme start="20180915000000 +0100" stop="20180915235900 +0100" channel="958">
-    <title lang="en">958 - All Day Every Day!!!!!</title>
-    <desc lang="en">Brought to you via vdubT25(n)</desc>
+  <programme start="20180917000000 +0100" stop="20180917235900 +0100" channel="959">
+    <title lang="en">959 - All Day Every Day!!!!!</title>
+    <desc lang="en">Brought to you via vdubT25</desc>
   </programme>
-  <programme start="20180916000000 +0100" stop="20180916235900 +0100" channel="958">
-    <title lang="en">958 - All Day Every Day!!!!!</title>
-    <desc lang="en">Brought to you via vdubT25(n)</desc>
+  <programme start="20180918000000 +0100" stop="20180918235900 +0100" channel="959">
+    <title lang="en">959 - All Day Every Day!!!!!</title>
+    <desc lang="en">Brought to you via vdubT25</desc>
   </programme>
-  <programme start="20180914000000 +0100" stop="20180914235900 +0100" channel="959">
+  <programme start="20180919000000 +0100" stop="20180919235900 +0100" channel="959">
     <title lang="en">959 - All Day Every Day!!!!!</title>
     <desc lang="en">Brought to you via vdubT25(n)</desc>
   </programme>
-  <programme start="20180915000000 +0100" stop="20180915235900 +0100" channel="959">
-    <title lang="en">959 - All Day Every Day!!!!!</title>
-    <desc lang="en">Brought to you via vdubT25(n)</desc>
+  <programme start="20180917000000 +0100" stop="20180917235900 +0100" channel="960">
+    <title lang="en">960 - All Day Every Day!!!!!</title>
+    <desc lang="en">Brought to you via vdubT25</desc>
   </programme>
-  <programme start="20180916000000 +0100" stop="20180916235900 +0100" channel="959">
-    <title lang="en">959 - All Day Every Day!!!!!</title>
-    <desc lang="en">Brought to you via vdubT25(n)</desc>
+  <programme start="20180918000000 +0100" stop="20180918235900 +0100" channel="960">
+    <title lang="en">960 - All Day Every Day!!!!!</title>
+    <desc lang="en">Brought to you via vdubT25</desc>
   </programme>
-  <programme start="20180914000000 +0100" stop="20180914235900 +0100" channel="960">
+  <programme start="20180919000000 +0100" stop="20180919235900 +0100" channel="960">
     <title lang="en">960 - All Day Every Day!!!!!</title>
     <desc lang="en">Brought to you via vdubT25(n)</desc>
   </programme>
-  <programme start="20180915000000 +0100" stop="20180915235900 +0100" channel="960">
-    <title lang="en">960 - All Day Every Day!!!!!</title>
-    <desc lang="en">Brought to you via vdubT25(n)</desc>
+  <programme start="20180917000000 +0100" stop="20180917235900 +0100" channel="961">
+    <title lang="en">961 - All Day Every Day!!!!!</title>
+    <desc lang="en">Brought to you via vdubT25</desc>
   </programme>
-  <programme start="20180916000000 +0100" stop="20180916235900 +0100" channel="960">
-    <title lang="en">960 - All Day Every Day!!!!!</title>
-    <desc lang="en">Brought to you via vdubT25(n)</desc>
+  <programme start="20180918000000 +0100" stop="20180918235900 +0100" channel="961">
+    <title lang="en">961 - All Day Every Day!!!!!</title>
+    <desc lang="en">Brought to you via vdubT25</desc>
   </programme>
-  <programme start="20180914000000 +0100" stop="20180914235900 +0100" channel="961">
+  <programme start="20180919000000 +0100" stop="20180919235900 +0100" channel="961">
     <title lang="en">961 - All Day Every Day!!!!!</title>
     <desc lang="en">Brought to you via vdubT25(n)</desc>
   </programme>
-  <programme start="20180915000000 +0100" stop="20180915235900 +0100" channel="961">
-    <title lang="en">961 - All Day Every Day!!!!!</title>
-    <desc lang="en">Brought to you via vdubT25(n)</desc>
+  <programme start="20180917000000 +0100" stop="20180917235900 +0100" channel="962">
+    <title lang="en">962 - All Day Every Day!!!!!</title>
+    <desc lang="en">Brought to you via vdubT25</desc>
   </programme>
-  <programme start="20180916000000 +0100" stop="20180916235900 +0100" channel="961">
-    <title lang="en">961 - All Day Every Day!!!!!</title>
-    <desc lang="en">Brought to you via vdubT25(n)</desc>
+  <programme start="20180918000000 +0100" stop="20180918235900 +0100" channel="962">
+    <title lang="en">962 - All Day Every Day!!!!!</title>
+    <desc lang="en">Brought to you via vdubT25</desc>
   </programme>
-  <programme start="20180914000000 +0100" stop="20180914235900 +0100" channel="962">
+  <programme start="20180919000000 +0100" stop="20180919235900 +0100" channel="962">
     <title lang="en">962 - All Day Every Day!!!!!</title>
     <desc lang="en">Brought to you via vdubT25(n)</desc>
   </programme>
-  <programme start="20180915000000 +0100" stop="20180915235900 +0100" channel="962">
-    <title lang="en">962 - All Day Every Day!!!!!</title>
-    <desc lang="en">Brought to you via vdubT25(n)</desc>
+  <programme start="20180917000000 +0100" stop="20180917235900 +0100" channel="963">
+    <title lang="en">963 - All Day Every Day!!!!!</title>
+    <desc lang="en">Brought to you via vdubT25</desc>
   </programme>
-  <programme start="20180916000000 +0100" stop="20180916235900 +0100" channel="962">
-    <title lang="en">962 - All Day Every Day!!!!!</title>
-    <desc lang="en">Brought to you via vdubT25(n)</desc>
+  <programme start="20180918000000 +0100" stop="20180918235900 +0100" channel="963">
+    <title lang="en">963 - All Day Every Day!!!!!</title>
+    <desc lang="en">Brought to you via vdubT25</desc>
   </programme>
-  <programme start="20180914000000 +0100" stop="20180914235900 +0100" channel="963">
+  <programme start="20180919000000 +0100" stop="20180919235900 +0100" channel="963">
     <title lang="en">963 - All Day Every Day!!!!!</title>
     <desc lang="en">Brought to you via vdubT25(n)</desc>
   </programme>
-  <programme start="20180915000000 +0100" stop="20180915235900 +0100" channel="963">
-    <title lang="en">963 - All Day Every Day!!!!!</title>
-    <desc lang="en">Brought to you via vdubT25(n)</desc>
+  <programme start="20180917000000 +0100" stop="20180917235900 +0100" channel="964">
+    <title lang="en">964 - All Day Every Day!!!!!</title>
+    <desc lang="en">Brought to you via vdubT25</desc>
   </programme>
-  <programme start="20180916000000 +0100" stop="20180916235900 +0100" channel="963">
-    <title lang="en">963 - All Day Every Day!!!!!</title>
-    <desc lang="en">Brought to you via vdubT25(n)</desc>
+  <programme start="20180918000000 +0100" stop="20180918235900 +0100" channel="964">
+    <title lang="en">964 - All Day Every Day!!!!!</title>
+    <desc lang="en">Brought to you via vdubT25</desc>
   </programme>
-  <programme start="20180914000000 +0100" stop="20180914235900 +0100" channel="964">
+  <programme start="20180919000000 +0100" stop="20180919235900 +0100" channel="964">
     <title lang="en">964 - All Day Every Day!!!!!</title>
     <desc lang="en">Brought to you via vdubT25(n)</desc>
   </programme>
-  <programme start="20180915000000 +0100" stop="20180915235900 +0100" channel="964">
-    <title lang="en">964 - All Day Every Day!!!!!</title>
-    <desc lang="en">Brought to you via vdubT25(n)</desc>
+  <programme start="20180917000000 +0100" stop="20180917235900 +0100" channel="965">
+    <title lang="en">965 - All Day Every Day!!!!!</title>
+    <desc lang="en">Brought to you via vdubT25</desc>
   </programme>
-  <programme start="20180916000000 +0100" stop="20180916235900 +0100" channel="964">
-    <title lang="en">964 - All Day Every Day!!!!!</title>
-    <desc lang="en">Brought to you via vdubT25(n)</desc>
+  <programme start="20180918000000 +0100" stop="20180918235900 +0100" channel="965">
+    <title lang="en">965 - All Day Every Day!!!!!</title>
+    <desc lang="en">Brought to you via vdubT25</desc>
   </programme>
-  <programme start="20180914000000 +0100" stop="20180914235900 +0100" channel="965">
+  <programme start="20180919000000 +0100" stop="20180919235900 +0100" channel="965">
     <title lang="en">965 - All Day Every Day!!!!!</title>
     <desc lang="en">Brought to you via vdubT25(n)</desc>
   </programme>
-  <programme start="20180915000000 +0100" stop="20180915235900 +0100" channel="965">
-    <title lang="en">965 - All Day Every Day!!!!!</title>
-    <desc lang="en">Brought to you via vdubT25(n)</desc>
+  <programme start="20180917000000 +0100" stop="20180917235900 +0100" channel="966">
+    <title lang="en">966 - All Day Every Day!!!!!</title>
+    <desc lang="en">Brought to you via vdubT25</desc>
   </programme>
-  <programme start="20180916000000 +0100" stop="20180916235900 +0100" channel="965">
-    <title lang="en">965 - All Day Every Day!!!!!</title>
-    <desc lang="en">Brought to you via vdubT25(n)</desc>
+  <programme start="20180918000000 +0100" stop="20180918235900 +0100" channel="966">
+    <title lang="en">966 - All Day Every Day!!!!!</title>
+    <desc lang="en">Brought to you via vdubT25</desc>
   </programme>
-  <programme start="20180914000000 +0100" stop="20180914235900 +0100" channel="966">
+  <programme start="20180919000000 +0100" stop="20180919235900 +0100" channel="966">
     <title lang="en">966 - All Day Every Day!!!!!</title>
     <desc lang="en">Brought to you via vdubT25(n)</desc>
   </programme>
-  <programme start="20180915000000 +0100" stop="20180915235900 +0100" channel="966">
-    <title lang="en">966 - All Day Every Day!!!!!</title>
-    <desc lang="en">Brought to you via vdubT25(n)</desc>
+  <programme start="20180917000000 +0100" stop="20180917235900 +0100" channel="967">
+    <title lang="en">967 - All Day Every Day!!!!!</title>
+    <desc lang="en">Brought to you via vdubT25</desc>
   </programme>
-  <programme start="20180916000000 +0100" stop="20180916235900 +0100" channel="966">
-    <title lang="en">966 - All Day Every Day!!!!!</title>
-    <desc lang="en">Brought to you via vdubT25(n)</desc>
+  <programme start="20180918000000 +0100" stop="20180918235900 +0100" channel="967">
+    <title lang="en">967 - All Day Every Day!!!!!</title>
+    <desc lang="en">Brought to you via vdubT25</desc>
   </programme>
-  <programme start="20180914000000 +0100" stop="20180914235900 +0100" channel="967">
+  <programme start="20180919000000 +0100" stop="20180919235900 +0100" channel="967">
     <title lang="en">967 - All Day Every Day!!!!!</title>
     <desc lang="en">Brought to you via vdubT25(n)</desc>
   </programme>
-  <programme start="20180915000000 +0100" stop="20180915235900 +0100" channel="967">
-    <title lang="en">967 - All Day Every Day!!!!!</title>
-    <desc lang="en">Brought to you via vdubT25(n)</desc>
+  <programme start="20180917000000 +0100" stop="20180917235900 +0100" channel="968">
+    <title lang="en">968 - All Day Every Day!!!!!</title>
+    <desc lang="en">Brought to you via vdubT25</desc>
   </programme>
-  <programme start="20180916000000 +0100" stop="20180916235900 +0100" channel="967">
-    <title lang="en">967 - All Day Every Day!!!!!</title>
-    <desc lang="en">Brought to you via vdubT25(n)</desc>
+  <programme start="20180918000000 +0100" stop="20180918235900 +0100" channel="968">
+    <title lang="en">968 - All Day Every Day!!!!!</title>
+    <desc lang="en">Brought to you via vdubT25</desc>
   </programme>
-  <programme start="20180914000000 +0100" stop="20180914235900 +0100" channel="968">
+  <programme start="20180919000000 +0100" stop="20180919235900 +0100" channel="968">
     <title lang="en">968 - All Day Every Day!!!!!</title>
     <desc lang="en">Brought to you via vdubT25(n)</desc>
   </programme>
-  <programme start="20180915000000 +0100" stop="20180915235900 +0100" channel="968">
-    <title lang="en">968 - All Day Every Day!!!!!</title>
-    <desc lang="en">Brought to you via vdubT25(n)</desc>
+  <programme start="20180917000000 +0100" stop="20180917235900 +0100" channel="969">
+    <title lang="en">969 - All Day Every Day!!!!!</title>
+    <desc lang="en">Brought to you via vdubT25</desc>
   </programme>
-  <programme start="20180916000000 +0100" stop="20180916235900 +0100" channel="968">
-    <title lang="en">968 - All Day Every Day!!!!!</title>
-    <desc lang="en">Brought to you via vdubT25(n)</desc>
+  <programme start="20180918000000 +0100" stop="20180918235900 +0100" channel="969">
+    <title lang="en">969 - All Day Every Day!!!!!</title>
+    <desc lang="en">Brought to you via vdubT25</desc>
   </programme>
-  <programme start="20180914000000 +0100" stop="20180914235900 +0100" channel="969">
+  <programme start="20180919000000 +0100" stop="20180919235900 +0100" channel="969">
     <title lang="en">969 - All Day Every Day!!!!!</title>
     <desc lang="en">Brought to you via vdubT25(n)</desc>
   </programme>
-  <programme start="20180915000000 +0100" stop="20180915235900 +0100" channel="969">
-    <title lang="en">969 - All Day Every Day!!!!!</title>
-    <desc lang="en">Brought to you via vdubT25(n)</desc>
+  <programme start="20180917000000 +0100" stop="20180917235900 +0100" channel="973">
+    <title lang="en">973 - All Day Every Day!!!!!</title>
+    <desc lang="en">Brought to you via vdubT25</desc>
   </programme>
-  <programme start="20180916000000 +0100" stop="20180916235900 +0100" channel="969">
-    <title lang="en">969 - All Day Every Day!!!!!</title>
-    <desc lang="en">Brought to you via vdubT25(n)</desc>
+  <programme start="20180918000000 +0100" stop="20180918235900 +0100" channel="973">
+    <title lang="en">973 - All Day Every Day!!!!!</title>
+    <desc lang="en">Brought to you via vdubT25</desc>
   </programme>
-  <programme start="20180914000000 +0100" stop="20180914235900 +0100" channel="973">
+  <programme start="20180919000000 +0100" stop="20180919235900 +0100" channel="973">
     <title lang="en">973 - All Day Every Day!!!!!</title>
     <desc lang="en">Brought to you via vdubT25(n)</desc>
   </programme>
-  <programme start="20180915000000 +0100" stop="20180915235900 +0100" channel="973">
-    <title lang="en">973 - All Day Every Day!!!!!</title>
-    <desc lang="en">Brought to you via vdubT25(n)</desc>
+  <programme start="20180917000000 +0100" stop="20180917235900 +0100" channel="974">
+    <title lang="en">974 - All Day Every Day!!!!!</title>
+    <desc lang="en">Brought to you via vdubT25</desc>
   </programme>
-  <programme start="20180916000000 +0100" stop="20180916235900 +0100" channel="973">
-    <title lang="en">973 - All Day Every Day!!!!!</title>
-    <desc lang="en">Brought to you via vdubT25(n)</desc>
+  <programme start="20180918000000 +0100" stop="20180918235900 +0100" channel="974">
+    <title lang="en">974 - All Day Every Day!!!!!</title>
+    <desc lang="en">Brought to you via vdubT25</desc>
   </programme>
-  <programme start="20180914000000 +0100" stop="20180914235900 +0100" channel="974">
+  <programme start="20180919000000 +0100" stop="20180919235900 +0100" channel="974">
     <title lang="en">974 - All Day Every Day!!!!!</title>
     <desc lang="en">Brought to you via vdubT25(n)</desc>
   </programme>
-  <programme start="20180915000000 +0100" stop="20180915235900 +0100" channel="974">
-    <title lang="en">974 - All Day Every Day!!!!!</title>
-    <desc lang="en">Brought to you via vdubT25(n)</desc>
+  <programme start="20180917000000 +0100" stop="20180917235900 +0100" channel="975">
+    <title lang="en">975 - All Day Every Day!!!!!</title>
+    <desc lang="en">Brought to you via vdubT25</desc>
   </programme>
-  <programme start="20180916000000 +0100" stop="20180916235900 +0100" channel="974">
-    <title lang="en">974 - All Day Every Day!!!!!</title>
-    <desc lang="en">Brought to you via vdubT25(n)</desc>
+  <programme start="20180918000000 +0100" stop="20180918235900 +0100" channel="975">
+    <title lang="en">975 - All Day Every Day!!!!!</title>
+    <desc lang="en">Brought to you via vdubT25</desc>
   </programme>
-  <programme start="20180914000000 +0100" stop="20180914235900 +0100" channel="975">
+  <programme start="20180919000000 +0100" stop="20180919235900 +0100" channel="975">
     <title lang="en">975 - All Day Every Day!!!!!</title>
     <desc lang="en">Brought to you via vdubT25(n)</desc>
   </programme>
-  <programme start="20180915000000 +0100" stop="20180915235900 +0100" channel="975">
-    <title lang="en">975 - All Day Every Day!!!!!</title>
-    <desc lang="en">Brought to you via vdubT25(n)</desc>
+  <programme start="20180917000000 +0100" stop="20180917235900 +0100" channel="976">
+    <title lang="en">976 - All Day Every Day!!!!!</title>
+    <desc lang="en">Brought to you via vdubT25</desc>
   </programme>
-  <programme start="20180916000000 +0100" stop="20180916235900 +0100" channel="975">
-    <title lang="en">975 - All Day Every Day!!!!!</title>
-    <desc lang="en">Brought to you via vdubT25(n)</desc>
+  <programme start="20180918000000 +0100" stop="20180918235900 +0100" channel="976">
+    <title lang="en">976 - All Day Every Day!!!!!</title>
+    <desc lang="en">Brought to you via vdubT25</desc>
   </programme>
-  <programme start="20180914000000 +0100" stop="20180914235900 +0100" channel="976">
+  <programme start="20180919000000 +0100" stop="20180919235900 +0100" channel="976">
     <title lang="en">976 - All Day Every Day!!!!!</title>
     <desc lang="en">Brought to you via vdubT25(n)</desc>
   </programme>
-  <programme start="20180915000000 +0100" stop="20180915235900 +0100" channel="976">
-    <title lang="en">976 - All Day Every Day!!!!!</title>
-    <desc lang="en">Brought to you via vdubT25(n)</desc>
+  <programme start="20180917000000 +0100" stop="20180917235900 +0100" channel="977">
+    <title lang="en">977 - All Day Every Day!!!!!</title>
+    <desc lang="en">Brought to you via vdubT25</desc>
   </programme>
-  <programme start="20180916000000 +0100" stop="20180916235900 +0100" channel="976">
-    <title lang="en">976 - All Day Every Day!!!!!</title>
-    <desc lang="en">Brought to you via vdubT25(n)</desc>
+  <programme start="20180918000000 +0100" stop="20180918235900 +0100" channel="977">
+    <title lang="en">977 - All Day Every Day!!!!!</title>
+    <desc lang="en">Brought to you via vdubT25</desc>
   </programme>
-  <programme start="20180914000000 +0100" stop="20180914235900 +0100" channel="977">
+  <programme start="20180919000000 +0100" stop="20180919235900 +0100" channel="977">
     <title lang="en">977 - All Day Every Day!!!!!</title>
     <desc lang="en">Brought to you via vdubT25(n)</desc>
   </programme>
-  <programme start="20180915000000 +0100" stop="20180915235900 +0100" channel="977">
-    <title lang="en">977 - All Day Every Day!!!!!</title>
-    <desc lang="en">Brought to you via vdubT25(n)</desc>
+  <programme start="20180917000000 +0100" stop="20180917235900 +0100" channel="978">
+    <title lang="en">978 - All Day Every Day!!!!!</title>
+    <desc lang="en">Brought to you via vdubT25</desc>
   </programme>
-  <programme start="20180916000000 +0100" stop="20180916235900 +0100" channel="977">
-    <title lang="en">977 - All Day Every Day!!!!!</title>
-    <desc lang="en">Brought to you via vdubT25(n)</desc>
+  <programme start="20180918000000 +0100" stop="20180918235900 +0100" channel="978">
+    <title lang="en">978 - All Day Every Day!!!!!</title>
+    <desc lang="en">Brought to you via vdubT25</desc>
   </programme>
-  <programme start="20180914000000 +0100" stop="20180914235900 +0100" channel="978">
+  <programme start="20180919000000 +0100" stop="20180919235900 +0100" channel="978">
     <title lang="en">978 - All Day Every Day!!!!!</title>
     <desc lang="en">Brought to you via vdubT25(n)</desc>
   </programme>
-  <programme start="20180915000000 +0100" stop="20180915235900 +0100" channel="978">
-    <title lang="en">978 - All Day Every Day!!!!!</title>
-    <desc lang="en">Brought to you via vdubT25(n)</desc>
+  <programme start="20180917000000 +0100" stop="20180917235900 +0100" channel="979">
+    <title lang="en">979 - All Day Every Day!!!!!</title>
+    <desc lang="en">Brought to you via vdubT25</desc>
   </programme>
-  <programme start="20180916000000 +0100" stop="20180916235900 +0100" channel="978">
-    <title lang="en">978 - All Day Every Day!!!!!</title>
-    <desc lang="en">Brought to you via vdubT25(n)</desc>
+  <programme start="20180918000000 +0100" stop="20180918235900 +0100" channel="979">
+    <title lang="en">979 - All Day Every Day!!!!!</title>
+    <desc lang="en">Brought to you via vdubT25</desc>
   </programme>
-  <programme start="20180914000000 +0100" stop="20180914235900 +0100" channel="979">
+  <programme start="20180919000000 +0100" stop="20180919235900 +0100" channel="979">
     <title lang="en">979 - All Day Every Day!!!!!</title>
     <desc lang="en">Brought to you via vdubT25(n)</desc>
   </programme>
-  <programme start="20180915000000 +0100" stop="20180915235900 +0100" channel="979">
-    <title lang="en">979 - All Day Every Day!!!!!</title>
-    <desc lang="en">Brought to you via vdubT25(n)</desc>
+  <programme start="20180917000000 +0100" stop="20180917235900 +0100" channel="980">
+    <title lang="en">980 - All Day Every Day!!!!!</title>
+    <desc lang="en">Brought to you via vdubT25</desc>
   </programme>
-  <programme start="20180916000000 +0100" stop="20180916235900 +0100" channel="979">
-    <title lang="en">979 - All Day Every Day!!!!!</title>
-    <desc lang="en">Brought to you via vdubT25(n)</desc>
+  <programme start="20180918000000 +0100" stop="20180918235900 +0100" channel="980">
+    <title lang="en">980 - All Day Every Day!!!!!</title>
+    <desc lang="en">Brought to you via vdubT25</desc>
   </programme>
-  <programme start="20180914000000 +0100" stop="20180914235900 +0100" channel="980">
+  <programme start="20180919000000 +0100" stop="20180919235900 +0100" channel="980">
     <title lang="en">980 - All Day Every Day!!!!!</title>
     <desc lang="en">Brought to you via vdubT25(n)</desc>
   </programme>
-  <programme start="20180915000000 +0100" stop="20180915235900 +0100" channel="980">
-    <title lang="en">980 - All Day Every Day!!!!!</title>
-    <desc lang="en">Brought to you via vdubT25(n)</desc>
+  <programme start="20180917000000 +0100" stop="20180917235900 +0100" channel="981">
+    <title lang="en">981 - All Day Every Day!!!!!</title>
+    <desc lang="en">Brought to you via vdubT25</desc>
   </programme>
-  <programme start="20180916000000 +0100" stop="20180916235900 +0100" channel="980">
-    <title lang="en">980 - All Day Every Day!!!!!</title>
-    <desc lang="en">Brought to you via vdubT25(n)</desc>
+  <programme start="20180918000000 +0100" stop="20180918235900 +0100" channel="981">
+    <title lang="en">981 - All Day Every Day!!!!!</title>
+    <desc lang="en">Brought to you via vdubT25</desc>
   </programme>
-  <programme start="20180914000000 +0100" stop="20180914235900 +0100" channel="981">
+  <programme start="20180919000000 +0100" stop="20180919235900 +0100" channel="981">
     <title lang="en">981 - All Day Every Day!!!!!</title>
     <desc lang="en">Brought to you via vdubT25(n)</desc>
   </programme>
-  <programme start="20180915000000 +0100" stop="20180915235900 +0100" channel="981">
-    <title lang="en">981 - All Day Every Day!!!!!</title>
-    <desc lang="en">Brought to you via vdubT25(n)</desc>
+  <programme start="20180917000000 +0100" stop="20180917235900 +0100" channel="982">
+    <title lang="en">982 - All Day Every Day!!!!!</title>
+    <desc lang="en">Brought to you via vdubT25</desc>
   </programme>
-  <programme start="20180916000000 +0100" stop="20180916235900 +0100" channel="981">
-    <title lang="en">981 - All Day Every Day!!!!!</title>
-    <desc lang="en">Brought to you via vdubT25(n)</desc>
+  <programme start="20180918000000 +0100" stop="20180918235900 +0100" channel="982">
+    <title lang="en">982 - All Day Every Day!!!!!</title>
+    <desc lang="en">Brought to you via vdubT25</desc>
   </programme>
-  <programme start="20180914000000 +0100" stop="20180914235900 +0100" channel="982">
+  <programme start="20180919000000 +0100" stop="20180919235900 +0100" channel="982">
     <title lang="en">982 - All Day Every Day!!!!!</title>
     <desc lang="en">Brought to you via vdubT25(n)</desc>
   </programme>
-  <programme start="20180915000000 +0100" stop="20180915235900 +0100" channel="982">
-    <title lang="en">982 - All Day Every Day!!!!!</title>
-    <desc lang="en">Brought to you via vdubT25(n)</desc>
+  <programme start="20180917000000 +0100" stop="20180917235900 +0100" channel="983">
+    <title lang="en">983 - All Day Every Day!!!!!</title>
+    <desc lang="en">Brought to you via vdubT25</desc>
   </programme>
-  <programme start="20180916000000 +0100" stop="20180916235900 +0100" channel="982">
-    <title lang="en">982 - All Day Every Day!!!!!</title>
-    <desc lang="en">Brought to you via vdubT25(n)</desc>
+  <programme start="20180918000000 +0100" stop="20180918235900 +0100" channel="983">
+    <title lang="en">983 - All Day Every Day!!!!!</title>
+    <desc lang="en">Brought to you via vdubT25</desc>
   </programme>
-  <programme start="20180914000000 +0100" stop="20180914235900 +0100" channel="983">
+  <programme start="20180919000000 +0100" stop="20180919235900 +0100" channel="983">
     <title lang="en">983 - All Day Every Day!!!!!</title>
     <desc lang="en">Brought to you via vdubT25(n)</desc>
   </programme>
-  <programme start="20180915000000 +0100" stop="20180915235900 +0100" channel="983">
-    <title lang="en">983 - All Day Every Day!!!!!</title>
-    <desc lang="en">Brought to you via vdubT25(n)</desc>
+  <programme start="20180917000000 +0100" stop="20180917235900 +0100" channel="984">
+    <title lang="en">984 - All Day Every Day!!!!!</title>
+    <desc lang="en">Brought to you via vdubT25</desc>
   </programme>
-  <programme start="20180916000000 +0100" stop="20180916235900 +0100" channel="983">
-    <title lang="en">983 - All Day Every Day!!!!!</title>
-    <desc lang="en">Brought to you via vdubT25(n)</desc>
+  <programme start="20180918000000 +0100" stop="20180918235900 +0100" channel="984">
+    <title lang="en">984 - All Day Every Day!!!!!</title>
+    <desc lang="en">Brought to you via vdubT25</desc>
   </programme>
-  <programme start="20180914000000 +0100" stop="20180914235900 +0100" channel="984">
+  <programme start="20180919000000 +0100" stop="20180919235900 +0100" channel="984">
     <title lang="en">984 - All Day Every Day!!!!!</title>
     <desc lang="en">Brought to you via vdubT25(n)</desc>
   </programme>
-  <programme start="20180915000000 +0100" stop="20180915235900 +0100" channel="984">
-    <title lang="en">984 - All Day Every Day!!!!!</title>
-    <desc lang="en">Brought to you via vdubT25(n)</desc>
-  </programme>
-  <programme start="20180916000000 +0100" stop="20180916235900 +0100" channel="984">
-    <title lang="en">984 - All Day Every Day!!!!!</title>
-    <desc lang="en">Brought to you via vdubT25(n)</desc>
-  </programme>
-  <programme start="20180914000000 +0100" stop="20180914235900 +0100" channel="985">
+  <programme start="20180917000000 +0100" stop="20180917235900 +0100" channel="985">
     <title lang="en">985 - All Day Every Day!!!!!</title>
   </programme>
-  <programme start="20180915000000 +0100" stop="20180915235900 +0100" channel="985">
+  <programme start="20180918000000 +0100" stop="20180918235900 +0100" channel="985">
     <title lang="en">985 - All Day Every Day!!!!!</title>
   </programme>
-  <programme start="20180916000000 +0100" stop="20180916235900 +0100" channel="985">
+  <programme start="20180919000000 +0100" stop="20180919235900 +0100" channel="985">
     <title lang="en">985 - All Day Every Day!!!!!</title>
   </programme>
-  <programme start="20180914000000 +0100" stop="20180914235900 +0100" channel="986">
+  <programme start="20180917000000 +0100" stop="20180917235900 +0100" channel="986">
+    <title lang="en">986 - All Day Every Day!!!!!</title>
+    <desc lang="en">Brought to you via vdubT25</desc>
+  </programme>
+  <programme start="20180918000000 +0100" stop="20180918235900 +0100" channel="986">
+    <title lang="en">986 - All Day Every Day!!!!!</title>
+    <desc lang="en">Brought to you via vdubT25</desc>
+  </programme>
+  <programme start="20180919000000 +0100" stop="20180919235900 +0100" channel="986">
     <title lang="en">986 - All Day Every Day!!!!!</title>
     <desc lang="en">Brought to you via vdubT25(n)</desc>
   </programme>
-  <programme start="20180915000000 +0100" stop="20180915235900 +0100" channel="986">
-    <title lang="en">986 - All Day Every Day!!!!!</title>
-    <desc lang="en">Brought to you via vdubT25(n)</desc>
-  </programme>
-  <programme start="20180916000000 +0100" stop="20180916235900 +0100" channel="986">
-    <title lang="en">986 - All Day Every Day!!!!!</title>
-    <desc lang="en">Brought to you via vdubT25(n)</desc>
-  </programme>
-  <programme start="20180914000000 +0100" stop="20180914235900 +0100" channel="987">
+  <programme start="20180917000000 +0100" stop="20180917235900 +0100" channel="987">
     <title lang="en">987 - All Day Every Day!!!!!</title>
-    <desc lang="en">Brought to you via vdubT25(n)</desc>
+    <desc lang="en">Brought to you via vdubT25</desc>
   </programme>
-  <programme start="20180915000000 +0100" stop="20180915235900 +0100" channel="987">
+  <programme start="20180918000000 +0100" stop="20180918235900 +0100" channel="987">
     <title lang="en">987 - All Day Every Day!!!!!</title>
-    <desc lang="en">Brought to you via vdubT25(n)</desc>
+    <desc lang="en">Brought to you via vdubT25</desc>
   </programme>
-  <programme start="20180916000000 +0100" stop="20180916235900 +0100" channel="987">
+  <programme start="20180919000000 +0100" stop="20180919235900 +0100" channel="987">
     <title lang="en">987 - All Day Every Day!!!!!</title>
     <desc lang="en">Brought to you via vdubT25(n)</desc>
   </programme>
