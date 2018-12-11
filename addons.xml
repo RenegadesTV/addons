@@ -85,7 +85,7 @@ provider-name="primaeval">
 </addon>
 
 
-<addon id="script.renegadestv" name="Renegades" version="3.0.2" provider-name="Ant,Primaeval,RayW1986,Bluezed,Podgod">
+<addon id="script.renegadestv" name="Renegades" version="3.0.3" provider-name="Ant,Primaeval,RayW1986,Bluezed,Podgod">
 	<requires>
 		<import addon="xbmc.python" version="2.19.0"/>
 		<import addon="script.module.simplejson" version="3.3.0"/>
