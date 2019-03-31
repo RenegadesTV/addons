@@ -1809,7 +1809,7 @@
     <star-rating system="GB">
       <value>9/10</value>
     </star-rating>
-  </programme>
+$  </programme>
   <programme start="20190331061000 +0100" stop="20190331075500 +0100" channel="102">
     <title lang="en">Scott of the Antarctic</title>
     <desc lang="en">Fact-based drama following explorer Robert Falcon Scott's failed expedition to be the first to reach the South Pole. The extreme conditions, poor decision-making and the pressure of the race to make it to the Pole before their Norwegian rivals proved too much for the British team, resulting in tragedy in 1912. Starring John Mills, Derek Bond, James Robertson Justice, Kenneth More and John Gregson.(n)</desc>
@@ -18206,31 +18206,6 @@
       <value>9.5/10</value>
     </star-rating>
   </programme>
-</tv>stop="20190331100000 +0100" channel="307">
-    <title lang="en">Walking Tall</title>
-    <desc lang="en">A former member of the US Army Special Forces returns to his home town, only to find the pleasant rural backwater he once loved has become a criminal haven. Determined to restore order, he sets out to take down those responsible for the town's decline. Action adventure remake of the cult 1973 film, starring Dwayne Johnson, Johnny Knoxville, Neal McDonough and Kristen Wilson.(n)</desc>
-    <credits>
-      <director>Kevin Bray</director>
-      <actor>Neal McDonough</actor>
-      <actor>Kevin Durand</actor>
-      <actor>Kristen Wilson</actor>
-      <actor>Khleo Thomas</actor>
-      <actor>Ashley Scott</actor>
-      <actor>Johnny Knoxville</actor>
-      <actor>Dwayne Johnson</actor>
-      <actor>Barbara Tarbuck</actor>
-    </credits>
-    <date>2004</date>
-    <category lang="en">Adventure</category>
-    <icon src="https://i.yo.tv/tvguide_pictures/webANXWalkingTallWEB08.jpg" />
-    <subtitles />
-    <rating system="GB">
-      <value>15</value>
-    </rating>
-    <star-rating system="GB">
-      <value>6.7/10</value>
-    </star-rating>
-  </programme>
   <programme start="20190331100000 +0100" stop="20190331120000 +0100" channel="307">
     <title lang="en">The A-Team</title>
     <desc lang="en">Four soldiers are sent on a top-secret mission in Iraq that results in them being imprisoned for a crime they did not commit. When they learn the culprit is trying to sell equipment for producing fake currency, they break out of prison to find both him and evidence of their innocence. Action adventure based on the 1980s TV series, with Liam Neeson, Bradley Cooper, Sharlto Copley and Quinton `Rampage' Jackson.(n)</desc>
@@ -28859,7 +28834,7 @@
     <category lang="en">Childrens</category>
     <icon src="https://images.radiotimes.com/remote/static.radiotimes.com.edgesuite.net/pa/53/79/webANXbobthebuilder.jpg?quality=60&amp;mode=crop&amp;width=130&amp;height=100&amp;404=tv" />
   </programme>
-  <programme start="20190331063000 +0000" stop="20190331064500 +0000" channel="620">
+ $ <programme start="20190331063000 +0000" stop="20190331064500 +0000" channel="620">
     <title lang="en">Digby Dragon</title>
     <desc lang="en">Digby is sure he will win all the events at the Applecross Games. However, he soon discovers he is not as brilliant as he thought.(n)</desc>
     <category lang="en">Childrens</category>
