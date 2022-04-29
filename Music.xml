@@ -1,0 +1,2216 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tv generator-info-name="XMLTV Merge by Ray Wilson for Renegades TV">
+	<channel id="MTV Hits">
+		<display-name lang="en">MTV Hits</display-name>
+	</channel>
+	<channel id="MTV Live">
+		<display-name lang="en">MTV Live</display-name>
+	</channel>
+	<channel id="MTV 80s">
+		<display-name lang="en">MTV 80s</display-name>
+	</channel>
+	<channel id="MTV 90s">
+		<display-name lang="en">MTV 90s</display-name>
+	</channel>
+	<channel id="BET Jams">
+		<display-name lang="en">BET Jams</display-name>
+	</channel>
+	<channel id="BET Soul">
+		<display-name lang="en">BET Soul</display-name>
+	</channel>
+	<programme channel="MTV Hits" start="20220429010000 +0000" stop="20220429030000 +0000">
+		<title>Newest Vids &amp; Hot Hits!</title>
+		<desc>MTV Hits gives you the newest vids, bound to be massive and today's biggest hits! Enjoy.</desc>
+		<category>Action</category>
+	</programme>
+	<programme channel="MTV Hits" start="20220429030000 +0000" stop="20220429050000 +0000">
+		<title>Teleshopping</title>
+		<desc>Buying goods from the comfort of home.</desc>
+		<category>Lifestyle</category>
+	</programme>
+	<programme channel="MTV Hits" start="20220429050000 +0000" stop="20220429070000 +0000">
+		<title>Today's Top Hits</title>
+		<desc>Nothing but the biggest hits around from the biggest artists on the planet, right here, right now.</desc>
+		<category>Action</category>
+	</programme>
+	<programme channel="MTV Hits" start="20220429070000 +0000" stop="20220429083500 +0000">
+		<title>The Official UK Streaming Chart</title>
+		<desc>Be the first to discover who is Number One in the only Official UK Streaming Chart compiled exclusively by the Official Charts Company.</desc>
+		<category>Music</category>
+	</programme>
+	<programme channel="MTV Hits" start="20220429083500 +0000" stop="20220429090000 +0000">
+		<title>Today's Top Hits</title>
+		<desc>Nothing but the biggest hits around from the biggest artists on the planet, right here, right now.</desc>
+		<category>Action</category>
+	</programme>
+	<programme channel="MTV Hits" start="20220429090000 +0000" stop="20220429095000 +0000">
+		<title>2021Official Top 10</title>
+		<desc>We've got an official run-down of the biggest hits of 2021! Who has bagged the prestigious number one spot?</desc>
+		<category>Music</category>
+	</programme>
+	<programme channel="MTV Hits" start="20220429095000 +0000" stop="20220429100000 +0000">
+		<title>Newest Vids &amp; Hot Hits!</title>
+		<category>Music</category>
+	</programme>
+	<programme channel="MTV Hits" start="20220429100000 +0000" stop="20220429104500 +0000">
+		<title>The Official UK Chart Update</title>
+		<desc>Exclusive first look at the biggest-selling songs of the week as we reveal the winners and losers of the race to the Official UK Number One spot!</desc>
+		<category>Music</category>
+	</programme>
+	<programme channel="MTV Hits" start="20220429104500 +0000" stop="20220429110000 +0000">
+		<title>Newest Vids &amp; Hot Hits!</title>
+		<category>Music</category>
+	</programme>
+	<programme channel="MTV Hits" start="20220429110000 +0000" stop="20220429135500 +0000">
+		<title>The Official UK Top 40</title>
+		<desc>A countdown of the week's most popular singles.</desc>
+		<category>Music</category>
+	</programme>
+	<programme channel="MTV Hits" start="20220429135500 +0000" stop="20220429140000 +0000">
+		<title>David Guetta X2</title>
+		<category>Music</category>
+	</programme>
+	<programme channel="MTV Hits" start="20220429140000 +0000" stop="20220429155000 +0000">
+		<title>No 1s on This Day2000-2021</title>
+		<desc>Expect nothing but the best as we play every single hit that made it to the Number 1 spot on this day over the last twenty-one years!</desc>
+		<category>Music</category>
+	</programme>
+	<programme channel="MTV Hits" start="20220429155000 +0000" stop="20220429155500 +0000">
+		<title>Camila Cabello Ft. WillowBrand New Vid!</title>
+		<desc>Check out the brand new vid for 'psychofreak', the latest single from Camila Cabello featuring Willow!</desc>
+		<category>Music</category>
+	</programme>
+	<programme channel="MTV Hits" start="20220429155500 +0000" stop="20220429160000 +0000">
+		<title>Brand New Vid! DELETE!!!</title>
+		<desc>Shawn drops the epic new video for the title track of his forthcoming album 'Wonder'.</desc>
+		<category>Music</category>
+	</programme>
+	<programme channel="MTV Hits" start="20220429160000 +0000" stop="20220429164500 +0000">
+		<title>The Official UK Chart Update</title>
+		<desc>Exclusive first look at the biggest-selling songs of the week as we reveal the winners and losers of the race to the Official UK Number One spot!</desc>
+		<category>Music</category>
+	</programme>
+	<programme channel="MTV Hits" start="20220429164500 +0000" stop="20220429170000 +0000">
+		<title>Newest Vids &amp; Hot Hits!</title>
+		<category>Music</category>
+	</programme>
+	<programme channel="MTV Hits" start="20220429170000 +0000" stop="20220429180000 +0000">
+		<title>Ed SheeranAll My Number 1s!</title>
+		<desc>Right now we're playing all of the biggest hits from Ed Sheeran that have topped the UK charts! Enjoy!</desc>
+		<category>Music</category>
+	</programme>
+	<programme channel="MTV Hits" start="20220429180000 +0000" stop="20220429192500 +0000">
+		<title>Club MTV's Big 20</title>
+		<desc>We're bringing you 20 of biggests tracks MTV has to offer, so get up and dance to this party playlist!</desc>
+		<category>Music</category>
+	</programme>
+	<programme channel="MTV Hits" start="20220429192500 +0000" stop="20220429200000 +0000">
+		<title>Today's Top Hits</title>
+		<desc>Nothing but the biggest hits around from the biggest artists on the planet, right here, right now.</desc>
+		<category>Action</category>
+	</programme>
+	<programme channel="MTV Hits" start="20220429200000 +0000" stop="20220430004500 +0000">
+		<title>Ultimate 50 Party Hits Of The 10s</title>
+		<desc>This is one awesome party playlist, full of 50 banging tracks from the 10s guaranteed to get your party started!</desc>
+		<category>Music</category>
+	</programme>
+	<programme channel="MTV Hits" start="20220430004500 +0000" stop="20220430010000 +0000">
+		<title>Newest Vids &amp; Hot Hits!</title>
+		<category>Music</category>
+	</programme>
+	<programme channel="MTV Hits" start="20220430010000 +0000" stop="20220430030000 +0000">
+		<title>Newest Vids &amp; Hot Hits!</title>
+		<desc>MTV Hits gives you the newest vids, bound to be massive and today's biggest hits! Enjoy.</desc>
+		<category>Action</category>
+	</programme>
+	<programme channel="MTV Hits" start="20220430030000 +0000" stop="20220430050000 +0000">
+		<title>Teleshopping</title>
+		<desc>Buying goods from the comfort of home.</desc>
+		<category>Lifestyle</category>
+	</programme>
+	<programme channel="MTV Hits" start="20220430050000 +0000" stop="20220430070000 +0000">
+		<title>Today's Top Hits</title>
+		<desc>Nothing but the biggest hits around from the biggest artists on the planet, right here, right now.</desc>
+		<category>Action</category>
+	</programme>
+	<programme channel="MTV Hits" start="20220430070000 +0000" stop="20220430111500 +0000">
+		<title>Top 50 Official No.1s Of The 10s</title>
+		<desc>We're counting down 50 of the biggest and hottest tracks that conquered the chart in the 10s. Who will be the winner of them all? Tune in to find out!</desc>
+		<category>Music</category>
+	</programme>
+	<programme channel="MTV Hits" start="20220430111500 +0000" stop="20220430120000 +0000">
+		<title>Today's Top Hits</title>
+		<desc>Nothing but the biggest hits around from the biggest artists on the planet, right here, right now.</desc>
+		<category>Action</category>
+	</programme>
+	<programme channel="MTV Hits" start="20220430120000 +0000" stop="20220430145500 +0000">
+		<title>The Official UK Top 40</title>
+		<desc>A countdown of the week's most popular singles.</desc>
+		<category>Music</category>
+	</programme>
+	<programme channel="MTV Hits" start="20220430145500 +0000" stop="20220430150000 +0000">
+		<title>Ed SheeranBrand New Vid!</title>
+		<category>Music</category>
+	</programme>
+	<programme channel="MTV Hits" start="20220430150000 +0000" stop="20220430165500 +0000">
+		<title>BeyonceThe Official Top 20</title>
+		<desc>A countdown of the American singer-songwriter's greatest hits.</desc>
+		<category>Music</category>
+	</programme>
+	<programme channel="MTV Hits" start="20220430165500 +0000" stop="20220430170000 +0000">
+		<title>Ed SheeranBrand New Vid!</title>
+		<category>Music</category>
+	</programme>
+	<programme channel="MTV Hits" start="20220430170000 +0000" stop="20220430185000 +0000">
+		<title>No 1s on This Day2000-2021</title>
+		<desc>Expect nothing but the best as we play every single hit that made it to the Number 1 spot on this day over the last twenty-one years!</desc>
+		<category>Music</category>
+	</programme>
+	<programme channel="MTV Hits" start="20220430185000 +0000" stop="20220430185500 +0000">
+		<title>Ed SheeranBrand New Vid!</title>
+		<category>Music</category>
+	</programme>
+	<programme channel="MTV Hits" start="20220430185500 +0000" stop="20220430190000 +0000">
+		<title>Camila Cabello Ft. WillowBrand New Vid!</title>
+		<desc>Check out the brand new vid for 'psychofreak', the latest single from Camila Cabello featuring Willow!</desc>
+		<category>Music</category>
+	</programme>
+	<programme channel="MTV Hits" start="20220430190000 +0000" stop="20220430215500 +0000">
+		<title>The Official UK Top 40</title>
+		<desc>A countdown of the week's most popular singles.</desc>
+		<category>Music</category>
+	</programme>
+	<programme channel="MTV Hits" start="20220430215500 +0000" stop="20220430220000 +0000">
+		<title>Ed SheeranBrand New Vid!</title>
+		<category>Music</category>
+	</programme>
+	<programme channel="MTV Hits" start="20220430220000 +0000" stop="20220430233000 +0000">
+		<title>Club MTV's Big 20</title>
+		<desc>We're bringing you 20 of biggests tracks MTV has to offer, so get up and dance to this party playlist!</desc>
+		<category>Music</category>
+	</programme>
+	<programme channel="MTV Hits" start="20220430233000 +0000" stop="20220501000000 +0000">
+		<title>Newest Vids &amp; Hot Hits!</title>
+		<category>Music</category>
+	</programme>
+	<programme channel="MTV Hits" start="20220501000000 +0000" stop="20220501030000 +0000">
+		<title>Newest Vids &amp; Hot Hits!</title>
+		<desc>MTV Hits gives you the newest vids, bound to be massive and today's biggest hits! Enjoy.</desc>
+		<category>Action</category>
+	</programme>
+	<programme channel="MTV Hits" start="20220501030000 +0000" stop="20220501050000 +0000">
+		<title>Teleshopping</title>
+		<desc>Buying goods from the comfort of home.</desc>
+		<category>Lifestyle</category>
+	</programme>
+	<programme channel="MTV Hits" start="20220501050000 +0000" stop="20220501070000 +0000">
+		<title>Today's Top Hits</title>
+		<desc>Nothing but the biggest hits around from the biggest artists on the planet, right here, right now.</desc>
+		<category>Action</category>
+	</programme>
+	<programme channel="MTV Hits" start="20220501070000 +0000" stop="20220501090000 +0000">
+		<title>No 1s on This Day2000-2021</title>
+		<desc>Expect nothing but the best as we play every single hit that made it to the Number 1 spot on this day over the last twenty-one years!</desc>
+		<category>Music</category>
+	</programme>
+	<programme channel="MTV Hits" start="20220501090000 +0000" stop="20220501120000 +0000">
+		<title>The Official UK Top 40</title>
+		<desc>A countdown of the week's most popular singles.</desc>
+		<category>Music</category>
+	</programme>
+	<programme channel="MTV Hits" start="20220501120000 +0000" stop="20220501170000 +0000">
+		<title>Ultimate Noughties Number 1s from the Boys!</title>
+		<desc>James Barr counts down the biggest and best chart-toppers by boys! Including modern classics from Justin Timberlake, Take That, Westlife and many more!</desc>
+		<category>Music</category>
+	</programme>
+	<programme channel="MTV Hits" start="20220501170000 +0000" stop="20220501200000 +0000">
+		<title>The Official UK Top 40</title>
+		<desc>A countdown of the week's most popular singles.</desc>
+		<category>Music</category>
+	</programme>
+	<programme channel="MTV Hits" start="20220501200000 +0000" stop="20220501220000 +0000">
+		<title>David GuettaOfficial Top 20</title>
+		<desc>It's official...we've got the 20 biggest selling tracks from worldwide superstar DJ, David Guetta, as compiled by the Official Charts Company.</desc>
+		<category>Action</category>
+	</programme>
+	<programme channel="MTV Hits" start="20220501220000 +0000" stop="20220502000000 +0000">
+		<title>The Official UK Streaming Chart</title>
+		<desc>Be the first to discover who is Number One in the only Official UK Streaming Chart compiled exclusively by the Official Charts Company.</desc>
+		<category>Music</category>
+	</programme>
+	<programme channel="MTV Hits" start="20220502000000 +0000" stop="20220502030000 +0000">
+		<title>Newest Vids &amp; Hot Hits!</title>
+		<desc>MTV Hits gives you the newest vids, bound to be massive and today's biggest hits! Enjoy.</desc>
+		<category>Action</category>
+	</programme>
+	<programme channel="MTV Hits" start="20220502030000 +0000" stop="20220502050000 +0000">
+		<title>Teleshopping</title>
+		<desc>Buying goods from the comfort of home.</desc>
+		<category>Lifestyle</category>
+	</programme>
+	<programme channel="MTV Hits" start="20220502050000 +0000" stop="20220502070000 +0000">
+		<title>Today's Top Hits</title>
+		<desc>Nothing but the biggest hits around from the biggest artists on the planet, right here, right now.</desc>
+		<category>Action</category>
+	</programme>
+	<programme channel="MTV Hits" start="20220502070000 +0000" stop="20220502100000 +0000">
+		<title>The Official UK Top 40</title>
+		<desc>A countdown of the week's most popular singles.</desc>
+		<category>Music</category>
+	</programme>
+	<programme channel="MTV Hits" start="20220502100000 +0000" stop="20220502150000 +0000">
+		<title>Top 100 00s No 1s</title>
+		<desc>Brace yourself for a blast from the past as we bring you some of your favourite '00s chart toppers in this top 100 countdown!(c)</desc>
+		<category>Music</category>
+	</programme>
+	<programme channel="MTV Hits" start="20220502150000 +0000" stop="20220502190000 +0000">
+		<title>Top 100 00s No 1s</title>
+		<desc>Brace yourself for a blast from the past as we bring you some of your favourite '00s chart toppers in this top 100 countdown!(c)</desc>
+		<category>Music</category>
+	</programme>
+	<programme channel="MTV Hits" start="20220502190000 +0000" stop="20220502210000 +0000">
+		<title>Bank Holiday Bangers!</title>
+		<desc>The spring bank holiday is here and to celebrate, we've decided to play some of the hottest hits just for you. Enjoy!(c)</desc>
+		<category>Action</category>
+	</programme>
+	<programme channel="MTV Hits" start="20220502210000 +0000" stop="20220502230000 +0000">
+		<title>The Official UK Top 20</title>
+		<desc>Countdown of the week's UK Top 20, compiled by the Official Charts Company.</desc>
+		<category>Music</category>
+	</programme>
+	<programme channel="MTV Hits" start="20220502230000 +0000" stop="20220503010000 +0000">
+		<title>The Official UK Streaming Chart</title>
+		<desc>Be the first to discover who is Number One in the only Official UK Streaming Chart compiled exclusively by the Official Charts Company.</desc>
+		<category>Music</category>
+	</programme>
+	<programme channel="MTV Hits" start="20220503010000 +0000" stop="20220503030000 +0000">
+		<title>Newest Vids &amp; Hot Hits!</title>
+		<desc>MTV Hits gives you the newest vids, bound to be massive and today's biggest hits! Enjoy.</desc>
+		<category>Action</category>
+	</programme>
+	<programme channel="MTV Hits" start="20220503030000 +0000" stop="20220503050000 +0000">
+		<title>Teleshopping</title>
+		<desc>Buying goods from the comfort of home.</desc>
+		<category>Lifestyle</category>
+	</programme>
+	<programme channel="MTV Hits" start="20220503050000 +0000" stop="20220503070000 +0000">
+		<title>Today's Top Hits</title>
+		<desc>Nothing but the biggest hits around from the biggest artists on the planet, right here, right now.</desc>
+		<category>Action</category>
+	</programme>
+	<programme channel="MTV Hits" start="20220503070000 +0000" stop="20220503090000 +0000">
+		<title>The Official UK Top 20</title>
+		<desc>Countdown of the week's UK Top 20, compiled by the Official Charts Company.</desc>
+		<category>Music</category>
+	</programme>
+	<programme channel="MTV Hits" start="20220503090000 +0000" stop="20220503100000 +0000">
+		<title>Katy Perry Official Top 10</title>
+		<desc>Exclusive countdown of Katy Perry's 10 biggest hits, according to Official sales figures.</desc>
+		<category>Music</category>
+	</programme>
+	<programme channel="MTV Hits" start="20220503100000 +0000" stop="20220503130000 +0000">
+		<title>The Official UK Top 40</title>
+		<desc>A countdown of the week's most popular singles.</desc>
+		<category>Music</category>
+	</programme>
+	<programme channel="MTV Hits" start="20220503130000 +0000" stop="20220503180000 +0000">
+		<title>Ultimate Noughties Number 1s from the Boys!</title>
+		<desc>James Barr counts down the biggest and best chart-toppers by boys! Including modern classics from Justin Timberlake, Take That, Westlife and many more!</desc>
+		<category>Music</category>
+	</programme>
+	<programme channel="MTV Hits" start="20220503180000 +0000" stop="20220503200000 +0000">
+		<title>The Official UK Top 20</title>
+		<desc>Countdown of the week's UK Top 20, compiled by the Official Charts Company.</desc>
+		<category>Music</category>
+	</programme>
+	<programme channel="MTV Hits" start="20220503200000 +0000" stop="20220503230000 +0000">
+		<title>The Official UK Top 40</title>
+		<desc>A countdown of the week's most popular singles.</desc>
+		<category>Music</category>
+	</programme>
+	<programme channel="MTV Hits" start="20220503230000 +0000" stop="20220504000000 +0000">
+		<title>EminemOfficial Top 10</title>
+		<desc>A countdown of Eminem's biggest selling hits to date, according to the Official Charts Company.</desc>
+		<category>Music</category>
+	</programme>
+	<programme channel="MTV Live" start="20220429010000 +0100" stop="20220429020000 +0100">
+		<title>John LegendMTV Live</title>
+		<desc>Grammy award-winning soul singer, John Legend, performs live from Rome. Songs include hits such as 'Used to Love U,' 'Save Room' and 'Green Light.'.</desc>
+		<category>Music</category>
+	</programme>
+	<programme channel="MTV Live" start="20220429020000 +0100" stop="20220429023000 +0100">
+		<title>Unplugged</title>
+		<sub-title>All Time Low</sub-title>
+		<desc>All Time Low performs from New York City. Their show includes songs such as 'Weightless,' Dear Maria,' 'Count Me In,' 'Damned if I Do Ya (Damned if I Don't).'.</desc>
+		<category>Music</category>
+	</programme>
+	<programme channel="MTV Live" start="20220429023000 +0100" stop="20220429030000 +0100">
+		<title>Conor MaynardMTV Brand New Live</title>
+		<desc>Emerging British pop star Conor Maynard performs.</desc>
+		<category>Music</category>
+	</programme>
+	<programme channel="MTV Live" start="20220429030000 +0100" stop="20220429033000 +0100">
+		<title>Unplugged</title>
+		<sub-title>Silversun Pickups</sub-title>
+		<desc>Silversun Pickups perform live in this brand new MTV Unplugged with songs such as 'Lazy Eye,' 'Panic Switch,' and 'Well Thought Out Twinkles.'.</desc>
+		<category>Music</category>
+	</programme>
+	<programme channel="MTV Live" start="20220429033000 +0100" stop="20220429033000 +0100">
+		<title>Epic Awesome Videos</title>
+		<desc>Playing the latest HD music videos.</desc>
+		<category>Music</category>
+	</programme>
+	<programme channel="MTV Live" start="20220429033000 +0100" stop="20220429110000 +0100">
+		<title>Epic Awesome Videos</title>
+		<desc>Playing the latest HD music videos.</desc>
+		<category>Music</category>
+	</programme>
+	<programme channel="MTV Live" start="20220429110000 +0100" stop="20220429210000 +0100">
+		<title>Epic Awesome Videos</title>
+		<desc>Playing the latest HD music videos.</desc>
+		<category>Music</category>
+	</programme>
+	<programme channel="MTV Live" start="20220429210000 +0100" stop="20220429213000 +0100">
+		<title>Tom OdellMTV Brand New Live</title>
+		<desc>British singer/ songwriter Tom Odell performs hits like 'Another Love,' 'Hold Me,' and 'Can't Pretend.'.</desc>
+		<category>Music</category>
+	</programme>
+	<programme channel="MTV Live" start="20220429213000 +0100" stop="20220429230000 +0100">
+		<title>MTV Unplugged</title>
+		<sub-title>Gang of Youths</sub-title>
+		<desc>MTV's acclaimed acoustic music series showcases the work of today's top artists.</desc>
+		<category>Music</category>
+	</programme>
+	<programme channel="MTV Live" start="20220429230000 +0100" stop="20220430010000 +0100">
+		<title>Epic Awesome Videos</title>
+		<desc>Playing the latest HD music videos.</desc>
+		<category>Music</category>
+	</programme>
+	<programme channel="MTV Live" start="20220430010000 +0100" stop="20220430020000 +0100">
+		<title>MTV World Stage</title>
+		<sub-title>Flo Rida</sub-title>
+		<desc>Flo Rida takes the stage live from Malta. Performance includes hits such as 'Wild Ones,' 'Good Feeling' and 'Whistle.'.</desc>
+		<category>Music</category>
+	</programme>
+	<programme channel="MTV Live" start="20220430020000 +0100" stop="20220430030000 +0100">
+		<title>MTV World Stage</title>
+		<sub-title>Muse</sub-title>
+		<desc>Muse performs live at the 2010 Rock Am Ring in Germany.</desc>
+		<category>Music</category>
+	</programme>
+	<programme channel="MTV Live" start="20220430030000 +0100" stop="20220430040000 +0100">
+		<title>MTV World Stage</title>
+		<sub-title>Train</sub-title>
+		<desc>Featuring performances from musical act Train at O2 Empire in London.</desc>
+		<category>Music</category>
+	</programme>
+	<programme channel="MTV Live" start="20220430040000 +0100" stop="20220430040000 +0100">
+		<title>Epic Awesome Videos</title>
+		<desc>Playing the latest HD music videos.</desc>
+		<category>Music</category>
+	</programme>
+	<programme channel="MTV Live" start="20220430040000 +0100" stop="20220430110000 +0100">
+		<title>Epic Awesome Videos</title>
+		<desc>Playing the latest HD music videos.</desc>
+		<category>Music</category>
+	</programme>
+	<programme channel="MTV Live" start="20220430110000 +0100" stop="20220430170000 +0100">
+		<title>Epic Awesome Videos</title>
+		<desc>Playing the latest HD music videos.</desc>
+		<category>Music</category>
+	</programme>
+	<programme channel="MTV Live" start="20220430170000 +0100" stop="20220430230000 +0100">
+		<title>Epic Awesome Videos</title>
+		<desc>Playing the latest HD music videos.</desc>
+		<category>Music</category>
+	</programme>
+	<programme channel="MTV Live" start="20220430230000 +0100" stop="20220501050000 +0100">
+		<title>Epic Awesome Videos</title>
+		<desc>Playing the latest HD music videos.</desc>
+		<category>Music</category>
+	</programme>
+	<programme channel="MTV Live" start="20220501050000 +0100" stop="20220501050000 +0100">
+		<title>Epic Awesome Videos</title>
+		<desc>Playing the latest HD music videos.</desc>
+		<category>Music</category>
+	</programme>
+	<programme channel="MTV Live" start="20220501050000 +0100" stop="20220501110000 +0100">
+		<title>Epic Awesome Videos</title>
+		<desc>Playing the latest HD music videos.</desc>
+		<category>Music</category>
+	</programme>
+	<programme channel="MTV Live" start="20220501110000 +0100" stop="20220501170000 +0100">
+		<title>Epic Awesome Videos</title>
+		<desc>Playing the latest HD music videos.</desc>
+		<category>Music</category>
+	</programme>
+	<programme channel="MTV Live" start="20220501170000 +0100" stop="20220501230000 +0100">
+		<title>Epic Awesome Videos</title>
+		<desc>Playing the latest HD music videos.</desc>
+		<category>Music</category>
+	</programme>
+	<programme channel="MTV Live" start="20220501230000 +0100" stop="20220502050000 +0100">
+		<title>Epic Awesome Videos</title>
+		<desc>Playing the latest HD music videos.</desc>
+		<category>Music</category>
+	</programme>
+	<programme channel="MTV Live" start="20220502050000 +0100" stop="20220502050000 +0100">
+		<title>Epic Awesome Videos</title>
+		<desc>Playing the latest HD music videos.</desc>
+		<category>Music</category>
+	</programme>
+	<programme channel="MTV Live" start="20220502050000 +0100" stop="20220502110000 +0100">
+		<title>Epic Awesome Videos</title>
+		<desc>Playing the latest HD music videos.</desc>
+		<category>Music</category>
+	</programme>
+	<programme channel="MTV Live" start="20220502110000 +0100" stop="20220502200000 +0100">
+		<title>Epic Awesome Videos</title>
+		<desc>Playing the latest HD music videos.</desc>
+		<category>Music</category>
+	</programme>
+	<programme channel="MTV Live" start="20220502200000 +0100" stop="20220502203000 +0100">
+		<title>Conor MaynardMTV Brand New Live</title>
+		<desc>Emerging British pop star Conor Maynard performs.</desc>
+		<category>Music</category>
+	</programme>
+	<programme channel="MTV Live" start="20220502203000 +0100" stop="20220502210000 +0100">
+		<title>Unplugged</title>
+		<sub-title>Silversun Pickups</sub-title>
+		<desc>Silversun Pickups perform live in this brand new MTV Unplugged with songs such as 'Lazy Eye,' 'Panic Switch,' and 'Well Thought Out Twinkles.'.</desc>
+		<category>Music</category>
+	</programme>
+	<programme channel="MTV Live" start="20220502210000 +0100" stop="20220502213000 +0100">
+		<title>Unplugged</title>
+		<sub-title>All Time Low</sub-title>
+		<desc>All Time Low performs from New York City. Their show includes songs such as 'Weightless,' Dear Maria,' 'Count Me In,' 'Damned if I Do Ya (Damned if I Don't).'.</desc>
+		<category>Music</category>
+	</programme>
+	<programme channel="MTV Live" start="20220502213000 +0100" stop="20220502230000 +0100">
+		<title>MTV Unplugged</title>
+		<sub-title>Gang of Youths</sub-title>
+		<desc>MTV's acclaimed acoustic music series showcases the work of today's top artists.</desc>
+		<category>Music</category>
+	</programme>
+	<programme channel="MTV Live" start="20220502230000 +0100" stop="20220503010000 +0100">
+		<title>Epic Awesome Videos</title>
+		<desc>Playing the latest HD music videos.</desc>
+		<category>Music</category>
+	</programme>
+	<programme channel="MTV Live" start="20220503010000 +0100" stop="20220503020000 +0100">
+		<title>MTV Unplugged</title>
+		<sub-title>Liam Gallagher</sub-title>
+		<desc>Liam Gallagher strips down to play some of your favorite Oasis and Beady Eye tracks along with some brand new solo material.</desc>
+		<category>Music</category>
+	</programme>
+	<programme channel="MTV Live" start="20220503020000 +0100" stop="20220503033000 +0100">
+		<title>Nine Days and Nights of Ed Sheeran Deluxe Edition</title>
+		<desc>Go inside the world of Ed Sheeran, one of the fastest-rising stars in pop music today. This deluxe edition contains an additional half hour of never before seen footage.</desc>
+		<category>Music</category>
+	</programme>
+	<programme channel="MTV Live" start="20220503033000 +0100" stop="20220503040000 +0100">
+		<title>Unplugged</title>
+		<sub-title>Trey Songz</sub-title>
+		<desc>Trey Songz brings the heat to the New York City stage with 'Say Aah' and 'Neighbors Know My Name.'.</desc>
+		<category>Music</category>
+	</programme>
+	<programme channel="MTV Live" start="20220503040000 +0100" stop="20220503040000 +0100">
+		<title>Epic Awesome Videos</title>
+		<desc>Playing the latest HD music videos.</desc>
+		<category>Music</category>
+	</programme>
+	<programme channel="MTV Live" start="20220503040000 +0100" stop="20220503110000 +0100">
+		<title>Epic Awesome Videos</title>
+		<desc>Playing the latest HD music videos.</desc>
+		<category>Music</category>
+	</programme>
+	<programme channel="MTV Live" start="20220503110000 +0100" stop="20220503200000 +0100">
+		<title>Epic Awesome Videos</title>
+		<desc>Playing the latest HD music videos.</desc>
+		<category>Music</category>
+	</programme>
+	<programme channel="MTV Live" start="20220503200000 +0100" stop="20220503210000 +0100">
+		<title>Storytellers</title>
+		<sub-title>Bruce Springsteen</sub-title>
+		<desc>Bruce Springsteen treats fans to an intimate performance including songs from his latest album Devils and Dust as well as classics. Also included are questions from the fans as well as a new interview with Springsteen and the stories behind the songs.</desc>
+		<category>Music</category>
+	</programme>
+	<programme channel="MTV Live" start="20220503210000 +0100" stop="20220503213000 +0100">
+		<title>Rock Icons</title>
+		<sub-title>Dave Mustaine</sub-title>
+		<desc>Discover how Dave Mustaine's instinct to fight has driven him out of a life of misery and into a life of fame.</desc>
+		<category>Music</category>
+	</programme>
+	<programme channel="MTV Live" start="20220503213000 +0100" stop="20220503220000 +0100">
+		<title>Rock Icons</title>
+		<sub-title>Billy Corgan</sub-title>
+		<desc>Hardly a week goes by without Billy Corgan making a comment that is seemingly designed to both infuriate and dismay. In his home town of Chicago, the Smashing Pumpkins leader is picking a fight with his most formidable enemy: his own musical legacy.</desc>
+		<category>Music</category>
+	</programme>
+	<programme channel="MTV Live" start="20220503220000 +0100" stop="20220503223000 +0100">
+		<title>Rock Icons</title>
+		<sub-title>Ted Nugent</sub-title>
+		<desc>Rock Icons travels to the heart of Texas to confront the Motor City Madman himself, in an attempt to reclaim the oft-forgotten narrative of why the man became a legend in the first place.</desc>
+		<category>Music</category>
+	</programme>
+	<programme channel="MTV Live" start="20220503223000 +0100" stop="20220503230000 +0100">
+		<title>Rock Icons</title>
+		<sub-title>Slash</sub-title>
+		<desc>Catch up with Slash at his Los Angeles home as he talks about many topics, including how much of his life as rock n' roll's last great guitarist was inevitable.</desc>
+		<category>Music</category>
+	</programme>
+	<programme channel="MTV Live" start="20220503230000 +0100" stop="20220504010000 +0100">
+		<title>Epic Awesome Videos</title>
+		<desc>Playing the latest HD music videos.</desc>
+		<category>Music</category>
+	</programme>
+	<programme channel="MTV 80s" start="20220429000000 +0000" stop="20220429010000 +0000">
+		<title>MTV @ The Movies!</title>
+		<desc>Grab your popcorn and put on your 3D glasses because MTV 80s is heading to the movies, with all the big screen soundtrack hits of the decade!</desc>
+		<category>Music</category>
+	</programme>
+	<programme channel="MTV 80s" start="20220429010000 +0000" stop="20220429030000 +0000">
+		<title>Non-Stop 80s Hits!</title>
+		<desc>We got hits We got hits from the 80s. And guess what? They don't stop! IT'S WHAT IT SAYS ON THE TIN! You're welcome!</desc>
+		<category>Music</category>
+	</programme>
+	<programme channel="MTV 80s" start="20220429030000 +0000" stop="20220429050000 +0000">
+		<title>Teleshopping</title>
+		<desc>Buying goods from the comfort of home.</desc>
+		<category>Lifestyle</category>
+	</programme>
+	<programme channel="MTV 80s" start="20220429050000 +0000" stop="20220429070000 +0000">
+		<title>I Want My MTV 80s!</title>
+		<desc>It's '80s month here at MTV and we're saluting big hair, power suits and a decade of pure pop icons. It's non-stop nostalgia right here at MTV 80s!</desc>
+		<category>Music</category>
+	</programme>
+	<programme channel="MTV 80s" start="20220429070000 +0000" stop="20220429080000 +0000">
+		<title>It's Raining Men Hallelujah!</title>
+		<desc>We hope you've got an extra-strong brolly at the ready, as the men of the 1980s that ruled TV screens and music charts are about to land, thick and fast!</desc>
+		<category>Music</category>
+	</programme>
+	<programme channel="MTV 80s" start="20220429080000 +0000" stop="20220429125000 +0000">
+		<title>80sOfficial Top 50</title>
+		<desc>We use official chart stats to count down 50 of the biggest hits of the 80s! Expect plenty of shoulder pads, big hair, shell suits, yuppies, and as many 80s stereotypes we can think of.</desc>
+		<category>Music</category>
+	</programme>
+	<programme channel="MTV 80s" start="20220429125000 +0000" stop="20220429130000 +0000">
+		<title>It's Raining Men Hallelujah!</title>
+		<desc>We hope you've got an extra-strong brolly at the ready, as the men of the 1980s that ruled TV screens and music charts are about to land, thick and fast!</desc>
+		<category>Music</category>
+	</programme>
+	<programme channel="MTV 80s" start="20220429130000 +0000" stop="20220429135000 +0000">
+		<title>This Week In 1983Official Rewind Chart</title>
+		<desc>We're hitting rewind as we take a look at the hits that made it into the Official UK Chart this week in 1983!</desc>
+		<category>Music</category>
+	</programme>
+	<programme channel="MTV 80s" start="20220429135000 +0000" stop="20220429140000 +0000">
+		<title>More Hits from 1983!</title>
+		<desc>Don't worry if you haven't quite had your fill of the sounds of 1983 - we've got a few more hits coming right up!</desc>
+		<category>Music</category>
+	</programme>
+	<programme channel="MTV 80s" start="20220429140000 +0000" stop="20220429160000 +0000">
+		<title>Bigger Than Big! 20 Epic 80s Anthems!</title>
+		<desc>We've lined up 20 absolutely huge tracks from the 80s that were so big we still can't get enough of them today!</desc>
+		<category>Music</category>
+	</programme>
+	<programme channel="MTV 80s" start="20220429160000 +0000" stop="20220429210000 +0000">
+		<title>Say I'm Your Number One! Top 100</title>
+		<desc>There's no denying the 80s gave us some cracking number one tracks that we still can't get enough of, so enjoy a bumper selection of the very best that made it all the way to the top!</desc>
+		<category>Music</category>
+	</programme>
+	<programme channel="MTV 80s" start="20220429210000 +0000" stop="20220430005500 +0000">
+		<title>Say I'm Your Number One! Top 100</title>
+		<desc>There's no denying the 80s gave us some cracking number one tracks that we still can't get enough of, so enjoy a bumper selection of the very best that made it all the way to the top!</desc>
+		<category>Music</category>
+	</programme>
+	<programme channel="MTV 80s" start="20220430005500 +0000" stop="20220430030000 +0000">
+		<title>Non-Stop 80s Hits!</title>
+		<desc>We got hits We got hits from the 80s. And guess what? They don't stop! IT'S WHAT IT SAYS ON THE TIN! You're welcome!</desc>
+		<category>Music</category>
+	</programme>
+	<programme channel="MTV 80s" start="20220430030000 +0000" stop="20220430050000 +0000">
+		<title>Teleshopping</title>
+		<desc>Buying goods from the comfort of home.</desc>
+		<category>Lifestyle</category>
+	</programme>
+	<programme channel="MTV 80s" start="20220430050000 +0000" stop="20220430070000 +0000">
+		<title>The Sun Always Shines on MTV!</title>
+		<desc>You're probably busy living your best life right now and we won't get in the way of that! So just turn on MTV 80s and enjoy some iconic vids and huge anthems from back in the day.</desc>
+		<category>Music</category>
+	</programme>
+	<programme channel="MTV 80s" start="20220430070000 +0000" stop="20220430120000 +0000">
+		<title>Made in the 80s! Top 100</title>
+		<desc>We're counting down the biggest hits and sing-a-long smashes from the stars who made the 80s!</desc>
+		<category>Music</category>
+	</programme>
+	<programme channel="MTV 80s" start="20220430120000 +0000" stop="20220430160000 +0000">
+		<title>Made in the 80s! Top 100</title>
+		<desc>We're counting down the biggest hits and sing-a-long smashes from the stars who made the 80s!</desc>
+		<category>Music</category>
+	</programme>
+	<programme channel="MTV 80s" start="20220430160000 +0000" stop="20220430180000 +0000">
+		<title>Ultimate 20 80s Sing-Along</title>
+		<desc>80s radio legend Gary Davies counts down 20 of the best singalong tracks from the best decade ever! Hairbrush microphones at the ready people!</desc>
+		<category>Music</category>
+	</programme>
+	<programme channel="MTV 80s" start="20220430180000 +0000" stop="20220430194000 +0000">
+		<title>Top 20 Stock Aitken Waterman Hit Factory Hits!</title>
+		<desc>From Kylie and Jason, to Dead or Alive and Mel and Kim, we've lined up the very best of 80s pop perfection, Stock Aitken Waterman style. No Reynolds Girls, we promise!</desc>
+		<category>Music</category>
+	</programme>
+	<programme channel="MTV 80s" start="20220430194000 +0000" stop="20220501010000 +0000">
+		<title>Pump Up the House Party!</title>
+		<desc>We've chosen all of the best 80s hits to go into one epic 80s party playlist. So pump up the volume and get ready to dance with some classic 80s tunes!</desc>
+		<category>Music</category>
+	</programme>
+	<programme channel="MTV 80s" start="20220501010000 +0000" stop="20220501030000 +0000">
+		<title>Pump Up the House Party!</title>
+		<desc>We've chosen all of the best 80s hits to go into one epic 80s party playlist. So pump up the volume and get ready to dance with some classic 80s tunes!</desc>
+		<category>Music</category>
+	</programme>
+	<programme channel="MTV 80s" start="20220501030000 +0000" stop="20220501050000 +0000">
+		<title>Teleshopping</title>
+		<desc>Buying goods from the comfort of home.</desc>
+		<category>Lifestyle</category>
+	</programme>
+	<programme channel="MTV 80s" start="20220501050000 +0000" stop="20220501070000 +0000">
+		<title>The Sun Always Shines on MTV!</title>
+		<desc>You're probably busy living your best life right now and we won't get in the way of that! So just turn on MTV 80s and enjoy some iconic vids and huge anthems from back in the day.</desc>
+		<category>Music</category>
+	</programme>
+	<programme channel="MTV 80s" start="20220501070000 +0000" stop="20220501160000 +0000">
+		<title>Say I'm Your Number One! Top 100</title>
+		<desc>There's no denying the 80s gave us some cracking number one tracks that we still can't get enough of, so enjoy a bumper selection of the very best that made it all the way to the top!</desc>
+		<category>Music</category>
+	</programme>
+	<programme channel="MTV 80s" start="20220501160000 +0000" stop="20220501170000 +0000">
+		<title>This Week in 1987Official Rewind Chart</title>
+		<desc>We're hitting rewind as we take a look at the hits that made it into the Official UK Chart this week in 1987!</desc>
+		<category>Music</category>
+	</programme>
+	<programme channel="MTV 80s" start="20220501170000 +0000" stop="20220501180000 +0000">
+		<title>Phil Collins + GenesisBack 2 Back!</title>
+		<desc>We hope you're ready for some classic anthems as we bring you back to back hits from Phil Collins both solo and as part of Genesis!! Enjoy!</desc>
+		<category>Music</category>
+	</programme>
+	<programme channel="MTV 80s" start="20220501180000 +0000" stop="20220501220000 +0000">
+		<title>1985 Wrapped!</title>
+		<desc>We're powering-up the MTV time machine and going back to celebrate the best years of our lives! This time we land in 1985 and you can expect hits from Madonna, Tears For Fears and Eurythmics!</desc>
+		<category>Music</category>
+	</programme>
+	<programme channel="MTV 80s" start="20220501220000 +0000" stop="20220501230000 +0000">
+		<title>This Week in 1987Official Rewind Chart</title>
+		<desc>We're hitting rewind as we take a look at the hits that made it into the Official UK Chart this week in 1987!</desc>
+		<category>Music</category>
+	</programme>
+	<programme channel="MTV 80s" start="20220501230000 +0000" stop="20220502010000 +0000">
+		<title>It's An R&amp;B Thing!</title>
+		<desc>We've lined up a super special playlist packed with the biggest R&amp;B hits of the 80s!</desc>
+		<category>Music</category>
+	</programme>
+	<programme channel="MTV 80s" start="20220502010000 +0000" stop="20220502030000 +0000">
+		<title>I Want My MTV 80s!</title>
+		<desc>It's '80s month here at MTV and we're saluting big hair, power suits and a decade of pure pop icons. It's non-stop nostalgia right here at MTV 80s!</desc>
+		<category>Music</category>
+	</programme>
+	<programme channel="MTV 80s" start="20220502030000 +0000" stop="20220502050000 +0000">
+		<title>Teleshopping</title>
+		<desc>Buying goods from the comfort of home.</desc>
+		<category>Lifestyle</category>
+	</programme>
+	<programme channel="MTV 80s" start="20220502050000 +0000" stop="20220502070000 +0000">
+		<title>The Sun Always Shines on MTV!</title>
+		<desc>You're probably busy living your best life right now and we won't get in the way of that! So just turn on MTV 80s and enjoy some iconic vids and huge anthems from back in the day.</desc>
+		<category>Music</category>
+	</programme>
+	<programme channel="MTV 80s" start="20220502070000 +0000" stop="20220502080000 +0000">
+		<title>One Hour of One-Hit Wonders!</title>
+		<desc>The 1980s were packed with unforgettable (and forgettable!) one-hit wonders so we've lined up 60 minutes' worth, all from the decade we still can't get enough of!</desc>
+		<category>Music</category>
+	</programme>
+	<programme channel="MTV 80s" start="20220502080000 +0000" stop="20220502130000 +0000">
+		<title>Ultimate 50 80s Movie Soundtracks</title>
+		<desc>Top Gun, Footloose, Purple Rain need we say more? Sit back, relax and grab the popcorn because we're playing 50 of the best movie soundtracks from the 80s!</desc>
+		<category>Music</category>
+	</programme>
+	<programme channel="MTV 80s" start="20220502130000 +0000" stop="20220502150000 +0000">
+		<title>Ultimate 20 80s Sing-Along</title>
+		<desc>80s radio legend Gary Davies counts down 20 of the best singalong tracks from the best decade ever! Hairbrush microphones at the ready people!</desc>
+		<category>Music</category>
+	</programme>
+	<programme channel="MTV 80s" start="20220502150000 +0000" stop="20220502160000 +0000">
+		<title>This Week in 1987Official Rewind Chart</title>
+		<desc>We're hitting rewind as we take a look at the hits that made it into the Official UK Chart this week in 1987!</desc>
+		<category>Music</category>
+	</programme>
+	<programme channel="MTV 80s" start="20220502160000 +0000" stop="20220502180000 +0000">
+		<title>Top 20 Stock Aitken Waterman Hit Factory Hits!</title>
+		<desc>From Kylie and Jason, to Dead or Alive and Mel and Kim, we've lined up the very best of 80s pop perfection, Stock Aitken Waterman style. No Reynolds Girls, we promise!</desc>
+		<category>Music</category>
+	</programme>
+	<programme channel="MTV 80s" start="20220502180000 +0000" stop="20220502230000 +0000">
+		<title>Made in the 80s! Top 50</title>
+		<desc>We're counting down the biggest hits and sing-a-long smashes from the stars who made the 80s!</desc>
+		<category>Music</category>
+	</programme>
+	<programme channel="MTV 80s" start="20220502230000 +0000" stop="20220503010000 +0000">
+		<title>It's An R&amp;B Thing!</title>
+		<desc>We've lined up a super special playlist packed with the biggest R&amp;B hits of the 80s!</desc>
+		<category>Music</category>
+	</programme>
+	<programme channel="MTV 80s" start="20220503010000 +0000" stop="20220503030000 +0000">
+		<title>I Want My MTV 80s!</title>
+		<desc>It's '80s month here at MTV and we're saluting big hair, power suits and a decade of pure pop icons. It's non-stop nostalgia right here at MTV 80s!</desc>
+		<category>Music</category>
+	</programme>
+	<programme channel="MTV 80s" start="20220503030000 +0000" stop="20220503050000 +0000">
+		<title>Teleshopping</title>
+		<desc>Buying goods from the comfort of home.</desc>
+		<category>Lifestyle</category>
+	</programme>
+	<programme channel="MTV 80s" start="20220503050000 +0000" stop="20220503070000 +0000">
+		<title>The Sun Always Shines on MTV!</title>
+		<desc>You're probably busy living your best life right now and we won't get in the way of that! So just turn on MTV 80s and enjoy some iconic vids and huge anthems from back in the day.</desc>
+		<category>Music</category>
+	</programme>
+	<programme channel="MTV 80s" start="20220503070000 +0000" stop="20220503080000 +0000">
+		<title>One Hour of One-Hit Wonders!</title>
+		<desc>The 1980s were packed with unforgettable (and forgettable!) one-hit wonders so we've lined up 60 minutes' worth, all from the decade we still can't get enough of!</desc>
+		<category>Music</category>
+	</programme>
+	<programme channel="MTV 80s" start="20220503080000 +0000" stop="20220503120000 +0000">
+		<title>1985 Wrapped!</title>
+		<desc>We're powering-up the MTV time machine and going back to celebrate the best years of our lives! This time we land in 1985 and you can expect hits from Madonna, Tears For Fears and Eurythmics!</desc>
+		<category>Music</category>
+	</programme>
+	<programme channel="MTV 80s" start="20220503120000 +0000" stop="20220503130000 +0000">
+		<title>Phil Collins + GenesisBack 2 Back!</title>
+		<desc>We hope you're ready for some classic anthems as we bring you back to back hits from Phil Collins both solo and as part of Genesis!! Enjoy!</desc>
+		<category>Music</category>
+	</programme>
+	<programme channel="MTV 80s" start="20220503130000 +0000" stop="20220503180000 +0000">
+		<title>Made in the 80s! Top 50</title>
+		<desc>We're counting down the biggest hits and sing-a-long smashes from the stars who made the 80s!</desc>
+		<category>Music</category>
+	</programme>
+	<programme channel="MTV 80s" start="20220503180000 +0000" stop="20220503200000 +0000">
+		<title>Ultimate 20 80s Sing-Along</title>
+		<desc>80s radio legend Gary Davies counts down 20 of the best singalong tracks from the best decade ever! Hairbrush microphones at the ready people!</desc>
+		<category>Music</category>
+	</programme>
+	<programme channel="MTV 80s" start="20220503200000 +0000" stop="20220503210000 +0000">
+		<title>This Week in 1987Official Rewind Chart</title>
+		<desc>We're hitting rewind as we take a look at the hits that made it into the Official UK Chart this week in 1987!</desc>
+		<category>Music</category>
+	</programme>
+	<programme channel="MTV 80s" start="20220503210000 +0000" stop="20220503230000 +0000">
+		<title>Top 20 Stock Aitken Waterman Hit Factory Hits!</title>
+		<desc>From Kylie and Jason, to Dead or Alive and Mel and Kim, we've lined up the very best of 80s pop perfection, Stock Aitken Waterman style. No Reynolds Girls, we promise!</desc>
+		<category>Music</category>
+	</programme>
+	<programme channel="MTV 80s" start="20220503230000 +0000" stop="20220504010000 +0000">
+		<title>It's An R&amp;B Thing!</title>
+		<desc>We've lined up a super special playlist packed with the biggest R&amp;B hits of the 80s!</desc>
+		<category>Music</category>
+	</programme>
+	<programme channel="MTV 90s" start="20220429010000 +0000" stop="20220429030000 +0000">
+		<title>Non-Stop 90s Hits!</title>
+		<desc>Nothing but the biggest tracks and most iconic anthems of the 90s!</desc>
+		<category>Music</category>
+	</programme>
+	<programme channel="MTV 90s" start="20220429030000 +0000" stop="20220429050000 +0000">
+		<title>Teleshopping</title>
+		<desc>Buying goods from the comfort of home.</desc>
+		<category>Lifestyle</category>
+	</programme>
+	<programme channel="MTV 90s" start="20220429050000 +0000" stop="20220429070000 +0000">
+		<title>Non-Stop 90s Hits!</title>
+		<desc>Nothing but the biggest tracks and most iconic anthems of the 90s!</desc>
+		<category>Music</category>
+	</programme>
+	<programme channel="MTV 90s" start="20220429070000 +0000" stop="20220429080000 +0000">
+		<title>90sThe Decade Of Dance!</title>
+		<desc>The cream of 90s dance battles it out for the biggest club classics in one of the greatest eras for Dance music. What will make the cut?</desc>
+		<category>Music</category>
+	</programme>
+	<programme channel="MTV 90s" start="20220429080000 +0000" stop="20220429102500 +0000">
+		<title>1997Every Official Number 1!</title>
+		<desc>Take a trip down memory lane as we play every official Number 1 from the year 1997!(c)</desc>
+		<category>Music</category>
+	</programme>
+	<programme channel="MTV 90s" start="20220429102500 +0000" stop="20220429110000 +0000">
+		<title>Abba Gold30 Years Since</title>
+		<desc>We celebrate Abba Gold, the iconic greatest hits album of the Swedish superstars, that was first released 30 years agoway back in 1992!(c)</desc>
+		<category>Music</category>
+	</programme>
+	<programme channel="MTV 90s" start="20220429110000 +0000" stop="20220429120000 +0000">
+		<title>Bon Jovi In The 90s!</title>
+		<desc>Get ready to rock out to some of Bon Jovi's biggest hits from the 90s!</desc>
+		<category>Music</category>
+	</programme>
+	<programme channel="MTV 90s" start="20220429120000 +0000" stop="20220429150000 +0000">
+		<title>Every Dance No. 1 of the 90s!</title>
+		<desc>Dance helped define the 90s as a decade of iconic music so we've lined up every single dance track that hit the top spot and made it to number one!</desc>
+		<category>Music</category>
+	</programme>
+	<programme channel="MTV 90s" start="20220429150000 +0000" stop="20220429155500 +0000">
+		<title>This Week In 1991Official Rewind Chart!</title>
+		<desc>Rewind Chart! We're hitting rewind as we take a look at the hits that made it into the Official UK Chart this week in 1991!(c)</desc>
+		<category>Music</category>
+	</programme>
+	<programme channel="MTV 90s" start="20220429155500 +0000" stop="20220429160000 +0000">
+		<title>New Kids On The BlockBrand New Vid!</title>
+		<category>Music</category>
+	</programme>
+	<programme channel="MTV 90s" start="20220429160000 +0000" stop="20220429200000 +0000">
+		<title>Feel Good Friday! Bring It All Back!</title>
+		<desc>Back! 90s Pop 100. Check out 100 of the greatest pop anthems of the 90s! Expect Spice Girls, Take That, All Saints and more!(c)</desc>
+		<category>Music</category>
+	</programme>
+	<programme channel="MTV 90s" start="20220429200000 +0000" stop="20220430000500 +0000">
+		<title>Feel Good Friday! Bring It All Back!</title>
+		<desc>Back! 90s Pop 100. Check out 100 of the greatest pop anthems of the 90s! Expect Spice Girls, Take That, All Saints and more!(c)</desc>
+		<category>Music</category>
+	</programme>
+	<programme channel="MTV 90s" start="20220430000500 +0000" stop="20220430030000 +0000">
+		<title>Non-Stop 90s Hits!</title>
+		<desc>Nothing but the biggest tracks and most iconic anthems of the 90s!(c)</desc>
+		<category>Music</category>
+	</programme>
+	<programme channel="MTV 90s" start="20220430030000 +0000" stop="20220430050000 +0000">
+		<title>Teleshopping</title>
+		<desc>Buying goods from the comfort of home.</desc>
+		<category>Lifestyle</category>
+	</programme>
+	<programme channel="MTV 90s" start="20220430050000 +0000" stop="20220430070000 +0000">
+		<title>Non-Stop 90s Hits!</title>
+		<desc>Nothing but the biggest tracks and most iconic anthems of the 90s!</desc>
+		<category>Music</category>
+	</programme>
+	<programme channel="MTV 90s" start="20220430070000 +0000" stop="20220430075500 +0000">
+		<title>This Week In 1996Official Rewind Chart!</title>
+		<desc>We're hitting rewind as we take a look at the hits that made it into the Official UK Chart this week in 1996!</desc>
+		<category>Music</category>
+	</programme>
+	<programme channel="MTV 90s" start="20220430075500 +0000" stop="20220430080000 +0000">
+		<title>New Kids On The BlockBrand New Vid!</title>
+		<category>Music</category>
+	</programme>
+	<programme channel="MTV 90s" start="20220430080000 +0000" stop="20220430121500 +0000">
+		<title>School Disco Classics! Top 100</title>
+		<desc>We all know what goes on at school discos, but this playlist is nothing but wholesome and healthy fun for you and all your friends, yes sir!</desc>
+		<category>Music</category>
+	</programme>
+	<programme channel="MTV 90s" start="20220430121500 +0000" stop="20220430162000 +0000">
+		<title>School Disco Classics! Top 100</title>
+		<desc>We all know what goes on at school discos, but this playlist is nothing but wholesome and healthy fun for you and all your friends, yes sir!</desc>
+		<category>Music</category>
+	</programme>
+	<programme channel="MTV 90s" start="20220430162000 +0000" stop="20220430170000 +0000">
+		<title>Derry GirlsThe Soundtrack!</title>
+		<desc>Check out every classic hit and 90s bangers that feature on the soundtrack of the TV series 'Derry Girls'!</desc>
+		<category>Music</category>
+	</programme>
+	<programme channel="MTV 90s" start="20220430170000 +0000" stop="20220430190000 +0000">
+		<title>Ultimate 20 R+B &amp; Hip-Hop Hits of the 90s</title>
+		<desc>We count down 20 of the biggest and best R&amp;B and Hip-Hop hits from 1990-1999. Featuring huge tunes from The Fugees, En Vogue, Notorious BIG and many more!</desc>
+		<category>Music</category>
+	</programme>
+	<programme channel="MTV 90s" start="20220430190000 +0000" stop="20220430210000 +0000">
+		<title>Ultimate 20 90s Dance Anthems</title>
+		<desc>A countdown of party anthems from the decade.</desc>
+		<category>Action</category>
+	</programme>
+	<programme channel="MTV 90s" start="20220430210000 +0000" stop="20220501010000 +0000">
+		<title>This Is How We Do A 90s</title>
+		<desc>Houseparty! Whether you're having a houseparty or just jamming on the sofa, we 've got a playlist to make you feel alright! This is how MTV Base does a 90s houseparty.</desc>
+		<category>Action</category>
+	</programme>
+	<programme channel="MTV 90s" start="20220501010000 +0000" stop="20220501030000 +0000">
+		<title>Non-Stop 90s Hits!</title>
+		<desc>Nothing but the biggest tracks and most iconic anthems of the 90s!</desc>
+		<category>Music</category>
+	</programme>
+	<programme channel="MTV 90s" start="20220501030000 +0000" stop="20220501050000 +0000">
+		<title>Teleshopping</title>
+		<desc>Buying goods from the comfort of home.</desc>
+		<category>Lifestyle</category>
+	</programme>
+	<programme channel="MTV 90s" start="20220501050000 +0000" stop="20220501070000 +0000">
+		<title>Non-Stop 90s Hits!</title>
+		<desc>Nothing but the biggest tracks and most iconic anthems of the 90s!</desc>
+		<category>Music</category>
+	</programme>
+	<programme channel="MTV 90s" start="20220501070000 +0000" stop="20220501152000 +0000">
+		<title>Sing-A-Long Sunday! 100 Feelgood Anthems!</title>
+		<desc>MTV is sending out a feel good hug of music! Grab some pals and sing your hearts out to the ultimate sing-along party playlist of the greatest 100 Feel Good Anthems.</desc>
+		<category>Music</category>
+	</programme>
+	<programme channel="MTV 90s" start="20220501152000 +0000" stop="20220501160000 +0000">
+		<title>Abba Gold30 Years Since</title>
+		<desc>We celebrate Abba Gold, the iconic greatest hits album of the Swedish superstars, that was first released 30 years agoway back in 1992!</desc>
+		<category>Music</category>
+	</programme>
+	<programme channel="MTV 90s" start="20220501160000 +0000" stop="20220501170000 +0000">
+		<title>Bon Jovi In The 90s!</title>
+		<desc>Get ready to rock out to some of Bon Jovi's biggest hits from the 90s!</desc>
+		<category>Music</category>
+	</programme>
+	<programme channel="MTV 90s" start="20220501170000 +0000" stop="20220501175500 +0000">
+		<title>This Week In 1996Official Rewind Chart!</title>
+		<desc>We're hitting rewind as we take a look at the hits that made it into the Official UK Chart this week in 1996!</desc>
+		<category>Music</category>
+	</programme>
+	<programme channel="MTV 90s" start="20220501175500 +0000" stop="20220501180000 +0000">
+		<title>New Kids On The BlockBrand New Vid!</title>
+		<category>Music</category>
+	</programme>
+	<programme channel="MTV 90s" start="20220501180000 +0000" stop="20220501221000 +0000">
+		<title>Bank Holiday Weekend Party AnthemsTop 50</title>
+		<desc>We're taking a trip down memory lane and bringing back the nineties with this epic playlist of party anthems that were smashing the charts. See how many you can remember!</desc>
+		<category>Music</category>
+	</programme>
+	<programme channel="MTV 90s" start="20220501221000 +0000" stop="20220501230000 +0000">
+		<title>Derry GirlsThe Soundtrack!</title>
+		<desc>Check out every classic hit and 90s bangers that feature on the soundtrack of the TV series 'Derry Girls'!</desc>
+		<category>Music</category>
+	</programme>
+	<programme channel="MTV 90s" start="20220501230000 +0000" stop="20220502010000 +0000">
+		<title>Guitar Hits &amp; Indie Anthems!</title>
+		<desc>Get ready to rock out as we bring you a selection of the loudest guitar hits and indie anthems!</desc>
+		<category>Music</category>
+	</programme>
+	<programme channel="MTV 90s" start="20220502010000 +0000" stop="20220502030000 +0000">
+		<title>Non-Stop 90s Hits!</title>
+		<desc>Nothing but the biggest tracks and most iconic anthems of the 90s!</desc>
+		<category>Music</category>
+	</programme>
+	<programme channel="MTV 90s" start="20220502030000 +0000" stop="20220502050000 +0000">
+		<title>Teleshopping</title>
+		<desc>Buying goods from the comfort of home.</desc>
+		<category>Lifestyle</category>
+	</programme>
+	<programme channel="MTV 90s" start="20220502050000 +0000" stop="20220502070000 +0000">
+		<title>Non-Stop 90s Hits!</title>
+		<desc>Nothing but the biggest tracks and most iconic anthems of the 90s!</desc>
+		<category>Music</category>
+	</programme>
+	<programme channel="MTV 90s" start="20220502070000 +0000" stop="20220502080000 +0000">
+		<title>This Week In 1996Official Rewind Chart!</title>
+		<desc>We're hitting rewind as we take a look at the hits that made it into the Official UK Chart this week in 1996!</desc>
+		<category>Music</category>
+	</programme>
+	<programme channel="MTV 90s" start="20220502080000 +0000" stop="20220502170000 +0000">
+		<title>Big Bank Holiday PartyTop 100!</title>
+		<desc>We're taking a trip down memory lane and bringing back the nineties with this epic playlist of 100 party anthems that were smashing the charts it in that decade. See how many you can remember!</desc>
+		<category>Music</category>
+	</programme>
+	<programme channel="MTV 90s" start="20220502170000 +0000" stop="20220502220000 +0000">
+		<title>School Disco Classics! Top 50</title>
+		<desc>We all know what goes on at school discos, but this playlist is nothing but wholesome and healthy fun for you and all your friends, yes sir.</desc>
+		<category>Action</category>
+	</programme>
+	<programme channel="MTV 90s" start="20220502220000 +0000" stop="20220502230000 +0000">
+		<title>MTV's 90s Party Zone</title>
+		<desc>Glow sticks at the ready people because its time for MTV's 90s Party Zone! Featuring great music from Robin S, Ce Ce Peniston, Blackstreet and many more!</desc>
+		<category>Music</category>
+	</programme>
+	<programme channel="MTV 90s" start="20220502230000 +0000" stop="20220503000000 +0000">
+		<title>This Week In 1996Official Rewind Chart!</title>
+		<desc>We're hitting rewind as we take a look at the hits that made it into the Official UK Chart this week in 1996!</desc>
+		<category>Music</category>
+	</programme>
+	<programme channel="MTV 90s" start="20220503000000 +0000" stop="20220503010000 +0000">
+		<title>Guitar Hits &amp; Indie Anthems!</title>
+		<desc>Get ready to rock out as we bring you a selection of the loudest guitar hits and indie anthems!</desc>
+		<category>Music</category>
+	</programme>
+	<programme channel="MTV 90s" start="20220503010000 +0000" stop="20220503030000 +0000">
+		<title>Non-Stop 90s Hits!</title>
+		<desc>Nothing but the biggest tracks and most iconic anthems of the 90s!</desc>
+		<category>Music</category>
+	</programme>
+	<programme channel="MTV 90s" start="20220503030000 +0000" stop="20220503050000 +0000">
+		<title>Teleshopping</title>
+		<desc>Buying goods from the comfort of home.</desc>
+		<category>Lifestyle</category>
+	</programme>
+	<programme channel="MTV 90s" start="20220503050000 +0000" stop="20220503070000 +0000">
+		<title>Non-Stop 90s Hits!</title>
+		<desc>Nothing but the biggest tracks and most iconic anthems of the 90s!</desc>
+		<category>Music</category>
+	</programme>
+	<programme channel="MTV 90s" start="20220503070000 +0000" stop="20220503080000 +0000">
+		<title>Pop Goes The 90s!</title>
+		<desc>Embrace pop perfection with this 90s throwback playlist packed with classic tracks!</desc>
+		<category>Music</category>
+	</programme>
+	<programme channel="MTV 90s" start="20220503080000 +0000" stop="20220503120000 +0000">
+		<title>The 40 Greatest Love Songs!</title>
+		<category>Music</category>
+	</programme>
+	<programme channel="MTV 90s" start="20220503120000 +0000" stop="20220503130000 +0000">
+		<title>This Week In 1996Official Rewind Chart!</title>
+		<desc>We're hitting rewind as we take a look at the hits that made it into the Official UK Chart this week in 1996!</desc>
+		<category>Music</category>
+	</programme>
+	<programme channel="MTV 90s" start="20220503130000 +0000" stop="20220503180000 +0000">
+		<title>School Disco Classics! Top 50</title>
+		<desc>We all know what goes on at school discos, but this playlist is nothing but wholesome and healthy fun for you and all your friends, yes sir.</desc>
+		<category>Action</category>
+	</programme>
+	<programme channel="MTV 90s" start="20220503180000 +0000" stop="20220503200000 +0000">
+		<title>Ultimate 20 R+B &amp; Hip-Hop Hits of the 90s</title>
+		<desc>We count down 20 of the biggest and best R&amp;B and Hip-Hop hits from 1990-1999. Featuring huge tunes from The Fugees, En Vogue, Notorious BIG and many more!</desc>
+		<category>Music</category>
+	</programme>
+	<programme channel="MTV 90s" start="20220503200000 +0000" stop="20220503220000 +0000">
+		<title>Ultimate 20 90s Dance Anthems</title>
+		<desc>A countdown of party anthems from the decade.</desc>
+		<category>Action</category>
+	</programme>
+	<programme channel="MTV 90s" start="20220503220000 +0000" stop="20220503230000 +0000">
+		<title>Robbie WilliamsLet The 90s</title>
+		<desc>Entertain Us! Let us entertain you with a selection of classic 90s hits from the one and only Robbie Williams!</desc>
+		<category>Music</category>
+	</programme>
+	<programme channel="MTV 90s" start="20220503230000 +0000" stop="20220504000000 +0000">
+		<title>MTV Unplugged</title>
+		<desc>Another chance to see the grunge band's acclaimed 1993 acoustic set.</desc>
+		<category>Music</category>
+	</programme>
+	<programme channel="BET Jams" start="20220429000000 +0100" stop="20220429010000 +0100">
+		<title>Too Short Birthday Block</title>
+		<category>Music</category>
+	</programme>
+	<programme channel="BET Jams" start="20220429010000 +0100" stop="20220429020000 +0100">
+		<title>Music Playlist</title>
+		<desc>Music videos.</desc>
+		<category>Music</category>
+	</programme>
+	<programme channel="BET Jams" start="20220429020000 +0100" stop="20220429030000 +0100">
+		<title>Jams Top 10 Countdown</title>
+		<desc>Music Videos.</desc>
+		<category>Music</category>
+	</programme>
+	<programme channel="BET Jams" start="20220429030000 +0100" stop="20220429040000 +0100">
+		<title>Throwback Thursday</title>
+		<category>Music</category>
+	</programme>
+	<programme channel="BET Jams" start="20220429040000 +0100" stop="20220429050000 +0100">
+		<title>Music Playlist</title>
+		<desc>Music videos.</desc>
+		<category>Music</category>
+	</programme>
+	<programme channel="BET Jams" start="20220429050000 +0100" stop="20220429060000 +0100">
+		<title>Music Playlist</title>
+		<desc>Music videos.</desc>
+		<category>Music</category>
+	</programme>
+	<programme channel="BET Jams" start="20220429060000 +0100" stop="20220429070000 +0100">
+		<title>Throwback Thursday</title>
+		<desc>Today's pop hits.</desc>
+		<category>Music</category>
+	</programme>
+	<programme channel="BET Jams" start="20220429070000 +0100" stop="20220429080000 +0100">
+		<title>Music Playlist</title>
+		<desc>Music videos.</desc>
+		<category>Music</category>
+	</programme>
+	<programme channel="BET Jams" start="20220429080000 +0100" stop="20220429090000 +0100">
+		<title>Too Short Birthday Block</title>
+		<category>Music</category>
+	</programme>
+	<programme channel="BET Jams" start="20220429090000 +0100" stop="20220429100000 +0100">
+		<title>Music Playlist</title>
+		<desc>Music videos.</desc>
+		<category>Music</category>
+	</programme>
+	<programme channel="BET Jams" start="20220429100000 +0100" stop="20220429110000 +0100">
+		<title>Jams Top 10 Countdown</title>
+		<desc>Music Videos.</desc>
+		<category>Music</category>
+	</programme>
+	<programme channel="BET Jams" start="20220429110000 +0100" stop="20220429120000 +0100">
+		<title>Master P Birthday Block</title>
+		<category>Music</category>
+	</programme>
+	<programme channel="BET Jams" start="20220429120000 +0100" stop="20220429130000 +0100">
+		<title>Master P Birthday Block</title>
+		<category>Music</category>
+	</programme>
+	<programme channel="BET Jams" start="20220429130000 +0100" stop="20220429140000 +0100">
+		<title>Jams Top 10 Countdown</title>
+		<desc>Music Videos.</desc>
+		<category>Music</category>
+	</programme>
+	<programme channel="BET Jams" start="20220429140000 +0100" stop="20220429150000 +0100">
+		<title>Music Playlist</title>
+		<desc>Music videos.</desc>
+		<category>Music</category>
+	</programme>
+	<programme channel="BET Jams" start="20220429150000 +0100" stop="20220429160000 +0100">
+		<title>Music Playlist</title>
+		<desc>Music videos.</desc>
+		<category>Music</category>
+	</programme>
+	<programme channel="BET Jams" start="20220429160000 +0100" stop="20220429170000 +0100">
+		<title>Fresh Face Friday</title>
+		<desc>Music Videos.</desc>
+		<category>Music</category>
+	</programme>
+	<programme channel="BET Jams" start="20220429170000 +0100" stop="20220429180000 +0100">
+		<title>Music Playlist</title>
+		<desc>Music videos.</desc>
+		<category>Music</category>
+	</programme>
+	<programme channel="BET Jams" start="20220429180000 +0100" stop="20220429190000 +0100">
+		<title>Music Playlist</title>
+		<desc>Music videos.</desc>
+		<category>Music</category>
+	</programme>
+	<programme channel="BET Jams" start="20220429190000 +0100" stop="20220429200000 +0100">
+		<title>Master P Birthday Block</title>
+		<category>Music</category>
+	</programme>
+	<programme channel="BET Jams" start="20220429200000 +0100" stop="20220429210000 +0100">
+		<title>Master P Birthday Block</title>
+		<category>Music</category>
+	</programme>
+	<programme channel="BET Jams" start="20220429210000 +0100" stop="20220429220000 +0100">
+		<title>Jams Top 10 Countdown</title>
+		<desc>Music Videos.</desc>
+		<category>Music</category>
+	</programme>
+	<programme channel="BET Jams" start="20220429220000 +0100" stop="20220429230000 +0100">
+		<title>Music Playlist</title>
+		<desc>Music videos.</desc>
+		<category>Music</category>
+	</programme>
+	<programme channel="BET Jams" start="20220429230000 +0100" stop="20220430000000 +0100">
+		<title>Music Playlist</title>
+		<desc>Music videos.</desc>
+		<category>Music</category>
+	</programme>
+	<programme channel="BET Jams" start="20220430000000 +0100" stop="20220430010000 +0100">
+		<title>Fresh Face Friday</title>
+		<desc>Music Videos.</desc>
+		<category>Music</category>
+	</programme>
+	<programme channel="BET Jams" start="20220430010000 +0100" stop="20220430020000 +0100">
+		<title>Music Playlist</title>
+		<desc>Music videos.</desc>
+		<category>Music</category>
+	</programme>
+	<programme channel="BET Jams" start="20220430020000 +0100" stop="20220430030000 +0100">
+		<title>Music Playlist</title>
+		<desc>Music videos.</desc>
+		<category>Music</category>
+	</programme>
+	<programme channel="BET Jams" start="20220430030000 +0100" stop="20220430040000 +0100">
+		<title>Master P Birthday Block</title>
+		<category>Music</category>
+	</programme>
+	<programme channel="BET Jams" start="20220430040000 +0100" stop="20220430050000 +0100">
+		<title>Master P Birthday Block</title>
+		<category>Music</category>
+	</programme>
+	<programme channel="BET Jams" start="20220430050000 +0100" stop="20220430060000 +0100">
+		<title>Jams Top 10 Countdown</title>
+		<desc>Music Videos.</desc>
+		<category>Music</category>
+	</programme>
+	<programme channel="BET Jams" start="20220430060000 +0100" stop="20220430070000 +0100">
+		<title>Music Playlist</title>
+		<desc>Music videos.</desc>
+		<category>Music</category>
+	</programme>
+	<programme channel="BET Jams" start="20220430070000 +0100" stop="20220430080000 +0100">
+		<title>Music Playlist</title>
+		<desc>Music videos.</desc>
+		<category>Music</category>
+	</programme>
+	<programme channel="BET Jams" start="20220430080000 +0100" stop="20220430090000 +0100">
+		<title>Fresh Face Friday</title>
+		<desc>Music Videos.</desc>
+		<category>Music</category>
+	</programme>
+	<programme channel="BET Jams" start="20220430090000 +0100" stop="20220430100000 +0100">
+		<title>Music Playlist</title>
+		<desc>Music videos.</desc>
+		<category>Music</category>
+	</programme>
+	<programme channel="BET Jams" start="20220430100000 +0100" stop="20220430110000 +0100">
+		<title>Music Playlist</title>
+		<desc>Music videos.</desc>
+		<category>Music</category>
+	</programme>
+	<programme channel="BET Jams" start="20220430110000 +0100" stop="20220430120000 +0100">
+		<title>Travis Scott Birthday Block</title>
+		<category>Music</category>
+	</programme>
+	<programme channel="BET Jams" start="20220430120000 +0100" stop="20220430130000 +0100">
+		<title>Travis Scott Birthday Block</title>
+		<category>Music</category>
+	</programme>
+	<programme channel="BET Jams" start="20220430130000 +0100" stop="20220430140000 +0100">
+		<title>Music Playlist</title>
+		<desc>Music videos.</desc>
+		<category>Music</category>
+	</programme>
+	<programme channel="BET Jams" start="20220430140000 +0100" stop="20220430150000 +0100">
+		<title>Music Playlist</title>
+		<desc>Music videos.</desc>
+		<category>Music</category>
+	</programme>
+	<programme channel="BET Jams" start="20220430150000 +0100" stop="20220430160000 +0100">
+		<title>Multi-Birthday Block</title>
+		<category>Music</category>
+	</programme>
+	<programme channel="BET Jams" start="20220430160000 +0100" stop="20220430170000 +0100">
+		<title>Music Playlist</title>
+		<desc>Music videos.</desc>
+		<category>Music</category>
+	</programme>
+	<programme channel="BET Jams" start="20220430170000 +0100" stop="20220430180000 +0100">
+		<title>Jams Mixtape</title>
+		<desc>Music Videos.</desc>
+		<category>Music</category>
+	</programme>
+	<programme channel="BET Jams" start="20220430180000 +0100" stop="20220430190000 +0100">
+		<title>Music Playlist</title>
+		<desc>Music videos.</desc>
+		<category>Music</category>
+	</programme>
+	<programme channel="BET Jams" start="20220430190000 +0100" stop="20220430200000 +0100">
+		<title>Travis Scott Birthday Block</title>
+		<category>Music</category>
+	</programme>
+	<programme channel="BET Jams" start="20220430200000 +0100" stop="20220430210000 +0100">
+		<title>Travis Scott Birthday Block</title>
+		<category>Music</category>
+	</programme>
+	<programme channel="BET Jams" start="20220430210000 +0100" stop="20220430220000 +0100">
+		<title>Music Playlist</title>
+		<desc>Music videos.</desc>
+		<category>Music</category>
+	</programme>
+	<programme channel="BET Jams" start="20220430220000 +0100" stop="20220430230000 +0100">
+		<title>Music Playlist</title>
+		<desc>Music videos.</desc>
+		<category>Music</category>
+	</programme>
+	<programme channel="BET Jams" start="20220430230000 +0100" stop="20220501000000 +0100">
+		<title>Multi-Birthday Block</title>
+		<category>Music</category>
+	</programme>
+	<programme channel="BET Jams" start="20220501000000 +0100" stop="20220501010000 +0100">
+		<title>Music Playlist</title>
+		<desc>Music videos.</desc>
+		<category>Music</category>
+	</programme>
+	<programme channel="BET Jams" start="20220501010000 +0100" stop="20220501020000 +0100">
+		<title>Jams Mixtape</title>
+		<desc>Music Videos.</desc>
+		<category>Music</category>
+	</programme>
+	<programme channel="BET Jams" start="20220501020000 +0100" stop="20220501030000 +0100">
+		<title>Music Playlist</title>
+		<desc>Music videos.</desc>
+		<category>Music</category>
+	</programme>
+	<programme channel="BET Jams" start="20220501030000 +0100" stop="20220501040000 +0100">
+		<title>Travis Scott Birthday Block</title>
+		<category>Music</category>
+	</programme>
+	<programme channel="BET Jams" start="20220501040000 +0100" stop="20220501050000 +0100">
+		<title>Travis Scott Birthday Block</title>
+		<category>Music</category>
+	</programme>
+	<programme channel="BET Jams" start="20220501050000 +0100" stop="20220501060000 +0100">
+		<title>Music Playlist</title>
+		<desc>Music videos.</desc>
+		<category>Music</category>
+	</programme>
+	<programme channel="BET Jams" start="20220501060000 +0100" stop="20220501070000 +0100">
+		<title>Music Playlist</title>
+		<desc>Music videos.</desc>
+		<category>Music</category>
+	</programme>
+	<programme channel="BET Jams" start="20220501070000 +0100" stop="20220501080000 +0100">
+		<title>Multi-Birthday Block</title>
+		<category>Music</category>
+	</programme>
+	<programme channel="BET Jams" start="20220501080000 +0100" stop="20220501090000 +0100">
+		<title>Music Playlist</title>
+		<desc>Music videos.</desc>
+		<category>Music</category>
+	</programme>
+	<programme channel="BET Jams" start="20220501090000 +0100" stop="20220501100000 +0100">
+		<title>Jams Mixtape</title>
+		<desc>Music Videos.</desc>
+		<category>Music</category>
+	</programme>
+	<programme channel="BET Jams" start="20220501100000 +0100" stop="20220501110000 +0100">
+		<title>Music Playlist</title>
+		<desc>Music videos.</desc>
+		<category>Music</category>
+	</programme>
+	<programme channel="BET Jams" start="20220501110000 +0100" stop="20220501120000 +0100">
+		<title>Dirty South Sunday</title>
+		<desc>Music Videos.</desc>
+		<category>Music</category>
+	</programme>
+	<programme channel="BET Jams" start="20220501120000 +0100" stop="20220501130000 +0100">
+		<title>Music Playlist</title>
+		<desc>Music videos.</desc>
+		<category>Music</category>
+	</programme>
+	<programme channel="BET Jams" start="20220501130000 +0100" stop="20220501140000 +0100">
+		<title>Music Playlist</title>
+		<desc>Music videos.</desc>
+		<category>Music</category>
+	</programme>
+	<programme channel="BET Jams" start="20220501140000 +0100" stop="20220501150000 +0100">
+		<title>Kehlani Birthday Block</title>
+		<category>Music</category>
+	</programme>
+	<programme channel="BET Jams" start="20220501150000 +0100" stop="20220501160000 +0100">
+		<title>Music Playlist</title>
+		<desc>Music videos.</desc>
+		<category>Music</category>
+	</programme>
+	<programme channel="BET Jams" start="20220501160000 +0100" stop="20220501170000 +0100">
+		<title>Music Playlist</title>
+		<desc>Music videos.</desc>
+		<category>Music</category>
+	</programme>
+	<programme channel="BET Jams" start="20220501170000 +0100" stop="20220501180000 +0100">
+		<title>Jams Mixtape</title>
+		<desc>Music Videos.</desc>
+		<category>Music</category>
+	</programme>
+	<programme channel="BET Jams" start="20220501180000 +0100" stop="20220501190000 +0100">
+		<title>Music Playlist</title>
+		<desc>Music videos.</desc>
+		<category>Music</category>
+	</programme>
+	<programme channel="BET Jams" start="20220501190000 +0100" stop="20220501200000 +0100">
+		<title>Dirty South Sunday</title>
+		<desc>Music Videos.</desc>
+		<category>Music</category>
+	</programme>
+	<programme channel="BET Jams" start="20220501200000 +0100" stop="20220501210000 +0100">
+		<title>Music Playlist</title>
+		<desc>Music videos.</desc>
+		<category>Music</category>
+	</programme>
+	<programme channel="BET Jams" start="20220501210000 +0100" stop="20220501220000 +0100">
+		<title>Music Playlist</title>
+		<desc>Music videos.</desc>
+		<category>Music</category>
+	</programme>
+	<programme channel="BET Jams" start="20220501220000 +0100" stop="20220501230000 +0100">
+		<title>Kehlani Birthday Block</title>
+		<category>Music</category>
+	</programme>
+	<programme channel="BET Jams" start="20220501230000 +0100" stop="20220502000000 +0100">
+		<title>Music Playlist</title>
+		<desc>Music videos.</desc>
+		<category>Music</category>
+	</programme>
+	<programme channel="BET Jams" start="20220502000000 +0100" stop="20220502010000 +0100">
+		<title>Music Playlist</title>
+		<desc>Music videos.</desc>
+		<category>Music</category>
+	</programme>
+	<programme channel="BET Jams" start="20220502010000 +0100" stop="20220502020000 +0100">
+		<title>Jams Mixtape</title>
+		<desc>Music Videos.</desc>
+		<category>Music</category>
+	</programme>
+	<programme channel="BET Jams" start="20220502020000 +0100" stop="20220502030000 +0100">
+		<title>Music Playlist</title>
+		<desc>Music videos.</desc>
+		<category>Music</category>
+	</programme>
+	<programme channel="BET Jams" start="20220502030000 +0100" stop="20220502040000 +0100">
+		<title>Dirty South Sunday</title>
+		<desc>Music Videos.</desc>
+		<category>Music</category>
+	</programme>
+	<programme channel="BET Jams" start="20220502040000 +0100" stop="20220502050000 +0100">
+		<title>Music Playlist</title>
+		<desc>Music videos.</desc>
+		<category>Music</category>
+	</programme>
+	<programme channel="BET Jams" start="20220502050000 +0100" stop="20220502060000 +0100">
+		<title>Music Playlist</title>
+		<desc>Music videos.</desc>
+		<category>Music</category>
+	</programme>
+	<programme channel="BET Jams" start="20220502060000 +0100" stop="20220502070000 +0100">
+		<title>Kehlani Birthday Block</title>
+		<category>Music</category>
+	</programme>
+	<programme channel="BET Jams" start="20220502070000 +0100" stop="20220502080000 +0100">
+		<title>Music Playlist</title>
+		<desc>Music videos.</desc>
+		<category>Music</category>
+	</programme>
+	<programme channel="BET Jams" start="20220502080000 +0100" stop="20220502090000 +0100">
+		<title>Music Playlist</title>
+		<desc>Music videos.</desc>
+		<category>Music</category>
+	</programme>
+	<programme channel="BET Jams" start="20220502090000 +0100" stop="20220502100000 +0100">
+		<title>Jams Mixtape</title>
+		<desc>Music Videos.</desc>
+		<category>Music</category>
+	</programme>
+	<programme channel="BET Jams" start="20220502100000 +0100" stop="20220502110000 +0100">
+		<title>Music Playlist</title>
+		<desc>Music videos.</desc>
+		<category>Music</category>
+	</programme>
+	<programme channel="BET Jams" start="20220502110000 +0100" stop="20220502120000 +0100">
+		<title>Lisa 'Lefteye' Lopes Tribute Block</title>
+		<category>Music</category>
+	</programme>
+	<programme channel="BET Jams" start="20220502120000 +0100" stop="20220502130000 +0100">
+		<title>Jazze Pha Birthday/ Appreciation Block</title>
+		<category>Music</category>
+	</programme>
+	<programme channel="BET Jams" start="20220502130000 +0100" stop="20220502140000 +0100">
+		<title>Music Playlist</title>
+		<desc>Music videos.</desc>
+		<category>Music</category>
+	</programme>
+	<programme channel="BET Jams" start="20220502140000 +0100" stop="20220502150000 +0100">
+		<title>Music Playlist</title>
+		<desc>Music videos.</desc>
+		<category>Music</category>
+	</programme>
+	<programme channel="BET Jams" start="20220502150000 +0100" stop="20220502160000 +0100">
+		<title>Music Playlist</title>
+		<desc>Music videos.</desc>
+		<category>Music</category>
+	</programme>
+	<programme channel="BET Jams" start="20220502160000 +0100" stop="20220502170000 +0100">
+		<title>Music Playlist</title>
+		<desc>Music videos.</desc>
+		<category>Music</category>
+	</programme>
+	<programme channel="BET Jams" start="20220502170000 +0100" stop="20220502180000 +0100">
+		<title>Jams Top 10 Countdown</title>
+		<desc>Music Videos.</desc>
+		<category>Music</category>
+	</programme>
+	<programme channel="BET Jams" start="20220502180000 +0100" stop="20220502190000 +0100">
+		<title>God Bless the 90s</title>
+		<desc>Music Videos.</desc>
+		<category>Music</category>
+	</programme>
+	<programme channel="BET Jams" start="20220502190000 +0100" stop="20220502200000 +0100">
+		<title>Lisa 'Lefteye' Lopes Tribute Block</title>
+		<category>Music</category>
+	</programme>
+	<programme channel="BET Jams" start="20220502200000 +0100" stop="20220502210000 +0100">
+		<title>Jazze Pha Birthday/ Appreciation Block</title>
+		<category>Music</category>
+	</programme>
+	<programme channel="BET Jams" start="20220502210000 +0100" stop="20220502220000 +0100">
+		<title>Music Playlist</title>
+		<desc>Music videos.</desc>
+		<category>Music</category>
+	</programme>
+	<programme channel="BET Jams" start="20220502220000 +0100" stop="20220502230000 +0100">
+		<title>Music Playlist</title>
+		<desc>Music videos.</desc>
+		<category>Music</category>
+	</programme>
+	<programme channel="BET Jams" start="20220502230000 +0100" stop="20220503000000 +0100">
+		<title>Music Playlist</title>
+		<desc>Music videos.</desc>
+		<category>Music</category>
+	</programme>
+	<programme channel="BET Jams" start="20220503000000 +0100" stop="20220503010000 +0100">
+		<title>Music Playlist</title>
+		<desc>Music videos.</desc>
+		<category>Music</category>
+	</programme>
+	<programme channel="BET Jams" start="20220503010000 +0100" stop="20220503020000 +0100">
+		<title>Jams Top 10 Countdown</title>
+		<desc>Music Videos.</desc>
+		<category>Music</category>
+	</programme>
+	<programme channel="BET Jams" start="20220503020000 +0100" stop="20220503030000 +0100">
+		<title>God Bless the 90s</title>
+		<desc>Music Videos.</desc>
+		<category>Music</category>
+	</programme>
+	<programme channel="BET Jams" start="20220503030000 +0100" stop="20220503040000 +0100">
+		<title>Lisa 'Lefteye' Lopes Tribute Block</title>
+		<category>Music</category>
+	</programme>
+	<programme channel="BET Jams" start="20220503040000 +0100" stop="20220503050000 +0100">
+		<title>Jazze Pha Birthday/ Appreciation Block</title>
+		<category>Music</category>
+	</programme>
+	<programme channel="BET Jams" start="20220503050000 +0100" stop="20220503060000 +0100">
+		<title>Music Playlist</title>
+		<desc>Music videos.</desc>
+		<category>Music</category>
+	</programme>
+	<programme channel="BET Jams" start="20220503060000 +0100" stop="20220503070000 +0100">
+		<title>Music Playlist</title>
+		<desc>Music videos.</desc>
+		<category>Music</category>
+	</programme>
+	<programme channel="BET Jams" start="20220503070000 +0100" stop="20220503080000 +0100">
+		<title>Music Playlist</title>
+		<desc>Music videos.</desc>
+		<category>Music</category>
+	</programme>
+	<programme channel="BET Jams" start="20220503080000 +0100" stop="20220503090000 +0100">
+		<title>Music Playlist</title>
+		<desc>Music videos.</desc>
+		<category>Music</category>
+	</programme>
+	<programme channel="BET Jams" start="20220503090000 +0100" stop="20220503100000 +0100">
+		<title>Jams Top 10 Countdown</title>
+		<desc>Music Videos.</desc>
+		<category>Music</category>
+	</programme>
+	<programme channel="BET Jams" start="20220503100000 +0100" stop="20220503110000 +0100">
+		<title>God Bless the 90s</title>
+		<desc>Music Videos.</desc>
+		<category>Music</category>
+	</programme>
+	<programme channel="BET Jams" start="20220503110000 +0100" stop="20220503120000 +0100">
+		<title>International Jams</title>
+		<category>Music</category>
+	</programme>
+	<programme channel="BET Jams" start="20220503120000 +0100" stop="20220503130000 +0100">
+		<title>Jams Top 10 Countdown</title>
+		<desc>Music Videos.</desc>
+		<category>Music</category>
+	</programme>
+	<programme channel="BET Jams" start="20220503130000 +0100" stop="20220503140000 +0100">
+		<title>Music Playlist</title>
+		<desc>Music videos.</desc>
+		<category>Music</category>
+	</programme>
+	<programme channel="BET Jams" start="20220503140000 +0100" stop="20220503150000 +0100">
+		<title>Avant/ T-Boz Birthday Block</title>
+		<category>Music</category>
+	</programme>
+	<programme channel="BET Jams" start="20220503150000 +0100" stop="20220503160000 +0100">
+		<title>Music Playlist</title>
+		<desc>Music videos.</desc>
+		<category>Music</category>
+	</programme>
+	<programme channel="BET Jams" start="20220503160000 +0100" stop="20220503170000 +0100">
+		<title>Music Playlist</title>
+		<desc>Music videos.</desc>
+		<category>Music</category>
+	</programme>
+	<programme channel="BET Jams" start="20220503170000 +0100" stop="20220503180000 +0100">
+		<title>Music Playlist</title>
+		<desc>Music videos.</desc>
+		<category>Music</category>
+	</programme>
+	<programme channel="BET Jams" start="20220503180000 +0100" stop="20220503190000 +0100">
+		<title>Music Playlist</title>
+		<desc>Music videos.</desc>
+		<category>Music</category>
+	</programme>
+	<programme channel="BET Jams" start="20220503190000 +0100" stop="20220503200000 +0100">
+		<title>International Jams</title>
+		<category>Music</category>
+	</programme>
+	<programme channel="BET Jams" start="20220503200000 +0100" stop="20220503210000 +0100">
+		<title>Jams Top 10 Countdown</title>
+		<desc>Music Videos.</desc>
+		<category>Music</category>
+	</programme>
+	<programme channel="BET Jams" start="20220503210000 +0100" stop="20220503220000 +0100">
+		<title>Music Playlist</title>
+		<desc>Music videos.</desc>
+		<category>Music</category>
+	</programme>
+	<programme channel="BET Jams" start="20220503220000 +0100" stop="20220503230000 +0100">
+		<title>Avant/ T-Boz Birthday Block</title>
+		<category>Music</category>
+	</programme>
+	<programme channel="BET Jams" start="20220503230000 +0100" stop="20220504000000 +0100">
+		<title>Music Playlist</title>
+		<desc>Music videos.</desc>
+		<category>Music</category>
+	</programme>
+	<programme channel="BET Soul" start="20220429000000 +0100" stop="20220429010000 +0100">
+		<title>The Soul Story</title>
+		<desc>Creates a narrative by playing a series of music videos chronologically.</desc>
+		<category>Music</category>
+	</programme>
+	<programme channel="BET Soul" start="20220429010000 +0100" stop="20220429020000 +0100">
+		<title>The Soul Player</title>
+		<desc>Playing cool soul videos.</desc>
+		<category>Music</category>
+	</programme>
+	<programme channel="BET Soul" start="20220429020000 +0100" stop="20220429030000 +0100">
+		<title>The Soul Player</title>
+		<desc>Playing cool soul videos.</desc>
+		<category>Music</category>
+	</programme>
+	<programme channel="BET Soul" start="20220429030000 +0100" stop="20220429040000 +0100">
+		<title>The Soul Player</title>
+		<desc>Playing cool soul videos.</desc>
+		<category>Music</category>
+	</programme>
+	<programme channel="BET Soul" start="20220429040000 +0100" stop="20220429050000 +0100">
+		<title>The Soul Player</title>
+		<desc>Playing cool soul videos.</desc>
+		<category>Music</category>
+	</programme>
+	<programme channel="BET Soul" start="20220429050000 +0100" stop="20220429060000 +0100">
+		<title>Soulphrodisiac</title>
+		<desc>Your favourite mix of soul music.</desc>
+		<category>Music</category>
+	</programme>
+	<programme channel="BET Soul" start="20220429060000 +0100" stop="20220429070000 +0100">
+		<title>Top 10Best in Soul</title>
+		<desc>Top 10 music videos by R&amp;B and hip-hop artists.</desc>
+		<category>Music</category>
+	</programme>
+	<programme channel="BET Soul" start="20220429070000 +0100" stop="20220429080000 +0100">
+		<title>Speak Your Soul</title>
+		<category>Music</category>
+	</programme>
+	<programme channel="BET Soul" start="20220429080000 +0100" stop="20220429090000 +0100">
+		<title>The Soul Story</title>
+		<desc>Creates a narrative by playing a series of music videos chronologically.</desc>
+		<category>Music</category>
+	</programme>
+	<programme channel="BET Soul" start="20220429090000 +0100" stop="20220429100000 +0100">
+		<title>The Soul Player</title>
+		<desc>Playing cool soul videos.</desc>
+		<category>Music</category>
+	</programme>
+	<programme channel="BET Soul" start="20220429100000 +0100" stop="20220429110000 +0100">
+		<title>The Soul Player</title>
+		<desc>Playing cool soul videos.</desc>
+		<category>Music</category>
+	</programme>
+	<programme channel="BET Soul" start="20220429110000 +0100" stop="20220429120000 +0100">
+		<title>The Soul Player</title>
+		<desc>Playing cool soul videos.</desc>
+		<category>Music</category>
+	</programme>
+	<programme channel="BET Soul" start="20220429120000 +0100" stop="20220429130000 +0100">
+		<title>The Soul Player</title>
+		<desc>Playing cool soul videos.</desc>
+		<category>Music</category>
+	</programme>
+	<programme channel="BET Soul" start="20220429130000 +0100" stop="20220429140000 +0100">
+		<title>Live Soul</title>
+		<category>Music</category>
+	</programme>
+	<programme channel="BET Soul" start="20220429140000 +0100" stop="20220429150000 +0100">
+		<title>Soul Squared</title>
+		<desc>Compares two different music videos from one artist.</desc>
+		<category>Music</category>
+	</programme>
+	<programme channel="BET Soul" start="20220429150000 +0100" stop="20220429160000 +0100">
+		<title>Sub Soul</title>
+		<desc>Airs music videos made by unknown and independent recording artists.</desc>
+		<category>Music</category>
+	</programme>
+	<programme channel="BET Soul" start="20220429160000 +0100" stop="20220429170000 +0100">
+		<title>Soul School</title>
+		<desc>Retro music videos from the 1980s and 1990s.</desc>
+		<category>Music</category>
+	</programme>
+	<programme channel="BET Soul" start="20220429170000 +0100" stop="20220429180000 +0100">
+		<title>The Soul Player</title>
+		<desc>Playing cool soul videos.</desc>
+		<category>Music</category>
+	</programme>
+	<programme channel="BET Soul" start="20220429180000 +0100" stop="20220429190000 +0100">
+		<title>The Soul Player</title>
+		<desc>Playing cool soul videos.</desc>
+		<category>Music</category>
+	</programme>
+	<programme channel="BET Soul" start="20220429190000 +0100" stop="20220429200000 +0100">
+		<title>The Soul Player</title>
+		<desc>Playing cool soul videos.</desc>
+		<category>Music</category>
+	</programme>
+	<programme channel="BET Soul" start="20220429200000 +0100" stop="20220429210000 +0100">
+		<title>The Soul Player</title>
+		<desc>Playing cool soul videos.</desc>
+		<category>Music</category>
+	</programme>
+	<programme channel="BET Soul" start="20220429210000 +0100" stop="20220429220000 +0100">
+		<title>Live Soul</title>
+		<category>Music</category>
+	</programme>
+	<programme channel="BET Soul" start="20220429220000 +0100" stop="20220429230000 +0100">
+		<title>Soul Squared</title>
+		<desc>Compares two different music videos from one artist.</desc>
+		<category>Music</category>
+	</programme>
+	<programme channel="BET Soul" start="20220429230000 +0100" stop="20220430000000 +0100">
+		<title>Sub Soul</title>
+		<desc>Airs music videos made by unknown and independent recording artists.</desc>
+		<category>Music</category>
+	</programme>
+	<programme channel="BET Soul" start="20220430000000 +0100" stop="20220430010000 +0100">
+		<title>Soul School</title>
+		<desc>Retro music videos from the 1980s and 1990s.</desc>
+		<category>Music</category>
+	</programme>
+	<programme channel="BET Soul" start="20220430010000 +0100" stop="20220430020000 +0100">
+		<title>The Soul Player</title>
+		<desc>Playing cool soul videos.</desc>
+		<category>Music</category>
+	</programme>
+	<programme channel="BET Soul" start="20220430020000 +0100" stop="20220430030000 +0100">
+		<title>The Soul Player</title>
+		<desc>Playing cool soul videos.</desc>
+		<category>Music</category>
+	</programme>
+	<programme channel="BET Soul" start="20220430030000 +0100" stop="20220430040000 +0100">
+		<title>The Soul Player</title>
+		<desc>Playing cool soul videos.</desc>
+		<category>Music</category>
+	</programme>
+	<programme channel="BET Soul" start="20220430040000 +0100" stop="20220430050000 +0100">
+		<title>The Soul Player</title>
+		<desc>Playing cool soul videos.</desc>
+		<category>Music</category>
+	</programme>
+	<programme channel="BET Soul" start="20220430050000 +0100" stop="20220430060000 +0100">
+		<title>Live Soul</title>
+		<category>Music</category>
+	</programme>
+	<programme channel="BET Soul" start="20220430060000 +0100" stop="20220430070000 +0100">
+		<title>Soul Squared</title>
+		<desc>Compares two different music videos from one artist.</desc>
+		<category>Music</category>
+	</programme>
+	<programme channel="BET Soul" start="20220430070000 +0100" stop="20220430080000 +0100">
+		<title>Sub Soul</title>
+		<desc>Airs music videos made by unknown and independent recording artists.</desc>
+		<category>Music</category>
+	</programme>
+	<programme channel="BET Soul" start="20220430080000 +0100" stop="20220430090000 +0100">
+		<title>Soul School</title>
+		<desc>Retro music videos from the 1980s and 1990s.</desc>
+		<category>Music</category>
+	</programme>
+	<programme channel="BET Soul" start="20220430090000 +0100" stop="20220430100000 +0100">
+		<title>The Soul Player</title>
+		<desc>Playing cool soul videos.</desc>
+		<category>Music</category>
+	</programme>
+	<programme channel="BET Soul" start="20220430100000 +0100" stop="20220430110000 +0100">
+		<title>The Soul Player</title>
+		<desc>Playing cool soul videos.</desc>
+		<category>Music</category>
+	</programme>
+	<programme channel="BET Soul" start="20220430110000 +0100" stop="20220430120000 +0100">
+		<title>The Soul Player</title>
+		<desc>Playing cool soul videos.</desc>
+		<category>Music</category>
+	</programme>
+	<programme channel="BET Soul" start="20220430120000 +0100" stop="20220430130000 +0100">
+		<title>The Soul Player</title>
+		<desc>Playing cool soul videos.</desc>
+		<category>Music</category>
+	</programme>
+	<programme channel="BET Soul" start="20220430130000 +0100" stop="20220430140000 +0100">
+		<title>Island Soul</title>
+		<desc>Music videos from the 1990s to today including calypso, dancehall, ska and reggae.</desc>
+		<category>Music</category>
+	</programme>
+	<programme channel="BET Soul" start="20220430140000 +0100" stop="20220430150000 +0100">
+		<title>Top 10Best in Soul</title>
+		<desc>Top 10 music videos by R&amp;B and hip-hop artists.</desc>
+		<category>Music</category>
+	</programme>
+	<programme channel="BET Soul" start="20220430150000 +0100" stop="20220430160000 +0100">
+		<title>Speak Your Soul</title>
+		<category>Music</category>
+	</programme>
+	<programme channel="BET Soul" start="20220430160000 +0100" stop="20220430170000 +0100">
+		<title>The Soul Story</title>
+		<desc>Creates a narrative by playing a series of music videos chronologically.</desc>
+		<category>Music</category>
+	</programme>
+	<programme channel="BET Soul" start="20220430170000 +0100" stop="20220430180000 +0100">
+		<title>The Soul Player</title>
+		<desc>Playing cool soul videos.</desc>
+		<category>Music</category>
+	</programme>
+	<programme channel="BET Soul" start="20220430180000 +0100" stop="20220430190000 +0100">
+		<title>The Soul Player</title>
+		<desc>Playing cool soul videos.</desc>
+		<category>Music</category>
+	</programme>
+	<programme channel="BET Soul" start="20220430190000 +0100" stop="20220430200000 +0100">
+		<title>The Soul Player</title>
+		<desc>Playing cool soul videos.</desc>
+		<category>Music</category>
+	</programme>
+	<programme channel="BET Soul" start="20220430200000 +0100" stop="20220430210000 +0100">
+		<title>The Soul Player</title>
+		<desc>Playing cool soul videos.</desc>
+		<category>Music</category>
+	</programme>
+	<programme channel="BET Soul" start="20220430210000 +0100" stop="20220430220000 +0100">
+		<title>Island Soul</title>
+		<desc>Music videos from the 1990s to today including calypso, dancehall, ska and reggae.</desc>
+		<category>Music</category>
+	</programme>
+	<programme channel="BET Soul" start="20220430220000 +0100" stop="20220430230000 +0100">
+		<title>Top 10Best in Soul</title>
+		<desc>Top 10 music videos by R&amp;B and hip-hop artists.</desc>
+		<category>Music</category>
+	</programme>
+	<programme channel="BET Soul" start="20220430230000 +0100" stop="20220501000000 +0100">
+		<title>Speak Your Soul</title>
+		<category>Music</category>
+	</programme>
+	<programme channel="BET Soul" start="20220501000000 +0100" stop="20220501010000 +0100">
+		<title>The Soul Story</title>
+		<desc>Creates a narrative by playing a series of music videos chronologically.</desc>
+		<category>Music</category>
+	</programme>
+	<programme channel="BET Soul" start="20220501010000 +0100" stop="20220501020000 +0100">
+		<title>The Soul Player</title>
+		<desc>Playing cool soul videos.</desc>
+		<category>Music</category>
+	</programme>
+	<programme channel="BET Soul" start="20220501020000 +0100" stop="20220501030000 +0100">
+		<title>The Soul Player</title>
+		<desc>Playing cool soul videos.</desc>
+		<category>Music</category>
+	</programme>
+	<programme channel="BET Soul" start="20220501030000 +0100" stop="20220501040000 +0100">
+		<title>The Soul Player</title>
+		<desc>Playing cool soul videos.</desc>
+		<category>Music</category>
+	</programme>
+	<programme channel="BET Soul" start="20220501040000 +0100" stop="20220501050000 +0100">
+		<title>The Soul Player</title>
+		<desc>Playing cool soul videos.</desc>
+		<category>Music</category>
+	</programme>
+	<programme channel="BET Soul" start="20220501050000 +0100" stop="20220501060000 +0100">
+		<title>Island Soul</title>
+		<desc>Music videos from the 1990s to today including calypso, dancehall, ska and reggae.</desc>
+		<category>Music</category>
+	</programme>
+	<programme channel="BET Soul" start="20220501060000 +0100" stop="20220501070000 +0100">
+		<title>Top 10Best in Soul</title>
+		<desc>Top 10 music videos by R&amp;B and hip-hop artists.</desc>
+		<category>Music</category>
+	</programme>
+	<programme channel="BET Soul" start="20220501070000 +0100" stop="20220501080000 +0100">
+		<title>Speak Your Soul</title>
+		<category>Music</category>
+	</programme>
+	<programme channel="BET Soul" start="20220501080000 +0100" stop="20220501090000 +0100">
+		<title>The Soul Story</title>
+		<desc>Creates a narrative by playing a series of music videos chronologically.</desc>
+		<category>Music</category>
+	</programme>
+	<programme channel="BET Soul" start="20220501090000 +0100" stop="20220501100000 +0100">
+		<title>The Soul Player</title>
+		<desc>Playing cool soul videos.</desc>
+		<category>Music</category>
+	</programme>
+	<programme channel="BET Soul" start="20220501100000 +0100" stop="20220501110000 +0100">
+		<title>The Soul Player</title>
+		<desc>Playing cool soul videos.</desc>
+		<category>Music</category>
+	</programme>
+	<programme channel="BET Soul" start="20220501110000 +0100" stop="20220501120000 +0100">
+		<title>The Soul Player</title>
+		<desc>Playing cool soul videos.</desc>
+		<category>Music</category>
+	</programme>
+	<programme channel="BET Soul" start="20220501120000 +0100" stop="20220501130000 +0100">
+		<title>The Soul Player</title>
+		<desc>Playing cool soul videos.</desc>
+		<category>Music</category>
+	</programme>
+	<programme channel="BET Soul" start="20220501130000 +0100" stop="20220501140000 +0100">
+		<title>Soulphrodisiac</title>
+		<desc>Your favourite mix of soul music.</desc>
+		<category>Music</category>
+	</programme>
+	<programme channel="BET Soul" start="20220501140000 +0100" stop="20220501150000 +0100">
+		<title>Soul Squared</title>
+		<desc>Compares two different music videos from one artist.</desc>
+		<category>Music</category>
+	</programme>
+	<programme channel="BET Soul" start="20220501150000 +0100" stop="20220501160000 +0100">
+		<title>Sub Soul</title>
+		<desc>Airs music videos made by unknown and independent recording artists.</desc>
+		<category>Music</category>
+	</programme>
+	<programme channel="BET Soul" start="20220501160000 +0100" stop="20220501170000 +0100">
+		<title>Soul School</title>
+		<desc>Retro music videos from the 1980s and 1990s.</desc>
+		<category>Music</category>
+	</programme>
+	<programme channel="BET Soul" start="20220501170000 +0100" stop="20220501180000 +0100">
+		<title>The Soul Player</title>
+		<desc>Playing cool soul videos.</desc>
+		<category>Music</category>
+	</programme>
+	<programme channel="BET Soul" start="20220501180000 +0100" stop="20220501190000 +0100">
+		<title>The Soul Player</title>
+		<desc>Playing cool soul videos.</desc>
+		<category>Music</category>
+	</programme>
+	<programme channel="BET Soul" start="20220501190000 +0100" stop="20220501200000 +0100">
+		<title>The Soul Player</title>
+		<desc>Playing cool soul videos.</desc>
+		<category>Music</category>
+	</programme>
+	<programme channel="BET Soul" start="20220501200000 +0100" stop="20220501210000 +0100">
+		<title>The Soul Player</title>
+		<desc>Playing cool soul videos.</desc>
+		<category>Music</category>
+	</programme>
+	<programme channel="BET Soul" start="20220501210000 +0100" stop="20220501220000 +0100">
+		<title>Soulphrodisiac</title>
+		<desc>Your favourite mix of soul music.</desc>
+		<category>Music</category>
+	</programme>
+	<programme channel="BET Soul" start="20220501220000 +0100" stop="20220501230000 +0100">
+		<title>Soul Squared</title>
+		<desc>Compares two different music videos from one artist.</desc>
+		<category>Music</category>
+	</programme>
+	<programme channel="BET Soul" start="20220501230000 +0100" stop="20220502000000 +0100">
+		<title>Sub Soul</title>
+		<desc>Airs music videos made by unknown and independent recording artists.</desc>
+		<category>Music</category>
+	</programme>
+	<programme channel="BET Soul" start="20220502000000 +0100" stop="20220502010000 +0100">
+		<title>Soul School</title>
+		<desc>Retro music videos from the 1980s and 1990s.</desc>
+		<category>Music</category>
+	</programme>
+	<programme channel="BET Soul" start="20220502010000 +0100" stop="20220502020000 +0100">
+		<title>The Soul Player</title>
+		<desc>Playing cool soul videos.</desc>
+		<category>Music</category>
+	</programme>
+	<programme channel="BET Soul" start="20220502020000 +0100" stop="20220502030000 +0100">
+		<title>The Soul Player</title>
+		<desc>Playing cool soul videos.</desc>
+		<category>Music</category>
+	</programme>
+	<programme channel="BET Soul" start="20220502030000 +0100" stop="20220502040000 +0100">
+		<title>The Soul Player</title>
+		<desc>Playing cool soul videos.</desc>
+		<category>Music</category>
+	</programme>
+	<programme channel="BET Soul" start="20220502040000 +0100" stop="20220502040000 +0100">
+		<title>The Soul Player</title>
+		<desc>Playing cool soul videos.</desc>
+		<category>Music</category>
+	</programme>
+	<programme channel="BET Soul" start="20220502040000 +0100" stop="20220502110000 +0100">
+		<title>The Soul Player</title>
+		<desc>Playing cool soul videos.</desc>
+		<category>Music</category>
+	</programme>
+	<programme channel="BET Soul" start="20220502110000 +0100" stop="20220502120000 +0100">
+		<title>The Soul Player</title>
+		<desc>Playing cool soul videos.</desc>
+		<category>Music</category>
+	</programme>
+	<programme channel="BET Soul" start="20220502120000 +0100" stop="20220502130000 +0100">
+		<title>The Soul Player</title>
+		<desc>Playing cool soul videos.</desc>
+		<category>Music</category>
+	</programme>
+	<programme channel="BET Soul" start="20220502130000 +0100" stop="20220502140000 +0100">
+		<title>Soulphrodisiac</title>
+		<desc>Your favourite mix of soul music.</desc>
+		<category>Music</category>
+	</programme>
+	<programme channel="BET Soul" start="20220502140000 +0100" stop="20220502150000 +0100">
+		<title>Soul Squared</title>
+		<desc>Compares two different music videos from one artist.</desc>
+		<category>Music</category>
+	</programme>
+	<programme channel="BET Soul" start="20220502150000 +0100" stop="20220502160000 +0100">
+		<title>Sub Soul</title>
+		<desc>Airs music videos made by unknown and independent recording artists.</desc>
+		<category>Music</category>
+	</programme>
+	<programme channel="BET Soul" start="20220502160000 +0100" stop="20220502170000 +0100">
+		<title>Soul School</title>
+		<desc>Retro music videos from the 1980s and 1990s.</desc>
+		<category>Music</category>
+	</programme>
+	<programme channel="BET Soul" start="20220502170000 +0100" stop="20220502180000 +0100">
+		<title>The Soul Player</title>
+		<desc>Playing cool soul videos.</desc>
+		<category>Music</category>
+	</programme>
+	<programme channel="BET Soul" start="20220502180000 +0100" stop="20220502190000 +0100">
+		<title>The Soul Player</title>
+		<desc>Playing cool soul videos.</desc>
+		<category>Music</category>
+	</programme>
+	<programme channel="BET Soul" start="20220502190000 +0100" stop="20220502200000 +0100">
+		<title>The Soul Player</title>
+		<desc>Playing cool soul videos.</desc>
+		<category>Music</category>
+	</programme>
+	<programme channel="BET Soul" start="20220502200000 +0100" stop="20220502210000 +0100">
+		<title>The Soul Player</title>
+		<desc>Playing cool soul videos.</desc>
+		<category>Music</category>
+	</programme>
+	<programme channel="BET Soul" start="20220502210000 +0100" stop="20220502220000 +0100">
+		<title>Soulphrodisiac</title>
+		<desc>Your favourite mix of soul music.</desc>
+		<category>Music</category>
+	</programme>
+	<programme channel="BET Soul" start="20220502220000 +0100" stop="20220502230000 +0100">
+		<title>Soul Squared</title>
+		<desc>Compares two different music videos from one artist.</desc>
+		<category>Music</category>
+	</programme>
+	<programme channel="BET Soul" start="20220502230000 +0100" stop="20220503000000 +0100">
+		<title>Sub Soul</title>
+		<desc>Airs music videos made by unknown and independent recording artists.</desc>
+		<category>Music</category>
+	</programme>
+	<programme channel="BET Soul" start="20220503000000 +0100" stop="20220503010000 +0100">
+		<title>Soul School</title>
+		<desc>Retro music videos from the 1980s and 1990s.</desc>
+		<category>Music</category>
+	</programme>
+	<programme channel="BET Soul" start="20220503010000 +0100" stop="20220503020000 +0100">
+		<title>The Soul Player</title>
+		<desc>Playing cool soul videos.</desc>
+		<category>Music</category>
+	</programme>
+	<programme channel="BET Soul" start="20220503020000 +0100" stop="20220503030000 +0100">
+		<title>The Soul Player</title>
+		<desc>Playing cool soul videos.</desc>
+		<category>Music</category>
+	</programme>
+	<programme channel="BET Soul" start="20220503030000 +0100" stop="20220503040000 +0100">
+		<title>The Soul Player</title>
+		<desc>Playing cool soul videos.</desc>
+		<category>Music</category>
+	</programme>
+	<programme channel="BET Soul" start="20220503040000 +0100" stop="20220503050000 +0100">
+		<title>The Soul Player</title>
+		<desc>Playing cool soul videos.</desc>
+		<category>Music</category>
+	</programme>
+	<programme channel="BET Soul" start="20220503050000 +0100" stop="20220503060000 +0100">
+		<title>Soulphrodisiac</title>
+		<desc>Your favourite mix of soul music.</desc>
+		<category>Music</category>
+	</programme>
+	<programme channel="BET Soul" start="20220503060000 +0100" stop="20220503070000 +0100">
+		<title>Soul Squared</title>
+		<desc>Compares two different music videos from one artist.</desc>
+		<category>Music</category>
+	</programme>
+	<programme channel="BET Soul" start="20220503070000 +0100" stop="20220503080000 +0100">
+		<title>Sub Soul</title>
+		<desc>Airs music videos made by unknown and independent recording artists.</desc>
+		<category>Music</category>
+	</programme>
+	<programme channel="BET Soul" start="20220503080000 +0100" stop="20220503090000 +0100">
+		<title>Soul School</title>
+		<desc>Retro music videos from the 1980s and 1990s.</desc>
+		<category>Music</category>
+	</programme>
+	<programme channel="BET Soul" start="20220503090000 +0100" stop="20220503100000 +0100">
+		<title>The Soul Player</title>
+		<desc>Playing cool soul videos.</desc>
+		<category>Music</category>
+	</programme>
+	<programme channel="BET Soul" start="20220503100000 +0100" stop="20220503110000 +0100">
+		<title>The Soul Player</title>
+		<desc>Playing cool soul videos.</desc>
+		<category>Music</category>
+	</programme>
+	<programme channel="BET Soul" start="20220503110000 +0100" stop="20220503120000 +0100">
+		<title>The Soul Player</title>
+		<desc>Playing cool soul videos.</desc>
+		<category>Music</category>
+	</programme>
+	<programme channel="BET Soul" start="20220503120000 +0100" stop="20220503130000 +0100">
+		<title>The Soul Player</title>
+		<desc>Playing cool soul videos.</desc>
+		<category>Music</category>
+	</programme>
+	<programme channel="BET Soul" start="20220503130000 +0100" stop="20220503140000 +0100">
+		<title>Live Soul</title>
+		<category>Music</category>
+	</programme>
+	<programme channel="BET Soul" start="20220503140000 +0100" stop="20220503150000 +0100">
+		<title>Top 10Best in Soul</title>
+		<desc>Top 10 music videos by R&amp;B and hip-hop artists.</desc>
+		<category>Music</category>
+	</programme>
+	<programme channel="BET Soul" start="20220503150000 +0100" stop="20220503160000 +0100">
+		<title>Speak Your Soul</title>
+		<category>Music</category>
+	</programme>
+	<programme channel="BET Soul" start="20220503160000 +0100" stop="20220503170000 +0100">
+		<title>The Soul Story</title>
+		<desc>Creates a narrative by playing a series of music videos chronologically.</desc>
+		<category>Music</category>
+	</programme>
+	<programme channel="BET Soul" start="20220503170000 +0100" stop="20220503180000 +0100">
+		<title>The Soul Player</title>
+		<desc>Playing cool soul videos.</desc>
+		<category>Music</category>
+	</programme>
+	<programme channel="BET Soul" start="20220503180000 +0100" stop="20220503190000 +0100">
+		<title>The Soul Player</title>
+		<desc>Playing cool soul videos.</desc>
+		<category>Music</category>
+	</programme>
+	<programme channel="BET Soul" start="20220503190000 +0100" stop="20220503200000 +0100">
+		<title>The Soul Player</title>
+		<desc>Playing cool soul videos.</desc>
+		<category>Music</category>
+	</programme>
+	<programme channel="BET Soul" start="20220503200000 +0100" stop="20220503210000 +0100">
+		<title>The Soul Player</title>
+		<desc>Playing cool soul videos.</desc>
+		<category>Music</category>
+	</programme>
+	<programme channel="BET Soul" start="20220503210000 +0100" stop="20220503220000 +0100">
+		<title>Live Soul</title>
+		<category>Music</category>
+	</programme>
+	<programme channel="BET Soul" start="20220503220000 +0100" stop="20220503230000 +0100">
+		<title>Top 10Best in Soul</title>
+		<desc>Top 10 music videos by R&amp;B and hip-hop artists.</desc>
+		<category>Music</category>
+	</programme>
+	<programme channel="BET Soul" start="20220503230000 +0100" stop="20220504000000 +0100">
+		<title>Speak Your Soul</title>
+		<category>Music</category>
+	</programme>
+</tv>
